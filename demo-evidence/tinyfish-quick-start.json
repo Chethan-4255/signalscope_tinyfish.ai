@@ -1,0 +1,1044 @@
+{
+  "id": "b8fc02b6-78b9-42b2-9a61-71b7775e972d",
+  "status": "complete",
+  "url": "https://docs.tinyfish.ai/quick-start",
+  "query": "tinyfish quick start",
+  "queryMode": "provided",
+  "checkedAt": "2026-10-08T14:14:54.836Z",
+  "durationMs": 3933,
+  "stages": [
+    {
+      "endpoint": "Search",
+      "purpose": "Check URL-specific discovery (site: query)",
+      "status": "complete",
+      "durationMs": 558,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read live page content and metadata (Markdown)",
+      "status": "complete",
+      "durationMs": 1834,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Measure visibility for the target query",
+      "status": "complete",
+      "durationMs": 217,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Measure visibility for an alternate phrasing",
+      "status": "complete",
+      "durationMs": 534,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Probe robots.txt, llms.txt and sitemap.xml for AI-crawler policy",
+      "status": "complete",
+      "durationMs": 2430,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read raw HTML to audit <head>, structured data and heading outline",
+      "status": "complete",
+      "durationMs": 2466,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read the top competing results to compare answer coverage",
+      "status": "complete",
+      "durationMs": 1354,
+      "calls": 1
+    }
+  ],
+  "searches": [
+    {
+      "query": "site:docs.tinyfish.ai/quick-start",
+      "kind": "discovery",
+      "results": [
+        {
+          "position": 1,
+          "title": "Quick Start - TinyFish Web Agent",
+          "url": "https://docs.tinyfish.ai/quick-start",
+          "snippet": "In this guide you'll run a single automation that visits a live store, reads the page like a person would, and returns the first two product names and prices",
+          "site_name": "docs.tinyfish.ai"
+        }
+      ]
+    },
+    {
+      "query": "tinyfish quick start",
+      "kind": "target",
+      "results": [
+        {
+          "position": 1,
+          "title": "Quick Start - TinyFish Web Agent",
+          "url": "https://docs.tinyfish.ai/quick-start",
+          "snippet": "In this guide you'll run a single automation that visits a live store, reads the page like a person would, and returns the first two product names and prices",
+          "site_name": "docs.tinyfish.ai"
+        },
+        {
+          "position": 2,
+          "title": "TinyFish — Web Infrastructure for AI Agents",
+          "url": "https://www.tinyfish.ai/",
+          "snippet": "TinyFish provides enterprise infrastructure for AI web agents. Run hundreds of websites simultaneously to navigate, authenticate, extract data, and automate ...",
+          "site_name": "www.tinyfish.ai"
+        },
+        {
+          "position": 3,
+          "title": "Getting Started with TinyFish: Your First Web Agent in 10 M…",
+          "url": "https://www.tinyfish.ai/blog/tinyfish-web-agent-getting-started-10-minutes",
+          "snippet": "Step 1: Get Your API Key Go to agent.tinyfish.ai/sign-up and create a free account. Step 2: Run Your First Agent (30 Seconds) Run pip install ...",
+          "site_name": "www.tinyfish.ai"
+        },
+        {
+          "position": 4,
+          "title": "TinyFish Developer Documentation - TinyFish Web Agent",
+          "url": "https://docs.tinyfish.ai/",
+          "snippet": "Quick Start. Run your first integration in minutes ; Authentication. Set up API keys and MCP auth ; For Coding Agents. Single-page context for Claude, Codex, and ...",
+          "site_name": "docs.tinyfish.ai"
+        },
+        {
+          "position": 5,
+          "title": "TinyFish AI Review - (2026) I Tested an AI Agent That Browses ...",
+          "url": "https://www.youtube.com/watch?v=YDWNz2XzLTU",
+          "snippet": "This TinyFish AI Review explores how the platform approaches web automation by handling tasks in one place, helping users collect data, design ...",
+          "site_name": "www.youtube.com"
+        },
+        {
+          "position": 6,
+          "title": "TinyFish Launches All in One Web API for AI Agents : r/aicuriosity",
+          "url": "https://www.reddit.com/r/aicuriosity/comments/1sle2e5/tinyfish_launches_all_in_one_web_api_for_ai_agents/",
+          "snippet": "TinyFish rolled out a new all in one web API built specifically for AI agents. It brings together four core capabilities under a single key ...",
+          "site_name": "www.reddit.com"
+        },
+        {
+          "position": 7,
+          "title": "tinyfish-cookbook/README.md at main",
+          "url": "https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+          "snippet": "Welcome to the TinyFish Cookbook! A growing collection of recipes, demos, and automations built on TinyFish — the web layer for AI agents.",
+          "site_name": "github.com"
+        },
+        {
+          "position": 8,
+          "title": "About TinyFish - Enterprise Web Agent Platform",
+          "url": "https://www.tinyfish.ai/about",
+          "snippet": "TinyFish builds enterprise infrastructure for AI web agents. Hundreds of thousands of agents run monthly for Google, DoorDash, ClassPass, and Fortune 500 ...",
+          "site_name": "www.tinyfish.ai"
+        },
+        {
+          "position": 9,
+          "title": "TinyFish Launches Full Web Infrastructure Platform for AI ...",
+          "url": "https://www.reddit.com/r/machinelearningnews/comments/1slgbg5/tinyfish_launches_full_web_infrastructure/",
+          "snippet": "TinyFish Launches Full Web Infrastructure Platform for AI Agents — Search, Fetch, Browser, and Agent Under One API Key. Cool Stuff.",
+          "site_name": "www.reddit.com"
+        },
+        {
+          "position": 10,
+          "title": "Search and Fetch are now FREE for every agent ...",
+          "url": "https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere",
+          "snippet": "Getting started. Three steps. 1. Sign up at agent.tinyfish.ai and grab your API key. 2. Pick your surface.",
+          "site_name": "www.tinyfish.ai"
+        }
+      ]
+    },
+    {
+      "query": "how to tinyfish quick start",
+      "kind": "alternate",
+      "results": [
+        {
+          "position": 1,
+          "title": "Quick Start - TinyFish Web Agent",
+          "url": "https://docs.tinyfish.ai/quick-start",
+          "snippet": "Quick Start · Go to the API Keys page · Click “Create API Key” · Save the key to your shell environment so the SDKs and CLI can read it automatically.",
+          "site_name": "docs.tinyfish.ai"
+        },
+        {
+          "position": 2,
+          "title": "Getting Started with TinyFish: Your First Web Agent in 10 M…",
+          "url": "https://www.tinyfish.ai/blog/tinyfish-web-agent-getting-started-10-minutes",
+          "snippet": "Getting Started with TinyFish: Your First Web Agent in 10 Minutes · Step 1: Get Your API Key · Step 2: Run Your First Agent (30 Seconds) · Step ...",
+          "site_name": "www.tinyfish.ai"
+        },
+        {
+          "position": 3,
+          "title": "New Tiny Fish AI Just Changed Everything!",
+          "url": "https://www.youtube.com/watch?v=Rd4VCFK0VOY&xstg=CAMSBhUDze3xHw%3D%3D",
+          "snippet": "Tiny Fish AI has removed the paywall for web search and fetching, allowing AI agents to access the live web for free. Discover how this update ...",
+          "site_name": "www.youtube.com"
+        },
+        {
+          "position": 4,
+          "title": "TinyFish — Web Infrastructure for AI Agents",
+          "url": "https://www.tinyfish.ai/",
+          "snippet": "TinyFish provides enterprise infrastructure for AI web agents. Run hundreds of websites simultaneously to navigate, authenticate, extract data, and automate ...",
+          "site_name": "www.tinyfish.ai"
+        },
+        {
+          "position": 5,
+          "title": "TinyFish Launches All in One Web API for AI Agents : r/aicuriosity",
+          "url": "https://www.reddit.com/r/aicuriosity/comments/1sle2e5/tinyfish_launches_all_in_one_web_api_for_ai_agents/",
+          "snippet": "TinyFish rolled out a new all in one web API. It brings together four core capabilities under a single key search fetch browser and full agent ...",
+          "site_name": "www.reddit.com"
+        },
+        {
+          "position": 6,
+          "title": "TinyFish Developer Documentation - TinyFish Web Agent",
+          "url": "https://docs.tinyfish.ai/",
+          "snippet": "Quick Start. Run your first integration in minutes ; Authentication. Set up API keys and MCP auth ; For Coding Agents. Single-page context for Claude, Codex, and ...",
+          "site_name": "docs.tinyfish.ai"
+        },
+        {
+          "position": 7,
+          "title": "TinyFish AI Review - (2026) I Tested an AI Agent That Browses ...",
+          "url": "https://www.youtube.com/watch?v=YDWNz2XzLTU&xstg=CAMSBhUDze3xHw%3D%3D",
+          "snippet": "This TinyFish AI Review explores how the platform approaches web automation by handling tasks in one place, helping users collect data, design ...",
+          "site_name": "www.youtube.com"
+        },
+        {
+          "position": 8,
+          "title": "TinyFish Launches Full Web Infrastructure Platform for AI ...",
+          "url": "https://www.reddit.com/r/machinelearningnews/comments/1slgbg5/tinyfish_launches_full_web_infrastructure/",
+          "snippet": "TinyFish Launches Full Web Infrastructure Platform for AI Agents — Search, Fetch, Browser, and Agent Under One API Key. Cool Stuff.",
+          "site_name": "www.reddit.com"
+        },
+        {
+          "position": 9,
+          "title": "tinyfish-cookbook/README.md at main",
+          "url": "https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+          "snippet": "Welcome to the TinyFish Cookbook! A growing collection of recipes, demos, and automations built on TinyFish — the web layer for AI agents.",
+          "site_name": "github.com"
+        },
+        {
+          "position": 10,
+          "title": "Search and Fetch are now FREE for every agent ...",
+          "url": "https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere",
+          "snippet": "Getting started. Three steps. 1. Sign up at agent.tinyfish.ai and grab your API key. 2. Pick your surface.",
+          "site_name": "www.tinyfish.ai"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "url": "https://docs.tinyfish.ai/quick-start",
+    "final_url": "https://docs.tinyfish.ai/quick-start",
+    "title": "Quick Start - TinyFish Web Agent",
+    "description": "Get your first web automation running in under 5 minutes",
+    "language": "en",
+    "text": "In this guide you’ll run a single automation that visits a live store, reads the\npage like a person would, and returns the first two product names and prices as\nstructured JSON — no selectors, no scraping rules, just a goal in plain English.\n\nExpected result\n\n```\n{\n  \"products\": [\n    { \"name\": \"Bulbasaur\", \"price\": \"£63.00\" },\n    { \"name\": \"Ivysaur\", \"price\": \"£87.00\" }\n  ]\n}\n```\n\nPick the language you’ll build in (Python, TypeScript, the CLI, or raw cURL) and\nfollow the same five steps.\n\n1\n\nSign in to TinyFish\n\nSign up for a new account, or\nlog in if you already have one. New\naccounts start with $8 of free usage, so you can run this example right\naway. If a billing error does come up, see\nTroubleshooting for how to fix it.\n\n2\n\nGet your API key\n\n1. Go to the API Keys page\n2. Click “Create API Key”\n3. Save the key to your shell environment so the SDKs and CLI can read it automatically\n\nAPI keys are shown only once, at creation. Store them securely and never commit them to version control.\n\n```\nexport TINYFISH_API_KEY=sk-tinyfish-*****\n```\n\n3\n\nInstall the SDK\n\nInstall the package for your language. The SDKs and CLI read\n`TINYFISH_API_KEY` from your environment, so there’s nothing else to configure.\n\n```\n# A virtual environment keeps the install isolated and works on\n# macOS Homebrew Python, which blocks system-wide pip (PEP 668).\npython3 -m venv .venv && source .venv/bin/activate\npip install tinyfish\n```\n\n```\nnpm i @tiny-fish/sdk\n# The SDK is ESM-only. Add \"type\": \"module\" so tsx loads it correctly.\nnpm pkg set type=module\n```\n\n```\nnpm install -g @tiny-fish/cli\n```\n\n```\n# No install needed — cURL ships with macOS and most Linux distros.\ncurl --version\n```\n\n4\n\nWrite your automation\n\nCreate a file with the minimal code to navigate to the store and extract\nproduct data using natural language. (cURL users can skip straight to the\nnext step.)\n\n```\n# first_automation.py\nfrom tinyfish import TinyFish, CompleteEvent\n\nclient = TinyFish()  # Reads TINYFISH_API_KEY from environment\n\n# Stream the automation and print the structured result\nwith client.agent.stream(\n    url=\"https://scrapeme.live/shop\",  # Target website to automate\n    goal=\"Extract the first 2 product names and prices. Return as JSON.\",\n) as stream:\n    for event in stream:\n        if isinstance(event, CompleteEvent):\n            print(event.result_json)\n```\n\n```\n// first-automation.ts\nimport { TinyFish } from \"@tiny-fish/sdk\";\n\nasync function main() {\n  const client = new TinyFish();  // Reads TINYFISH_API_KEY from environment\n\n  const stream = await client.agent.stream({\n    url: \"https://scrapeme.live/shop\",  // Target website to automate\n    goal: \"Extract the first 2 product names and prices\",  // Natural language instruction\n  });\n\n  for await (const event of stream) {\n    if (event.type === \"COMPLETE\") {\n      console.log(event.result);\n    }\n  }\n}\n\nmain();\n```\n\n```\n# No file to write — the CLI takes the goal and URL as arguments (see the next step).\n```\n\n```\n# No file to write — send the goal and URL as a JSON body (see the next step).\n```\n\nThe `goal` is a plain-English instruction. See the Prompting Guide and Structured Output to reliably get JSON shaped exactly how you want it.\n\n5\n\nRun it\n\nExecute your automation. Each tab runs against the same goal and URL.\n\n```\npython first_automation.py\n```\n\n```\nnpx tsx first-automation.ts\n```\n\n```\ntinyfish agent run \"Extract the first 2 product names and prices\" \\\n  --url https://scrapeme.live/shop --pretty\n```\n\n```\ncurl -N -X POST https://agent.tinyfish.ai/v1/automation/run-sse \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"url\": \"https://scrapeme.live/shop\",\n    \"goal\": \"Extract the first 2 product names and prices\"\n  }'\n```\n\n6\n\nVerify the output\n\nWhat you see depends on how you ran the automation.**Python, TypeScript, and cURL** stream raw Server-Sent Events as the agent works. The final `COMPLETE` event carries your result:\n\n```\n{'type': 'STARTED', 'run_id': 'abc123'}\n{'type': 'STREAMING_URL', 'run_id': 'abc123', 'streaming_url': 'https://tf-abc123.fra0-tinyfish.unikraft.app/stream/0'}\n{'type': 'PROGRESS', 'run_id': 'abc123', 'purpose': 'Visit the page to extract product information'}\n{'type': 'PROGRESS', 'run_id': 'abc123', 'purpose': 'Check for product information on the page'}\n{'type': 'COMPLETE', 'run_id': 'abc123', 'status': 'COMPLETED', 'result': {\n  \"products\": [\n    { \"name\": \"Bulbasaur\", \"price\": \"£63.00\" },\n    { \"name\": \"Ivysaur\", \"price\": \"£87.00\" }\n  ]\n}}\n```\n\n**The CLI** consumes the same events but the `--pretty` flag renders them as a readable summary instead of raw JSON:\n\n```\n▶ Run started\n• Visit the page to extract product information\n• Check for product information on the page\n✓ Completed\n\n{\"products\": [{\"name\": \"Bulbasaur\", \"price\": \"£63.00\"}, {\"name\": \"Ivysaur\", \"price\": \"£87.00\"}]}\n\nView run: https://agent.tinyfish.ai/runs/abc123\n```\n\nEither way, the `result` is the same structured payload — pick whichever format fits your workflow.\n\n##  Check your wallet balance\n\nIf your account is on TinyFish’s wallet billing, automations draw from your wallet balance. Check your balance, auto-reload state, and rates any time:\n\n```\nfrom tinyfish import TinyFish\n\nclient = TinyFish()  # Reads TINYFISH_API_KEY from environment\n\nwallet = client.wallet.get()\nprint(f\"{wallet.available_balance} {wallet.currency}\")\n```\n\n```\nimport { TinyFish } from \"@tiny-fish/sdk\";\n\nconst client = new TinyFish();  // Reads TINYFISH_API_KEY from environment\n\nconst wallet = await client.wallet.get();\nconsole.log(`${wallet.available_balance} ${wallet.currency}`);\n```\n\n```\ntinyfish wallet status --pretty\n```\n\nAccounts are on either wallet billing or a legacy subscription/credits plan. If yours is on the legacy plan, `GET /v1/wallet` returns a 404 with `error.code: \"FEATURE_NOT_AVAILABLE\"` — check your account at agent.tinyfish.ai/api-keys instead.\n\n##  Troubleshooting\n\nMissing dependency or command not found\n\nThe package isn’t installed for the language you’re running.\n\n* **Python** — `ModuleNotFoundError: No module named 'tinyfish'` → `pip install tinyfish`\n* **TypeScript** — `Cannot find module '@tiny-fish/sdk'` → `npm i @tiny-fish/sdk`\n* **CLI** — `command not found: tinyfish` → `npm install -g @tiny-fish/cli`\n\npip install fails on macOS\n\nHomebrew Python (3.11+) blocks system-wide `pip install` by default (PEP 668), so you’ll see `error: externally-managed-environment`. Create a virtual environment first, then install:\n\n```\npython3 -m venv .venv\nsource .venv/bin/activate\npip install tinyfish\npython first_automation.py\n```\n\nYou only need to run the first two lines once per project. After that, just `source .venv/bin/activate` to re-enter the environment.\n\ntsx fails with ERR\\_PACKAGE\\_PATH\\_NOT\\_EXPORTED\n\n`@tiny-fish/sdk` ships as ESM only, but `tsx` defaults to CommonJS, so you’ll see `Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No \"exports\" main defined`. Tell Node to treat your project as ESM by adding `\"type\": \"module\"` to `package.json`:\n\n```\nnpm pkg set type=module\n```\n\nThen re-run `npx tsx first-automation.ts`.\n\nInvalid or missing API key\n\nRequests fail with a `401` or an authentication error.\n\n* Confirm the key is set: `echo $TINYFISH_API_KEY` should print a value starting with `sk-tinyfish-`. If it’s empty, re-run the `export` command from the “Get your API key” step above.\n* If the key is wrong or lost, generate a new one on the API Keys page — keys are shown only once on creation, so you can’t recover an old one.\n\nInsufficient credits\n\nThe run is rejected because your account doesn’t have enough balance to start it. Accounts are on either wallet billing or a legacy subscription/credits plan.\n\n* **Wallet accounts:** check your balance with `GET /v1/wallet` (or `client.wallet.get()`, `tinyfish wallet status`) and add funds on the wallet page — minimum top-up is $10.\n* **Legacy subscription/credit accounts:** top up credits, or switch to a workspace that has them, then retry.\n* Not sure which you’re on? `GET /v1/wallet` returns 404 `FEATURE_NOT_AVAILABLE` if your account isn’t wallet-enabled.\n* See Error Codes for the full error shape.\n\n##  Next Steps\n\nWhere you go next depends on what you’re trying to build.\n\n\n| Your goal | Start here |\n| --- | --- |\n| Building an app on the API | Agent API Reference |\n| Need stable, predictable output | Structured Output |\n| Real-world scraping examples | Examples |\n| Hard sites or bot protection | Anti-Bot Guide · Browser Profiles |\n\n## Agent API Reference\n\nStreaming, async runs, and endpoint selection\n\n## Structured Output\n\nGet consistent JSON shaped to your schema\n\n## Examples\n\nCopy-paste ready code for real use cases\n\n## Anti-Bot Guide\n\nHandle protected and high-friction sites",
+    "author": null,
+    "published_date": null,
+    "links": [
+      "https://docs.tinyfish.ai/llms.txt",
+      "https://docs.tinyfish.ai/quick-start#content-area",
+      "https://agent.tinyfish.ai",
+      "https://agent.tinyfish.ai/api-keys",
+      "https://agent.tinyfish.ai/api-keys",
+      "https://docs.tinyfish.ai/",
+      "https://docs.tinyfish.ai/api-reference/automation/run-browser-automation-with-sse-streaming",
+      "https://github.com/tinyfish-io/tinyfish-cookbook",
+      "https://docs.tinyfish.ai/",
+      "https://docs.tinyfish.ai/quick-start",
+      "https://docs.tinyfish.ai/authentication",
+      "https://docs.tinyfish.ai/for-coding-agents",
+      "https://docs.tinyfish.ai/agent-api",
+      "https://docs.tinyfish.ai/agent-api/reference",
+      "https://docs.tinyfish.ai/agent-api/browser-context-profiles",
+      "https://docs.tinyfish.ai/key-concepts/endpoints",
+      "https://docs.tinyfish.ai/key-concepts/runs",
+      "https://docs.tinyfish.ai/key-concepts/goals",
+      "https://docs.tinyfish.ai/key-concepts/structured-output",
+      "https://docs.tinyfish.ai/prompting-guide",
+      "https://docs.tinyfish.ai/search-api",
+      "https://docs.tinyfish.ai/search-api/reference",
+      "https://docs.tinyfish.ai/search-api/examples",
+      "https://docs.tinyfish.ai/monitor",
+      "https://docs.tinyfish.ai/monitor/api-reference",
+      "https://docs.tinyfish.ai/fetch-api",
+      "https://docs.tinyfish.ai/fetch-api/reference",
+      "https://docs.tinyfish.ai/fetch-api/examples",
+      "https://docs.tinyfish.ai/browser-api",
+      "https://docs.tinyfish.ai/browser-api/reference",
+      "https://docs.tinyfish.ai/browser-api/examples",
+      "https://docs.tinyfish.ai/research-api",
+      "https://docs.tinyfish.ai/research-api/reference",
+      "https://docs.tinyfish.ai/research-api/examples",
+      "https://docs.tinyfish.ai/key-concepts/browser-context-profiles",
+      "https://docs.tinyfish.ai/key-concepts/browser-profiles",
+      "https://docs.tinyfish.ai/key-concepts/proxies",
+      "https://docs.tinyfish.ai/live-preview",
+      "https://docs.tinyfish.ai/using-with-ai",
+      "https://docs.tinyfish.ai/plugins",
+      "https://docs.tinyfish.ai/cli",
+      "https://docs.tinyfish.ai/cli/commands",
+      "https://docs.tinyfish.ai/mcp-integration",
+      "https://docs.tinyfish.ai/integrations/n8n",
+      "https://docs.tinyfish.ai/integrations/dify",
+      "https://docs.tinyfish.ai/common-patterns",
+      "https://docs.tinyfish.ai/anti-bot-guide",
+      "https://docs.tinyfish.ai/webhooks",
+      "https://docs.tinyfish.ai/examples/scraping",
+      "https://docs.tinyfish.ai/examples/form-filling",
+      "https://docs.tinyfish.ai/examples/bulk-requests-sync",
+      "https://docs.tinyfish.ai/examples/bulk-requests-async",
+      "https://docs.tinyfish.ai/error-codes",
+      "https://docs.tinyfish.ai/faq",
+      "https://agent.tinyfish.ai/sign-up",
+      "https://agent.tinyfish.ai/sign-in",
+      "https://docs.tinyfish.ai/quick-start#troubleshooting",
+      "https://agent.tinyfish.ai/api-keys",
+      "https://docs.tinyfish.ai/prompting-guide",
+      "https://docs.tinyfish.ai/key-concepts/structured-output",
+      "https://docs.tinyfish.ai/key-concepts/runs",
+      "https://docs.tinyfish.ai/quick-start#check-your-wallet-balance",
+      "https://agent.tinyfish.ai/api-keys",
+      "https://docs.tinyfish.ai/quick-start#troubleshooting",
+      "https://agent.tinyfish.ai/api-keys",
+      "https://agent.tinyfish.ai/wallet",
+      "https://docs.tinyfish.ai/error-codes",
+      "https://docs.tinyfish.ai/quick-start#next-steps",
+      "https://docs.tinyfish.ai/agent-api/reference",
+      "https://docs.tinyfish.ai/key-concepts/structured-output",
+      "https://docs.tinyfish.ai/examples/scraping",
+      "https://docs.tinyfish.ai/anti-bot-guide",
+      "https://docs.tinyfish.ai/key-concepts/browser-profiles",
+      "https://docs.tinyfish.ai/",
+      "https://docs.tinyfish.ai/authentication",
+      "https://www.linkedin.com/company/tinyfish-ai",
+      "https://x.com/Tiny_Fish",
+      "https://discord.gg/tinyfish",
+      "https://www.youtube.com/@TinyFish-AI",
+      "https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=tinyfish"
+    ],
+    "latency_ms": 896.1984799971106,
+    "format": "markdown",
+    "page_metadata": {
+      "canonical": "https://docs.tinyfish.ai/quick-start",
+      "favicon": "https://docs.tinyfish.ai/mintlify-assets/_mintlify/favicons/tinyfish/05k5zsm6ySkMI6wO/_generated/favicon/android-chrome-192x192.png",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "generator": "Mintlify",
+      "og": {
+        "title": "Quick Start - TinyFish Web Agent",
+        "description": "Get your first web automation running in under 5 minutes",
+        "url": "https://docs.tinyfish.ai/quick-start",
+        "site_name": "TinyFish Web Agent",
+        "image": [
+          "https://tinyfish.mintlify.app/_mintlify/api/og/v2?division=Start+Here&title=Quick+Start&description=Get+your+first+web+automation+running+in+under+5+minutes&theme=84de11ec51a0e1c57a74ef0c&signature=7e74bb63cf41b261ffb0f2b04a2abeb9cd3abae1b650eabb25681aad6bf33a57"
+        ],
+        "image:width": "1200",
+        "image:height": "630",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Quick Start - TinyFish Web Agent",
+        "description": "Get your first web automation running in under 5 minutes",
+        "image": "https://tinyfish.mintlify.app/_mintlify/api/og/v2?division=Start+Here&title=Quick+Start&description=Get+your+first+web+automation+running+in+under+5+minutes&theme=84de11ec51a0e1c57a74ef0c&signature=7e74bb63cf41b261ffb0f2b04a2abeb9cd3abae1b650eabb25681aad6bf33a57",
+        "image:width": "1200",
+        "image:height": "630"
+      },
+      "other": {
+        "application-name": "TinyFish Web Agent",
+        "msapplication-config": "/mintlify-assets/_mintlify/favicons/tinyfish/05k5zsm6ySkMI6wO/_generated/favicon/browserconfig.xml",
+        "apple-mobile-web-app-title": "TinyFish Web Agent",
+        "msapplication-tilecolor": "#D74B28"
+      }
+    }
+  },
+  "headAudit": {
+    "htmlBytes": 223253,
+    "title": "Quick Start - TinyFish Web Agent",
+    "description": "Get your first web automation running in under 5 minutes",
+    "robots": null,
+    "noindex": false,
+    "canonical": "https://docs.tinyfish.ai/quick-start",
+    "hreflang": [],
+    "og": {
+      "title": "Quick Start - TinyFish Web Agent",
+      "description": "Get your first web automation running in under 5 minutes",
+      "image": "https://tinyfish.mintlify.app/_mintlify/api/og/v2?division=Start+Here&title=Quick+Start&description=Get+your+first+web+automation+running+in+under+5+minutes&theme=84de11ec51a0e1c57a74ef0c&signature=7e74bb63cf41b261ffb0f2b04a2abeb9cd3abae1b650eabb25681aad6bf33a57",
+      "type": "website",
+      "url": "https://docs.tinyfish.ai/quick-start"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Quick Start - TinyFish Web Agent",
+      "description": "Get your first web automation running in under 5 minutes",
+      "image": "https://tinyfish.mintlify.app/_mintlify/api/og/v2?division=Start+Here&title=Quick+Start&description=Get+your+first+web+automation+running+in+under+5+minutes&theme=84de11ec51a0e1c57a74ef0c&signature=7e74bb63cf41b261ffb0f2b04a2abeb9cd3abae1b650eabb25681aad6bf33a57"
+    },
+    "jsonLd": {
+      "blocks": 0,
+      "invalid": 0,
+      "types": []
+    },
+    "lang": "en",
+    "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+    "h1": [
+      "Quick Start"
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "Documentation Index"
+      },
+      {
+        "level": 3,
+        "text": "Start Here"
+      },
+      {
+        "level": 3,
+        "text": "Agent API"
+      },
+      {
+        "level": 3,
+        "text": "Search API"
+      },
+      {
+        "level": 3,
+        "text": "Monitor"
+      },
+      {
+        "level": 3,
+        "text": "Fetch API"
+      },
+      {
+        "level": 3,
+        "text": "Browser API"
+      },
+      {
+        "level": 3,
+        "text": "Research API (Beta)"
+      },
+      {
+        "level": 3,
+        "text": "Capabilities"
+      },
+      {
+        "level": 3,
+        "text": "Tools & Integrations"
+      },
+      {
+        "level": 3,
+        "text": "Guides"
+      },
+      {
+        "level": 3,
+        "text": "Use Cases"
+      },
+      {
+        "level": 3,
+        "text": "Reference"
+      },
+      {
+        "level": 1,
+        "text": "Quick Start"
+      },
+      {
+        "level": 2,
+        "text": "​ Check your wallet balance"
+      },
+      {
+        "level": 2,
+        "text": "​ Troubleshooting"
+      },
+      {
+        "level": 2,
+        "text": "​ Next Steps"
+      },
+      {
+        "level": 2,
+        "text": "Agent API Reference"
+      },
+      {
+        "level": 2,
+        "text": "Structured Output"
+      },
+      {
+        "level": 2,
+        "text": "Examples"
+      },
+      {
+        "level": 2,
+        "text": "Anti-Bot Guide"
+      }
+    ],
+    "skippedLevels": [],
+    "bodyTextWords": 1515
+  },
+  "crawlPolicy": {
+    "origin": "https://docs.tinyfish.ai",
+    "robots": {
+      "status": "present",
+      "bytes": 172,
+      "sitemaps": [
+        "https://docs.tinyfish.ai/sitemap.xml"
+      ],
+      "rules": [
+        {
+          "agent": "GPTBot",
+          "vendor": "OpenAI",
+          "use": "ChatGPT training + browsing index",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "OAI-SearchBot",
+          "vendor": "OpenAI",
+          "use": "ChatGPT search results",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "ChatGPT-User",
+          "vendor": "OpenAI",
+          "use": "ChatGPT live page visits",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "ClaudeBot",
+          "vendor": "Anthropic",
+          "use": "Claude crawling",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Claude-Web",
+          "vendor": "Anthropic",
+          "use": "Claude web fetch",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "anthropic-ai",
+          "vendor": "Anthropic",
+          "use": "Anthropic crawler (legacy token)",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "PerplexityBot",
+          "vendor": "Perplexity",
+          "use": "Perplexity search index",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Google-Extended",
+          "vendor": "Google",
+          "use": "Gemini training (not Search ranking)",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Googlebot",
+          "vendor": "Google",
+          "use": "Google Search + AI Overviews",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Bingbot",
+          "vendor": "Microsoft",
+          "use": "Bing + Copilot",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Applebot-Extended",
+          "vendor": "Apple",
+          "use": "Apple Intelligence",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Amazonbot",
+          "vendor": "Amazon",
+          "use": "Alexa answers",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "CCBot",
+          "vendor": "Common Crawl",
+          "use": "Open datasets used by many models",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Bytespider",
+          "vendor": "ByteDance",
+          "use": "TikTok/Doubao",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        }
+      ],
+      "blockedAll": false,
+      "excerpt": "User-agent: *\nContent-Signal: ai-train=yes, search=yes, ai-input=yes\nDisallow: /cdn-cgi/\nAllow: /_next/image\nDisallow: /_next/\nSitemap: https://docs.tinyfish.ai/sitemap.xml",
+      "contentSignal": "ai-train=yes, search=yes, ai-input=yes"
+    },
+    "llms": {
+      "status": "present",
+      "bytes": 16626,
+      "excerpt": "# TinyFish Web Agent\n\n- [TinyFish Developer Documentation](https://docs.tinyfish.ai/index.md): Choose the right TinyFish API, authenticate quickly, and start integrating faster\n- [Quick Start](https://docs.tinyfish.ai/quick-start.md): Get your first web automation running in under 5 minutes\n- [Authentication](https://docs.tinyfish.ai/authentication.md): How to authenticate with the TinyFish API\n- [For Coding Agents](https://docs.tinyfish.ai/for-coding-agents.md): Single-page TinyFish context for Claude, Codex, Cursor, and other coding agents\n- [Agent API](https://docs.tinyfish.ai/agent-api/index.md): Use natural-language goals to automate workflows on real websites\n- [Agent API Reference](https://docs.tinyfish.ai/agent-api/reference.md): Technical reference for goal-based TinyFish automati",
+      "mentionsPage": true
+    },
+    "sitemap": {
+      "status": "present",
+      "urlCount": 89,
+      "listsPage": true,
+      "location": "https://docs.tinyfish.ai/sitemap.xml"
+    }
+  },
+  "browser": null,
+  "competitor": {
+    "url": "https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+    "final_url": "https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+    "title": "tinyfish-cookbook/README.md at main · tinyfish-io/tinyfish-cookbook",
+    "description": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! - tinyfish-io/tinyfish-cookbook",
+    "language": "en",
+    "text": "##\n\n## Latest commit\n\n## History\n\nHistory\n\n345 lines (253 loc) · 16.5 KB\n\n## File metadata and controls\n\n345 lines (253 loc) · 16.5 KB\n\nRaw\n\n# The TinyFish Cookbook\n\n\n\n---\n\n> **Search and Fetch are now FREE**\n>\n> TinyFish **Search** and **Fetch endpoints** are now free for everyone with generous rate limits, no credit card required. Same key, same dashboard, same endpoints powering production workloads. Grab a key →\n\n---\n\n## About This Repository\n\nWelcome to the **TinyFish Cookbook!** A growing collection of recipes, demos, and automations built on TinyFish — the web layer for AI agents.\n\nIf your agent needs to search the live web, read a page cleanly, run a multi-step browser flow, or hit any site that doesn't expose an API, this is where to start.\n\n## The Endpoints\n\nTinyFish gives you four endpoints, layered from lightning-fast retrieval to fully managed browser automation. **Search** and **Fetch** are free.\n\n| Endpoint | What it does | Best for | Speed | Pricing |\n| --- | --- | --- | --- | --- |\n| **Search**   `api.search.tinyfish.ai` | Fast, structured web search built for agents — JSON results, rank-stable across calls. | Drop-in retrieval layer for any agent. Designed for LLM consumption, not blue-link browsing. | < 0.5s | **Free** |\n| **Fetch**   `api.fetch.tinyfish.ai` | Any URL → clean markdown / JSON / HTML. Real full-browser rendering. Failed URLs are free. | Reading specific pages and feeding clean content to LLMs. Drop-in replacement for Firecrawl, native LLM fetch, or hand-rolled Playwright. | A few seconds | **Free** |\n| **Agent** | Provide a URL and a natural-language goal. The agent navigates, acts, and returns clean JSON. | Multi-step flows, complex tasks, structured data extraction. | ~10s to minutes | Metered |\n| **Browser** | Rent a fully managed cloud browser. Connect your own Playwright or Selenium scripts. | Hardcore custom agents and scripts. | Real-time | Metered |\n\n## Why TinyFish?\n\n* **Any website → API** — turn sites without APIs into programmable data sources\n* **Natural-language goals** — send a URL + plain English, get structured JSON back\n* **Real browser automation** — multi-step flows, forms, filters, calendars, dynamic content\n* **Built-in stealth** — rotating proxies and stealth profiles included, no extra cost\n* **Vault** — agent-grade credentials and session memory for authenticated workflows (1Password JIT, encrypted session reuse)\n* **Production-grade observability** — full logs and debugging on every run\n* **Token-efficient by design** — Fetch strips nav, scripts, and cookie banners, so you stop paying tokens on junk HTML\n\n## Ways to use TinyFish\n\nOne API key. Use it from wherever you build.\n\n### REST API\n\n```\n# Search\ncurl \"https://api.search.tinyfish.ai?query=web+automation+tools\" \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\"\n\n# Fetch\ncurl -X POST https://api.fetch.tinyfish.ai \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"urls\": [\"https://www.tinyfish.ai/\"]}'\n\n# Agent (streaming)\ncurl -N -X POST https://agent.tinyfish.ai/v1/automation/run-sse \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"url\": \"https://agentql.com\", \"goal\": \"Find all subscription plans and prices. Return JSON.\"}'\n```\n\n### MCP Server\n\nDrop the server URL into Claude Code, Cursor, Codex, ChatGPT desktop, or any MCP-aware client.\n\n```\n{\n  \"mcpServers\": {\n    \"tinyfish\": { \"url\": \"https://mcp.tinyfish.ai\" }\n  }\n}\n```\n\n### CLI\n\n```\nnpm install -g @tiny-fish/cli\ntinyfish auth login\ntinyfish search query \"web automation tools\"\ntinyfish fetch content get https://example.com\n```\n\nThe CLI writes results to the filesystem instead of piping them through your model's context window — tokens stay low, output stays structured.\n\n### Scripts\n\nDrop TinyFish into everyday tools with small copyable scripts.\n\n| Script | Description |\n| --- | --- |\n| Raycast TinyFish Search | Search the web from Raycast and get formatted result URLs, titles, and snippets |\n\n### Agent Skill\n\nOne-line install. Works with Claude Code, Codex, Cursor, OpenCode, Antigravity, and other coding agents. The Skill teaches your agent **when** to reach for Search vs. Fetch vs. Agent, and **how** to call them.\n\n```\nnpx skills add github.com/tinyfish-io/tinyfish-cookbook --skill use-tinyfish\n```\n\nBrowse it on skills.sh/tinyfish-io/tinyfish-cookbook/use-tinyfish.\n\n### SDKs\n\n```\npip install tinyfish              # Python\nnpm install @tiny-fish/sdk        # TypeScript\n```\n\nBoth SDKs cover Search, Fetch, Browser, Agent, and Vault — full parity.\n\n### Where it's already wired up\n\nCheck out our Integrations\n\n## The Recipes\n\nEach folder is a standalone project. Categorized below by what they do, not what's under the hood.\n\n### Featured (live demos)\n\nThese use the latest TinyFish SDK and are deployed with live demos you can try right now.\n\n| Recipe | Description | Live demo |\n| --- | --- | --- |\n| viet-bike-scout | Motorbike rental price comparison across Vietnamese cities using parallel browser agents | Demo |\n| tutor-finder | AI-powered tutor discovery for competitive exams across multiple platforms | Demo |\n| openbox-deals | Real-time open-box and refurbished deal aggregator across 8 retailers | Demo |\n| silicon-signal | Semiconductor supply chain tracker for lifecycle, availability, and lead-time signals | Demo |\n| summer-school-finder | Discover and compare summer school programs from universities around the world | Demo |\n| tinyskills | Multi-source AI skill guide generator that scrapes docs, GitHub, and blogs into a single SKILL.md | Demo |\n| saigon-happy-hour-sniper | Find happy hour deals across Saigon in seconds | Demo |\n| worldcup-briefing | AI-powered football highlight reels — discover match footage with TinyFish Search, compile clips with VideoDB | Demo |\n\n### AABW Vietnam Hackathon Samples\n\nBuilt for the Agentic AI Build Week (AABW) hackathon — July 8-12, 2026, Ho Chi Minh City. See the full track mapping.\n\n| Recipe | Track(s) | Live demo |\n| --- | --- | --- |\n| fareguard | Mobility (Tasco), Aviation (Vietjet) | Demo |\n| finsight | Financial Services I (Shinhan), Financial Services II (GoTymeX) | Demo |\n| founder-mode | Founder Mode (GenAI Fund) | Demo |\n| market-pulse | Retail (Phong Vu), Retail & Hospitality (Guardian) | Demo |\n| monai | F&B (KFC) | Demo |\n| rateradar | Financial Services I (Shinhan), Financial Services II (GoTymeX) | Demo |\n\n### Shopping & Deals\n\n| Recipe | Description |\n| --- | --- |\n| bestbet | Sports betting odds comparison across books |\n| game-buying-guide | Video game pricing across 10 gaming platforms in parallel |\n| lego-hunter | Rare Lego inventory across 15+ retailers with price and availability analysis |\n| openbox-deals | Real-time open-box and refurbished deal aggregator |\n| waifu-deal-sniper | Discord bot for anime figure collectors hunting AmiAmi, Mercari, Solaris Japan |\n| wing-command | Chicken wing tracker — find the best wings near you by flavor preference |\n\n### Travel, Stays & Local\n\n| Recipe | Description |\n| --- | --- |\n| stay-scout-hub | Cross-site lodging search for conventions and events |\n| viet-bike-scout | Motorbike rental price comparison across Vietnamese cities |\n| district-rent-shark | Vietnamese rental market intelligence + neighborhood walkability scores |\n| restaurant-comparison-tool | Pre-visit restaurant safety + allergen intelligence from Google Maps |\n| saigon-happy-hour-sniper | Live happy hour deal aggregator for Saigon |\n\n### Research & Market Intelligence\n\n| Recipe | Description |\n| --- | --- |\n| research-sentry | Voice-first academic research co-pilot scanning ArXiv, PubMed, and more |\n| silicon-signal | Semiconductor supply chain & lead-time signals |\n| competitor-analysis | Live competitive pricing intelligence dashboard |\n| competitor-scout-cli | Natural-language CLI for researching competitor feature decisions |\n| logistics-sentry | Port congestion and carrier-risk tracking |\n| tenders-finder | Singapore government tender discovery across multiple portals |\n\n### Education & Discovery\n\n| Recipe | Description |\n| --- | --- |\n| tutor-finder | AI-powered tutor discovery for competitive exams |\n| summer-school-finder | Compare summer school programs from universities worldwide |\n| scholarship-finder | Scholarship discovery pulling live data from official sources |\n\n### Developer Tools\n\n| Recipe | Description |\n| --- | --- |\n| code-reference-finder | Find real-world usage examples for any code snippet from GitHub and Stack Overflow |\n| fast-qa | No-code QA testing platform with parallel test execution and live browser previews |\n| tinyskills | Generates comprehensive SKILL.md guides from docs, GitHub, and developer blogs |\n\n### Finance & Decisioning\n\n| Recipe | Description |\n| --- | --- |\n| loan-decision-copilot | Loan comparison across banks and regions |\n\n### Lifestyle & Health\n\n| Recipe | Description |\n| --- | --- |\n| anime-watch-hub | Find sites to read or watch your favorite manga and anime |\n| pharmacy-panic | Compare medicine prices across Vietnam's top pharmacy chains in real time |\n\n> New recipes land weekly. See CONTRIBUTING.md to add yours.\n\n### n8n Workflows\n\nPre-built n8n workflows using TinyFish — import the JSON and go.\n\n| Workflow | Description |\n| --- | --- |\n| Competitor Scout | Research competitor feature decisions with OpenAI planning + TinyFish evidence collection |\n| Web Research Agent | Chatbot that scrapes any website with TinyFish and saves summaries to Notion |\n| Daily Product Hunt Tracker | Scheduled workflow delivering daily top 5 trending Product Hunt products to Telegram |\n\n## Getting Started\n\n### 1. Get your API key\n\nSign up at agent.tinyfish.ai. No credit card. Search and Fetch are free out of the box.\n\n### 2. Run something\n\n#### cURL\n\n```\ncurl -N -X POST https://agent.tinyfish.ai/v1/automation/run-sse \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"url\": \"https://agentql.com\",\n    \"goal\": \"Find all AgentQL subscription plans and their prices. Return result in json format\"\n  }'\n```\n\n#### Python\n\n```\nimport json, os, requests\n\nresponse = requests.post(\n    \"https://agent.tinyfish.ai/v1/automation/run-sse\",\n    headers={\n        \"X-API-Key\": os.getenv(\"TINYFISH_API_KEY\"),\n        \"Content-Type\": \"application/json\",\n    },\n    json={\n        \"url\": \"https://agentql.com\",\n        \"goal\": \"Find all AgentQL subscription plans and their prices. Return result in json format\",\n    },\n    stream=True,\n)\n\nfor line in response.iter_lines():\n    if line:\n        line_str = line.decode(\"utf-8\")\n        if line_str.startswith(\"data: \"):\n            event = json.loads(line_str[6:])\n            print(event)\n```\n\n#### TypeScript\n\n```\nconst response = await fetch(\"https://agent.tinyfish.ai/v1/automation/run-sse\", {\n  method: \"POST\",\n  headers: {\n    \"X-API-Key\": process.env.TINYFISH_API_KEY,\n    \"Content-Type\": \"application/json\",\n  },\n  body: JSON.stringify({\n    url: \"https://agentql.com\",\n    goal: \"Find all AgentQL subscription plans and their prices. Return result in json format\",\n  }),\n});\n\nconst reader = response.body.getReader();\nconst decoder = new TextDecoder();\n\nwhile (true) {\n  const { done, value } = await reader.read();\n  if (done) break;\n  console.log(decoder.decode(value));\n}\n```\n\n> Sharing a localhost demo with a friend? Use tinyfi.sh — free and dead simple.\n\n## Star History\n\n## Contributors\n\n\n\nGot something cool you built with TinyFish? We want it in here. See the Contributing Guide for the full rundown.\n\n## Community & Support\n\n* Discord — ask questions, share what you're building, hang out\n* Docs\n* tinyfish.ai\n\n## Legal Disclaimer\n\nThis repository is a community-driven space for sharing derivatives, code samples, and best practices related to TinyFish products. By using the materials in this repository, you acknowledge and agree to the following:\n\n* **\"As-Is\" Basis**: All code, scripts, and documentation shared here are provided \"AS IS\" and \"AS AVAILABLE.\" TinyFish makes no warranties of any kind, whether express or implied, regarding the accuracy, reliability, or security of community-contributed content.\n* **No Obligation to Maintain**: TinyFish is under no obligation to monitor, update, or fix bugs, errors, or security vulnerabilities found in community-contributed derivatives.\n* **User Responsibility**: You are solely responsible for vetting and testing any code before implementing it in a production environment. Use of these derivatives is at your own risk.\n* **Limitation of Liability**: In no event shall TinyFish be held liable for any claim, damages, or other liability — including but not limited to system failures, data loss, or security breaches — arising from the use of or inability to use the contents of this repository.\n\n> Note: Contributions from the community do not represent the official views or supported products of TinyFish.\n\n---",
+    "author": null,
+    "published_date": null,
+    "latency_ms": 880.609445999653,
+    "format": "markdown",
+    "page_metadata": {
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "viewport": "width=device-width",
+      "theme_color": "#1e2327",
+      "color_scheme": "light dark",
+      "og": {
+        "image": [
+          "https://opengraph.githubassets.com/c780c56ad5aa13aecdcd56fcfc8768d04e8b256182c0a157c709ff4281d2e232/tinyfish-io/tinyfish-cookbook"
+        ],
+        "image:alt": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! - tinyfish-io/tinyfish-cookbook",
+        "image:width": "1200",
+        "image:height": "600",
+        "site_name": "GitHub",
+        "type": "object",
+        "title": "tinyfish-cookbook/README.md at main · tinyfish-io/tinyfish-cookbook",
+        "url": "https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+        "description": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! - tinyfish-io/tinyfish-cookbook"
+      },
+      "twitter": {
+        "image": "https://opengraph.githubassets.com/c780c56ad5aa13aecdcd56fcfc8768d04e8b256182c0a157c709ff4281d2e232/tinyfish-io/tinyfish-cookbook",
+        "site": "@github",
+        "card": "summary_large_image",
+        "title": "tinyfish-cookbook/README.md at main · tinyfish-io/tinyfish-cookbook",
+        "description": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! - tinyfish-io/tinyfish-cookbook"
+      },
+      "other": {
+        "react-profiling": "0",
+        "react-import-map": "react,react-dom,react-dom/client,react-dom/profiling,react-is,react-reconciler,react/compiler-runtime,react/jsx-dev-runtime,react/jsx-runtime,scheduler@777f63f87cd0",
+        "route-pattern": "/:user_id/:repository/blob/*name(/*path)",
+        "route-controller": "blob",
+        "route-action": "show",
+        "fetch-nonce": "v2:d00d8896-4ad7-0443-c0cb-cb68763dbd6a",
+        "current-catalog-service-hash": "f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb",
+        "request-id": "4605:31E54B:AD09F:FEA03:6AC7A553",
+        "html-safe-nonce": "b85b232aaa70c2d8cd56fdb797d0faaaa46f087f881e378ce8e1264c9d4f04c0",
+        "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI0NjA1OjMxRTU0QjpBRDA5RjpGRUEwMzo2QUM3QTU1MyIsInZpc2l0b3JfaWQiOiIxNzUwNzgxOTI0NjY0MTE0Mjc1IiwicmVnaW9uX2VkZ2UiOiJ3ZXN0dXMyIiwicmVnaW9uX3JlbmRlciI6Indlc3R1czIifQ==",
+        "visitor-hmac": "8c4354be5908f905dc37a90f1348c8acb006412fe116fe169736506091048bb5",
+        "hovercard-subject-tag": "repository:1140071348",
+        "github-keyboard-shortcuts": "repository,source-code,file-tree,copilot",
+        "google-site-verification": "Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I",
+        "octolytics-url": "https://collector.github.com/github/collect",
+        "analytics-location": "/<user-name>/<repo-name>/blob/show",
+        "user-login": "",
+        "fb:app_id": "1401488693436528",
+        "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+        "hostname": "github.com"
+      }
+    },
+    "links": []
+  },
+  "competitors": [
+    {
+      "url": "https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/README.md",
+      "host": "github.com",
+      "title": "tinyfish-cookbook/README.md at main · tinyfish-io/tinyfish-cookbook",
+      "description": "A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build! - tinyfish-io/tinyfish-cookbook",
+      "position": 7,
+      "kind": "other",
+      "words": 1755,
+      "headings": 36,
+      "hasOg": true,
+      "answerCoverage": 33,
+      "answerPassage": "Search and Fetch are now FREE TinyFish Search and Fetch endpoints are now free for everyone with generous rate limits, no credit card required.",
+      "text": "##\n\n## Latest commit\n\n## History\n\nHistory\n\n345 lines (253 loc) · 16.5 KB\n\n## File metadata and controls\n\n345 lines (253 loc) · 16.5 KB\n\nRaw\n\n# The TinyFish Cookbook\n\n\n\n---\n\n> **Search and Fetch are now FREE**\n>\n> TinyFish **Search** and **Fetch endpoints** are now free for everyone with generous rate limits, no credit card required. Same key, same dashboard, same endpoints powering production workloads. Grab a key →\n\n---\n\n## About This Repository\n\nWelcome to the **TinyFish Cookbook!** A growing collection of recipes, demos, and automations built on TinyFish — the web layer for AI agents.\n\nIf your agent needs to search the live web, read a page cleanly, run a multi-step browser flow, or hit any site that doesn't expose an API, this is where to start.\n\n## The Endpoints\n\nTinyFish gives you four endpoints, layered from lightning-fast retrieval to fully managed browser automation. **Search** and **Fetch** are free.\n\n| Endpoint | What it does | Best for | Speed | Pricing |\n| --- | --- | --- | --- | --- |\n| **Search**   `api.search.tinyfish.ai` | Fast, structured web search built for agents — JSON results, rank-stable across calls. | Drop-in retrieval layer for any agent. Designed for LLM consumption, not blue-link browsing. | < 0.5s | **Free** |\n| **Fetch**   `api.fetch.tinyfish.ai` | Any URL → clean markdown / JSON / HTML. Real full-browser rendering. Failed URLs are free. | Reading specific pages and feeding clean content to LLMs. Drop-in replacement for Firecrawl, native LLM fetch, or hand-rolled Playwright. | A few seconds | **Free** |\n| **Agent** | Provide a URL and a natural-language goal. The agent navigates, acts, and returns clean JSON. | Multi-step flows, complex tasks, structured data extraction. | ~10s to minutes | Metered |\n| **Browser** | Rent a fully managed cloud browser. Connect your own Playwright or Selenium scripts. | Hardcore custom agents and scripts. | Real-time | Metered |\n\n## Why TinyFish?\n\n* **Any website → API** — turn sites without APIs into programmable data sources\n* **Natural-language goals** — send a URL + plain English, get structured JSON back\n* **Real browser automation** — multi-step flows, forms, filters, calendars, dynamic content\n* **Built-in stealth** — rotating proxies and stealth profiles included, no extra cost\n* **Vault** — agent-grade credentials and session memory for authenticated workflows (1Password JIT, encrypted session reuse)\n* **Production-grade observability** — full logs and debugging on every run\n* **Token-efficient by design** — Fetch strips nav, scripts, and cookie banners, so you stop paying tokens on junk HTML\n\n## Ways to use TinyFish\n\nOne API key. Use it from wherever you build.\n\n### REST API\n\n```\n# Search\ncurl \"https://api.search.tinyfish.ai?query=web+automation+tools\" \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\"\n\n# Fetch\ncurl -X POST https://api.fetch.tinyfish.ai \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"urls\": [\"https://www.tinyfish.ai/\"]}'\n\n# Agent (streaming)\ncurl -N -X POST https://agent.tinyfish.ai/v1/automation/run-sse \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"url\": \"https://agentql.com\", \"goal\": \"Find all subscription plans and prices. Return JSON.\"}'\n```\n\n### MCP Server\n\nDrop the server URL into Claude Code, Cursor, Codex, ChatGPT desktop, or any MCP-aware client.\n\n```\n{\n  \"mcpServers\": {\n    \"tinyfish\": { \"url\": \"https://mcp.tinyfish.ai\" }\n  }\n}\n```\n\n### CLI\n\n```\nnpm install -g @tiny-fish/cli\ntinyfish auth login\ntinyfish search query \"web automation tools\"\ntinyfish fetch content get https://example.com\n```\n\nThe CLI writes results to the filesystem instead of piping them through your model's context window — tokens stay low, output stays structured.\n\n### Scripts\n\nDrop TinyFish into everyday tools with small copyable scripts.\n\n| Script | Description |\n| --- | --- |\n| Raycast TinyFish Search | Search the web from Raycast and get formatted result URLs, titles, and snippets |\n\n### Agent Skill\n\nOne-line install. Works with Claude Code, Codex, Cursor, OpenCode, Antigravity, and other coding agents. The Skill teaches your agent **when** to reach for Search vs. Fetch vs. Agent, and **how** to call them.\n\n```\nnpx skills add github.com/tinyfish-io/tinyfish-cookbook --skill use-tinyfish\n```\n\nBrowse it on skills.sh/tinyfish-io/tinyfish-cookbook/use-tinyfish.\n\n### SDKs\n\n```\npip install tinyfish              # Python\nnpm install @tiny-fish/sdk        # TypeScript\n```\n\nBoth SDKs cover Search, Fetch, Browser, Agent, and Vault — full parity.\n\n### Where it's already wired up\n\nCheck out our Integrations\n\n## The Recipes\n\nEach folder is a standalone project. Categorized below by what they do, not what's under the hood.\n\n### Featured (live demos)\n\nThese use the latest TinyFish SDK and are deployed with live demos you can try right now.\n\n| Recipe | Description | Live demo |\n| --- | --- | --- |\n| viet-bike-scout | Motorbike rental price comparison across Vietnamese cities using parallel browser agents | Demo |\n| tutor-finder | AI-powered tutor discovery for competitive exams across multiple platforms | Demo |\n| openbox-deals | Real-time open-box and refurbished deal aggregator across 8 retailers | Demo |\n| silicon-signal | Semiconductor supply chain tracker for lifecycle, availability, and lead-time signals | Demo |\n| summer-school-finder | Discover and compare summer school programs from universities around the world | Demo |\n| tinyskills | Multi-source AI skill guide generator that scrapes docs, GitHub, and blogs into a single SKILL.md | Demo |\n| saigon-happy-hour-sniper | Find happy hour deals across Saigon in seconds | Demo |\n| worldcup-briefing | AI-powered football highlight reels — discover match footage with TinyFish Search, compile clips with VideoDB | Demo |\n\n### AABW Vietnam Hackathon Samples\n\nBuilt for the Agentic AI Build Week (AABW) hackathon — July 8-12, 2026, Ho Chi Minh City. See the full track mapping.\n\n| Recipe | Track(s) | Live demo |\n| --- | --- | --- |\n| fareguard | Mobility (Tasco), Aviation (Vietjet) | Demo |\n| finsight | Financial Services I (Shinhan), Financial Services II (GoTymeX) | Demo |\n| founder-mode | Founder Mode (GenAI Fund) | Demo |\n| market-pulse | Retail (Phong Vu), Retail & Hospitality (Guardian) | Demo |\n| monai | F&B (KFC) | Demo |\n| rateradar | Financial Services I (Shinhan), Financial Services II (GoTymeX) | Demo |\n\n### Shopping & Deals\n\n| Recipe | Description |\n| --- | --- |\n| bestbet | Sports betting odds comparison across books |\n| game-buying-guide | Video game pricing across 10 gaming platforms in parallel |\n| lego-hunter | Rare Lego inventory across 15+ retailers with price and availability analysis |\n| openbox-deals | Real-time open-box and refurbished deal aggregator |\n| waifu-deal-sniper | Discord bot for anime figure collectors hunting AmiAmi, Mercari, Solaris Japan |\n| wing-command | Chicken wing tracker — find the best wings near you by flavor preference |\n\n### Travel, Stays & Local\n\n| Recipe | Description |\n| --- | --- |\n| stay-scout-hub | Cross-site lodging search for conventions and events |\n| viet-bike-scout | Motorbike rental price comparison across Vietnamese cities |\n| district-rent-shark | Vietnamese rental market intelligence + neighborhood walkability scores |\n| restaurant-comparison-tool | Pre-visit restaurant safety + allergen intelligence from Google Maps |\n| saigon-happy-hour-sniper | Live happy hour deal aggregator for Saigon |\n\n### Research & Market Intelligence\n\n| Recipe | Description |\n| --- | --- |\n| research-sentry | Voice-first academic research co-pilot scanning ArXiv, PubMed, and more |\n| silicon-signal | Semiconductor supply chain & lead-time signals |\n| competitor-analysis | Live competitive pricing intelligence dashboard |\n| competitor-scout-cli | Natural-language CLI for researching competitor feature decisions |\n| logistics-sentry | Port congestion and carrier-risk tracking |\n| tenders-finder | Singapore government tender discovery across multiple portals |\n\n### Education & Discovery\n\n| Recipe | Description |\n| --- | --- |\n| tutor-finder | AI-powered tutor discovery for competitive exams |\n| summer-school-finder | Compare summer school programs from universities worldwide |\n| scholarship-finder | Scholarship discovery pulling live data from official sources |\n\n### Developer Tools\n\n| Recipe | Description |\n| --- | --- |\n| code-reference-finder | Find real-world usage examples for any code snippet from GitHub and Stack Overflow |\n| fast-qa | No-code QA testing platform with parallel test execution and live browser previews |\n| tinyskills | Generates comprehensive SKILL.md guides from docs, GitHub, and developer blogs |\n\n### Finance & Decisioning\n\n| Recipe | Description |\n| --- | --- |\n| loan-decision-copilot | Loan comparison across banks and regions |\n\n### Lifestyle & Health\n\n| Recipe | Description |\n| --- | --- |\n| anime-watch-hub | Find sites to read or watch your favorite manga and anime |\n| pharmacy-panic | Compare medicine prices across Vietnam's top pharmacy chains in real time |\n\n> New recipes land weekly. See CONTRIBUTING.md to add yours.\n\n### n8n Workflows\n\nPre-built n8n workflows using TinyFish — import the JSON and go.\n\n| Workflow | Description |\n| --- | --- |\n| Competitor Scout | Research competitor feature decisions with OpenAI planning + TinyFish evidence collection |\n| Web Research Agent | Chatbot that scrapes any website with TinyFish and saves summaries to Notion |\n| Daily Product Hunt Tracker | Scheduled workflow delivering daily top 5 trending Product Hunt products to Telegram |\n\n## Getting Started\n\n### 1. Get your API key\n\nSign up at agent.tinyfish.ai. No credit card. Search and Fetch are free out of the box.\n\n### 2. Run something\n\n#### cURL\n\n```\ncurl -N -X POST https://agent.tinyfish.ai/v1/automation/run-sse \\\n  -H \"X-API-Key: $TINYFISH_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"url\": \"https://agentql.com\",\n    \"goal\": \"Find all AgentQL subscription plans and their prices. Return result in json format\"\n  }'\n```\n\n#### Python\n\n```\nimport json, os, requests\n\nresponse = requests.post(\n    \"https://agent.tinyfish.ai/v1/automation/run-sse\",\n    headers={\n        \"X-API-Key\": os.getenv(\"TINYFISH_API_KEY\"),\n        \"Content-Type\": \"application/json\",\n    },\n    json={\n        \"url\": \"https://agentql.com\",\n        \"goal\": \"Find all AgentQL subscription plans and their prices. Return result in json format\",\n    },\n    stream=True,\n)\n\nfor line in response.iter_lines():\n    if line:\n        line_str = line.decode(\"utf-8\")\n        if line_str.startswith(\"data: \"):\n            event = json.loads(line_str[6:])\n            print(event)\n```\n\n#### TypeScript\n\n```\nconst response = await fetch(\"https://agent.tinyfish.ai/v1/automation/run-sse\", {\n  method: \"POST\",\n  headers: {\n    \"X-API-Key\": process.env.TINYFISH_API_KEY,\n    \"Content-Type\": \"application/json\",\n  },\n  body: JSON.stringify({\n    url: \"https://agentql.com\",\n    goal: \"Find all AgentQL subscription plans and their prices. Return result in json format\",\n  }),\n});\n\nconst reader = response.body.getReader();\nconst decoder = new TextDecoder();\n\nwhile (true) {\n  const { done, value } = await reader.read();\n  if (done) break;\n  console.log(decoder.decode(value));\n}\n```\n\n> Sharing a localhost demo with a friend? Use tinyfi.sh — free and dead simple.\n\n## Star History\n\n## Contributors\n\n\n\nGot something cool you built with TinyFish? We want it in here. See the Contributing Guide for the full rundown.\n\n## Community & Support\n\n* Discord — ask questions, share what you're building, hang out\n* Docs\n* tinyfish.ai\n\n## Legal Disclaimer\n\nThis repository is a community-driven space for sharing derivatives, code samples, and best practices related to TinyFish products. By using the materials in this repository, you acknowledge and agree to the following:\n\n* **\"As-Is\" Basis**: All code, scripts, and documentation shared here are provided \"AS IS\" and \"AS AVAILABLE.\" TinyFish makes no warranties of any kind, whether express or implied, regarding the accuracy, reliability, or security of community-contributed content.\n* **No Obligation to Maintain**: TinyFish is under no obligation to monitor, update, or fix bugs, errors, or security vulnerabilities found in community-contributed derivatives.\n* **User Responsibility**: You are solely responsible for vetting and testing any code before implementing it in a production environment. Use of these derivatives is at your own risk.\n* **Limitation of Liability**: In no event shall TinyFish be held liable for any claim, damages, or other liability — including but not limited to system failures, data loss, or security breaches — arising from the use of or inability to use the contents of this repository.\n\n> Note: Contributions from the community do not represent the official views or supported products of TinyFish.\n\n---"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "medium",
+      "category": "Answer-ability",
+      "title": "Title/H1 match “tinyfish quick start” but no body passage restates it (best covers 33%)",
+      "evidence": "Best passage (13% into the page): “The SDKs and CLI read TINYFISH API KEY from your environment, so there’s nothing else to configure.” — covers tinyfish; missing quick, start.",
+      "impact": "AI search answers are built from passages that match the question. When no passage covers the query, the engine quotes a competitor instead — github.com already has a passage covering 33%.",
+      "fix": "Add a one-paragraph direct answer under the H1 that uses the terms “quick”, “start” naturally, e.g. “Quick Start is [one factual sentence that answers “tinyfish quick start” using those words]”",
+      "verify": "Re-run; the answer passage card should show ≥80% coverage within the first 20% of the page.",
+      "source": "https://docs.tinyfish.ai/quick-start",
+      "confidence": "observed",
+      "id": "F01"
+    },
+    {
+      "priority": "medium",
+      "category": "Search visibility",
+      "title": "The SERP snippet does not mention the query",
+      "evidence": "Snippet shown at #1: “In this guide you'll run a single automation that visits a live store, reads the page like a person would, and returns the first two product names and prices” — covers 0% of the query terms.",
+      "impact": "A snippet that ignores the query lowers click-through and signals weak relevance for this intent.",
+      "fix": "Rewrite the meta description to answer the query in one sentence, e.g. “The SDKs and CLI read TINYFISH API KEY from your environment, so there’s nothing else to configure.”.",
+      "verify": "Re-run after re-indexing; the side-by-side card should show matching text.",
+      "source": "https://docs.tinyfish.ai/quick-start",
+      "confidence": "observed",
+      "id": "F02"
+    },
+    {
+      "priority": "medium",
+      "category": "Structured data",
+      "title": "No JSON-LD structured data",
+      "evidence": "No <script type=\"application/ld+json\"> block in the HTML.",
+      "impact": "Structured data tells search engines and AI systems what the page *is* (an article, a product, an FAQ) and unlocks rich results. Without it, type has to be inferred from prose.",
+      "fix": "Add a JSON-LD block to <head>, for example:\n<script type=\"application/ld+json\">\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Quick Start - TinyFish Web Agent\",\"url\":\"https://docs.tinyfish.ai/quick-start\",\"description\":\"Get your first web automation running in under 5 minutes\"}\n</script>\nUse Article, Product, FAQPage or SoftwareApplication when they fit the content.",
+      "verify": "Validate at https://validator.schema.org, then re-run SignalScope.",
+      "source": "https://docs.tinyfish.ai/quick-start",
+      "confidence": "observed",
+      "id": "F03"
+    },
+    {
+      "priority": "low",
+      "category": "Metadata",
+      "title": "Meta description is 56 characters",
+      "evidence": "<meta name=\"description\" content=\"Get your first web automation running in under 5 minutes\">",
+      "impact": "A very short description is usually replaced with auto-generated snippet text, which is less controllable.",
+      "fix": "Rewrite to 70-160 characters. Suggested: content=\"The SDKs and CLI read TINYFISH API KEY from your environment, so there’s nothing else to configure.\"",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://docs.tinyfish.ai/quick-start",
+      "confidence": "observed",
+      "id": "F04"
+    }
+  ],
+  "comparisons": [],
+  "answer": {
+    "text": "The SDKs and CLI read TINYFISH API KEY from your environment, so there’s nothing else to configure.",
+    "coverage": 33,
+    "wordOffset": 176,
+    "position": 13,
+    "totalWords": 1330,
+    "words": 17,
+    "termsCovered": [
+      "tinyfish"
+    ],
+    "termsMissing": [
+      "quick",
+      "start"
+    ],
+    "underHeading": null
+  },
+  "score": {
+    "total": 87,
+    "confidence": 100,
+    "grade": "A",
+    "groups": [
+      {
+        "id": "search",
+        "label": "Search visibility",
+        "max": 30,
+        "items": [
+          {
+            "id": "rank",
+            "label": "Exact URL ranks for the target query",
+            "max": 12,
+            "points": 12,
+            "evidence": "Position #1 of 10."
+          },
+          {
+            "id": "discovery",
+            "label": "URL found via site: discovery query",
+            "max": 8,
+            "points": 8,
+            "evidence": "Exact URL returned for its own site: query (indexed)."
+          },
+          {
+            "id": "snippet",
+            "label": "SERP snippet is substantive and on-topic",
+            "max": 5,
+            "points": 5,
+            "evidence": "157 chars; contains query terms."
+          },
+          {
+            "id": "alt",
+            "label": "Also ranks for an alternate phrasing",
+            "max": 5,
+            "points": 5,
+            "evidence": "Position #1 for the alternate phrasing."
+          }
+        ],
+        "earned": 30,
+        "available": 30,
+        "score": 30
+      },
+      {
+        "id": "extraction",
+        "label": "AI extraction",
+        "max": 30,
+        "items": [
+          {
+            "id": "words",
+            "label": "Enough text reaches the extractor",
+            "max": 10,
+            "points": 10,
+            "evidence": "1,330 words extracted."
+          },
+          {
+            "id": "headings",
+            "label": "Headings survive extraction",
+            "max": 6,
+            "points": 6,
+            "evidence": "7 Markdown headings in the extraction."
+          },
+          {
+            "id": "prose",
+            "label": "Main content outweighs navigation",
+            "max": 7,
+            "points": 4,
+            "evidence": "57% of extracted words are prose (rest are link/menu lines)."
+          },
+          {
+            "id": "block",
+            "label": "No login wall, bot block or empty JS shell",
+            "max": 7,
+            "points": 7,
+            "evidence": "Raw HTML body ≈1,515 words vs 1,330 extracted."
+          }
+        ],
+        "earned": 27,
+        "available": 30,
+        "score": 27
+      },
+      {
+        "id": "metadata",
+        "label": "Metadata & structure",
+        "max": 20,
+        "items": [
+          {
+            "id": "title",
+            "label": "Title 30-60 chars",
+            "max": 3,
+            "points": 3,
+            "evidence": "32 characters."
+          },
+          {
+            "id": "description",
+            "label": "Meta description 70-160 chars",
+            "max": 3,
+            "points": 1.5,
+            "evidence": "56 characters."
+          },
+          {
+            "id": "canonical",
+            "label": "Canonical present and self-referencing",
+            "max": 2,
+            "points": 2,
+            "evidence": "Self-referencing canonical."
+          },
+          {
+            "id": "noindex",
+            "label": "No noindex directive",
+            "max": 3,
+            "points": 3,
+            "evidence": "Indexable."
+          },
+          {
+            "id": "og",
+            "label": "Open Graph title/description/image",
+            "max": 2,
+            "points": 2,
+            "evidence": "Complete."
+          },
+          {
+            "id": "twitter",
+            "label": "Twitter card",
+            "max": 1,
+            "points": 1,
+            "evidence": "Present."
+          },
+          {
+            "id": "jsonld",
+            "label": "Valid JSON-LD with a type",
+            "max": 2,
+            "points": 0,
+            "evidence": "None."
+          },
+          {
+            "id": "lang",
+            "label": "<html lang> set",
+            "max": 1,
+            "points": 1,
+            "evidence": "Set."
+          },
+          {
+            "id": "h1",
+            "label": "Exactly one H1",
+            "max": 2,
+            "points": 2,
+            "evidence": "1 <h1> element(s)."
+          },
+          {
+            "id": "outline",
+            "label": "No skipped heading levels",
+            "max": 1,
+            "points": 1,
+            "evidence": "0 skip(s)."
+          }
+        ],
+        "earned": 16.5,
+        "available": 20,
+        "score": 16.5
+      },
+      {
+        "id": "answer",
+        "label": "Answer-ability",
+        "max": 20,
+        "items": [
+          {
+            "id": "coverage",
+            "label": "A single passage covers the query",
+            "max": 10,
+            "points": 3,
+            "evidence": "Best passage covers 33% of query terms."
+          },
+          {
+            "id": "early",
+            "label": "The answer appears early",
+            "max": 5,
+            "points": 5,
+            "evidence": "13% into the document."
+          },
+          {
+            "id": "concise",
+            "label": "The answer is concise",
+            "max": 3,
+            "points": 3,
+            "evidence": "17 words."
+          },
+          {
+            "id": "title",
+            "label": "Title/H1 names the query topic",
+            "max": 2,
+            "points": 2,
+            "evidence": "100% of query terms in title/H1."
+          }
+        ],
+        "earned": 13,
+        "available": 20,
+        "score": 13
+      }
+    ]
+  },
+  "serp": {
+    "intent": [
+      {
+        "kind": "docs",
+        "label": "Documentation",
+        "count": 2,
+        "share": 20
+      },
+      {
+        "kind": "blog",
+        "label": "Blog / guide",
+        "count": 2,
+        "share": 20
+      },
+      {
+        "kind": "forum",
+        "label": "Forum / Q&A",
+        "count": 2,
+        "share": 20
+      },
+      {
+        "kind": "other",
+        "label": "Other",
+        "count": 2,
+        "share": 20
+      },
+      {
+        "kind": "product",
+        "label": "Product / landing",
+        "count": 1,
+        "share": 10
+      },
+      {
+        "kind": "video",
+        "label": "Video",
+        "count": 1,
+        "share": 10
+      }
+    ],
+    "alternate": {
+      "query": "how to tinyfish quick start",
+      "rank": 1
+    },
+    "targetHit": {
+      "position": 1,
+      "title": "Quick Start - TinyFish Web Agent",
+      "url": "https://docs.tinyfish.ai/quick-start",
+      "snippet": "In this guide you'll run a single automation that visits a live store, reads the page like a person would, and returns the first two product names and prices",
+      "site_name": "docs.tinyfish.ai"
+    },
+    "discoveryHit": {
+      "position": 1,
+      "title": "Quick Start - TinyFish Web Agent",
+      "url": "https://docs.tinyfish.ai/quick-start",
+      "snippet": "In this guide you'll run a single automation that visits a live store, reads the page like a person would, and returns the first two product names and prices",
+      "site_name": "docs.tinyfish.ai"
+    }
+  },
+  "metrics": {
+    "words": 1330,
+    "headings": [
+      "Check your wallet balance",
+      "Troubleshooting",
+      "Next Steps",
+      "Agent API Reference",
+      "Structured Output",
+      "Examples",
+      "Anti-Bot Guide"
+    ],
+    "proseRatio": 0.5744360902255639,
+    "rank": 1,
+    "sampled": 0,
+    "matched": 0,
+    "coverage": null,
+    "queryTerms": [
+      "tinyfish",
+      "quick",
+      "start"
+    ],
+    "missingTerms": [],
+    "blocked": false
+  },
+  "summary": "docs.tinyfish.ai/quick-start scores 87/100 (A) for “tinyfish quick start” — search engines and AI tools can find, read and quote this page. Strongest area: search visibility (30/30); weakest: answer-ability (13/20). Fix first: Title/H1 match “tinyfish quick start” but no body passage restates it (best covers 33%); The SERP snippet does not mention the query; No JSON-LD structured data.",
+  "limitations": [
+    "Search positions come from one TinyFish Search sample (US, English) at audit time; they are directional, not a universal rank. robots.txt rules are evaluated for the exact path only; HTTP headers (X-Robots-Tag), Search Console data and backlinks are not inspected. Browser observations are agent-reported."
+  ]
+}

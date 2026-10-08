@@ -1,0 +1,909 @@
+{
+  "id": "d190d107-c4ad-4c02-ab6b-6ddd43cd91a8",
+  "status": "complete",
+  "url": "https://firstrole-tinyfish-ai.vercel.app/",
+  "query": "live job finder for students",
+  "queryMode": "provided",
+  "checkedAt": "2026-10-08T14:15:00.368Z",
+  "durationMs": 4916,
+  "stages": [
+    {
+      "endpoint": "Fetch",
+      "purpose": "Probe robots.txt, llms.txt and sitemap.xml for AI-crawler policy",
+      "status": "complete",
+      "durationMs": 681,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Check URL-specific discovery (site: query)",
+      "status": "complete",
+      "durationMs": 1444,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read raw HTML to audit <head>, structured data and heading outline",
+      "status": "complete",
+      "durationMs": 2162,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read live page content and metadata (Markdown)",
+      "status": "complete",
+      "durationMs": 2470,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Measure visibility for the target query",
+      "status": "complete",
+      "durationMs": 218,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Measure visibility for an alternate phrasing",
+      "status": "complete",
+      "durationMs": 478,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read the top competing results to compare answer coverage",
+      "status": "complete",
+      "durationMs": 1941,
+      "calls": 1
+    }
+  ],
+  "searches": [
+    {
+      "query": "site:firstrole-tinyfish-ai.vercel.app",
+      "kind": "discovery",
+      "results": []
+    },
+    {
+      "query": "live job finder for students",
+      "kind": "target",
+      "results": [
+        {
+          "position": 1,
+          "title": "Jobs for College Students",
+          "url": "https://www.ziprecruiter.com/college-jobs",
+          "snippet": "Calling all college and graduate students! Find your next job now with ZipRecruiter. Summer jobs, internships, online jobs, and more. Search now >>>",
+          "site_name": "www.ziprecruiter.com"
+        },
+        {
+          "position": 2,
+          "title": "WayUp — Powered by Yello · Jobs, Events & Career Tools for ...",
+          "url": "https://www.wayup.com/",
+          "snippet": "Free for life. Upload your resume in 30 seconds and we'll match you to roles at 3,800+ US employers — and the recruiters who are hiring this week. ... The career ...",
+          "site_name": "www.wayup.com"
+        },
+        {
+          "position": 3,
+          "title": "UA Student Jobs",
+          "url": "https://uastudentjobs.ua.edu/",
+          "snippet": "On our website students can find tools to help find a student job, while parents, supervisors and employers have access to general information for both on- ...",
+          "site_name": "uastudentjobs.ua.edu"
+        },
+        {
+          "position": 4,
+          "title": "Handshake: the career network for the AI economy",
+          "url": "https://joinhandshake.com/",
+          "snippet": "The largest expert network for learning, earning, and growing careers in the AI economy, giving everyone an accessible first step into an AI-powered career.",
+          "site_name": "joinhandshake.com"
+        },
+        {
+          "position": 5,
+          "title": "My Next Move",
+          "url": "https://www.mynextmove.org/",
+          "snippet": "What do you want to do for a living? · Search careers with key words. · Browse careers by industry. · Discover your interests. · Still not sure? · Are you a veteran ...",
+          "site_name": "www.mynextmove.org"
+        },
+        {
+          "position": 6,
+          "title": "For Students | OhioMeansJobs - Ohio.gov",
+          "url": "https://ohiomeansjobs.ohio.gov/for-students",
+          "snippet": "Students can find part time jobs, apprenticeship, and internships on OhioMeansJobs.com. Search. Post Your Resume. It only takes a few seconds ...",
+          "site_name": "ohiomeansjobs.ohio.gov"
+        },
+        {
+          "position": 7,
+          "title": "Inside Higher Ed Careers | jobs | Choose from 22,776 live job ...",
+          "url": "https://careers.insidehighered.com/",
+          "snippet": "Search for your next job from 22776 live job openings, or upload your resume now and let employers find you.",
+          "site_name": "careers.insidehighered.com"
+        },
+        {
+          "position": 8,
+          "title": "Part-time seasonal internship apprenticeship entry-level jobs ...",
+          "url": "https://www.collegerecruiter.com/",
+          "snippet": "Leading niche job board for college and university students searching for internships, part-time employment, and seasonal work and recent graduates hunting ...",
+          "site_name": "www.collegerecruiter.com"
+        },
+        {
+          "position": 9,
+          "title": "8 Valuable Job Search Sites for College Students",
+          "url": "https://www.collegexpress.com/articles-and-advice/career-search/blog/7-valuable-job-search-sites-college-students/",
+          "snippet": "1. Indeed. Chances are you've probably heard of Indeed.com. · 2. LinkedIn. LinkedIn isn't just for staying up to date with your high school ...",
+          "site_name": "www.collegexpress.com"
+        },
+        {
+          "position": 10,
+          "title": "General Internship & Job Search Websites",
+          "url": "https://careerconnections.smeal.psu.edu/general-internship-job-search-websites/",
+          "snippet": "College Recruiter is the leading job search site used by students and recent graduates of all 7,400+ one-, two-, and four-year colleges and universities who are ...",
+          "site_name": "careerconnections.smeal.psu.edu"
+        }
+      ]
+    },
+    {
+      "query": "what is the best live job finder for students",
+      "kind": "alternate",
+      "results": [
+        {
+          "position": 1,
+          "title": "WayUp — Powered by Yello · Jobs, Events & Career Tools for ...",
+          "url": "https://www.wayup.com/",
+          "snippet": "WayUp builds your profile in seconds — then surfaces jobs, internships, and employer events matched to your experience immediately. Free, forever.",
+          "site_name": "www.wayup.com"
+        },
+        {
+          "position": 2,
+          "title": "General Internship & Job Search Websites",
+          "url": "https://careerconnections.smeal.psu.edu/general-internship-job-search-websites/",
+          "snippet": "College Recruiter is the leading job search site used by students and recent graduates of all 7,400+ one-, two-, and four-year colleges and universities who are ...",
+          "site_name": "careerconnections.smeal.psu.edu"
+        },
+        {
+          "position": 3,
+          "title": "Job boards for college students to help you find internships ...",
+          "url": "https://www.reddit.com/r/resumes/comments/1ml4s28/job_boards_for_college_students_to_help_you_find/",
+          "snippet": "Job boards for college students to help you find internships and jobs · Handshake · WayUp · Idealist · Virtual Internships · Federal Internship ...",
+          "site_name": "www.reddit.com"
+        },
+        {
+          "position": 4,
+          "title": "Brahma Job Search",
+          "url": "https://www.lapc.edu/student-services/career-center/job-market-search",
+          "snippet": "Interactive career profile database that allows students and job seekers a personal and uncensored look into thousands of real careers and jobs through the eyes ...",
+          "site_name": "www.lapc.edu"
+        },
+        {
+          "position": 5,
+          "title": "Jobs for College Students",
+          "url": "https://www.ziprecruiter.com/college-jobs",
+          "snippet": "Calling all college and graduate students! Find your next job now with ZipRecruiter. Summer jobs, internships, online jobs, and more. Search now >>>",
+          "site_name": "www.ziprecruiter.com"
+        },
+        {
+          "position": 6,
+          "title": "8 Valuable Job Search Sites for College Students",
+          "url": "https://www.collegexpress.com/articles-and-advice/career-search/blog/7-valuable-job-search-sites-college-students/",
+          "snippet": "8 Valuable Job Search Sites for College Students · 1. Indeed. Chances are you've probably heard of Indeed.com. · 2. LinkedIn. LinkedIn isn't just ...",
+          "site_name": "www.collegexpress.com"
+        },
+        {
+          "position": 7,
+          "title": "CollegeGrad #1 Entry Level Jobs and Internships for College ...",
+          "url": "https://www.collegegrad.com/",
+          "snippet": "Direct your job search with advice created for college students and recent grads, and specific to entry level jobs and internships. Get More Advice · Careers.",
+          "site_name": "www.collegegrad.com"
+        },
+        {
+          "position": 8,
+          "title": "The Best Student Job Sites",
+          "url": "https://www.youthemployment.org.uk/the-best-student-job-sites/",
+          "snippet": "Are you a student looking for part-time work, internships, graduate schemes or summer jobs? Here are 11 of the best job sites for students.",
+          "site_name": "www.youthemployment.org.uk"
+        },
+        {
+          "position": 9,
+          "title": "The Best Online Jobs for College Students",
+          "url": "https://joinhandshake.com/blog/students/online-jobs-for-college-students/",
+          "snippet": "Search Handshake and your school's local job boards for virtual positions opening up soon and apply! Get in touch with your network (professional and personal) ...",
+          "site_name": "joinhandshake.com"
+        },
+        {
+          "position": 10,
+          "title": "6 Best Job Search Sites for College Students",
+          "url": "https://www.nssi.com/blog/6-Best-Job-Search-Sites-for-College-Students",
+          "snippet": "6 Best Job Search Sites for College Students · Handshake · Indeed · LinkedIn · Glassdoor · College Recruiter · Upwork.",
+          "site_name": "www.nssi.com"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "url": "https://firstrole-tinyfish-ai.vercel.app/",
+    "final_url": "https://firstrole-tinyfish-ai.vercel.app/",
+    "title": "FirstRole — Find your way in",
+    "description": "Live job and internship discovery with evidence-backed matching, clear visa details, and a shortlist that stays fresh.",
+    "language": "en",
+    "text": "LESS SEARCHING. MORE POSSIBILITY.\n\n# Find your way in.\n\nReal openings. Clear matches. Your next move.\n\nReady to explore the live web\n\nRefresh every 30 min\n\n## Your search, without the tab overload.\n\nSet your preferences and we’ll scout live careers pages,  \n read the details, and bring back matches worth your time.\n\nNEED A STARTING POINT?\n\nMultiple live sources No duplicate listings Evidence, not guesses",
+    "author": null,
+    "published_date": null,
+    "links": [
+      "https://firstrole-tinyfish-ai.vercel.app/",
+      "https://github.com/Chethan-4255/firstrole_tinyfish.ai",
+      "https://www.tinyfish.ai/"
+    ],
+    "latency_ms": 1276.1159629990289,
+    "format": "markdown",
+    "page_metadata": {
+      "favicon": "https://firstrole-tinyfish-ai.vercel.app/favicon.svg",
+      "viewport": "width=device-width, initial-scale=1"
+    }
+  },
+  "headAudit": {
+    "htmlBytes": 22475,
+    "title": "FirstRole — Find your way in",
+    "description": "Live job and internship discovery with evidence-backed matching, clear visa details, and a shortlist that stays fresh.",
+    "robots": null,
+    "noindex": false,
+    "canonical": null,
+    "hreflang": [],
+    "og": {},
+    "twitter": {},
+    "jsonLd": {
+      "blocks": 0,
+      "invalid": 0,
+      "types": []
+    },
+    "lang": "en",
+    "viewport": "width=device-width, initial-scale=1",
+    "h1": [
+      "Find your way in ."
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "Your preferences"
+      },
+      {
+        "level": 1,
+        "text": "Find your way in ."
+      },
+      {
+        "level": 2,
+        "text": "Your search, without the tab overload."
+      }
+    ],
+    "skippedLevels": [],
+    "bodyTextWords": 183
+  },
+  "crawlPolicy": {
+    "origin": "https://firstrole-tinyfish-ai.vercel.app",
+    "robots": {
+      "status": "missing",
+      "bytes": 0,
+      "sitemaps": [],
+      "rules": [
+        {
+          "agent": "GPTBot",
+          "vendor": "OpenAI",
+          "use": "ChatGPT training + browsing index",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "OAI-SearchBot",
+          "vendor": "OpenAI",
+          "use": "ChatGPT search results",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "ChatGPT-User",
+          "vendor": "OpenAI",
+          "use": "ChatGPT live page visits",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "ClaudeBot",
+          "vendor": "Anthropic",
+          "use": "Claude crawling",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Claude-Web",
+          "vendor": "Anthropic",
+          "use": "Claude web fetch",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "anthropic-ai",
+          "vendor": "Anthropic",
+          "use": "Anthropic crawler (legacy token)",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "PerplexityBot",
+          "vendor": "Perplexity",
+          "use": "Perplexity search index",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Google-Extended",
+          "vendor": "Google",
+          "use": "Gemini training (not Search ranking)",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Googlebot",
+          "vendor": "Google",
+          "use": "Google Search + AI Overviews",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Bingbot",
+          "vendor": "Microsoft",
+          "use": "Bing + Copilot",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Applebot-Extended",
+          "vendor": "Apple",
+          "use": "Apple Intelligence",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Amazonbot",
+          "vendor": "Amazon",
+          "use": "Alexa answers",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "CCBot",
+          "vendor": "Common Crawl",
+          "use": "Open datasets used by many models",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        },
+        {
+          "agent": "Bytespider",
+          "vendor": "ByteDance",
+          "use": "TikTok/Doubao",
+          "allowed": true,
+          "group": null,
+          "rule": "no robots.txt → everything allowed"
+        }
+      ],
+      "blockedAll": false,
+      "excerpt": "",
+      "contentSignal": null
+    },
+    "llms": {
+      "status": "missing",
+      "bytes": 0,
+      "excerpt": "",
+      "mentionsPage": false
+    },
+    "sitemap": {
+      "status": "missing",
+      "urlCount": 0,
+      "listsPage": null,
+      "location": "https://firstrole-tinyfish-ai.vercel.app/sitemap.xml"
+    }
+  },
+  "browser": null,
+  "competitor": {
+    "url": "https://www.wayup.com/",
+    "final_url": "https://www.wayup.com/",
+    "title": "Jobs & Internships for College Students and Recent Grads | WayUp",
+    "description": "The industry leader for qualified and diverse candidates to get discovered and hired. Search for job and internship opportunities, access career advice, and connect directly with top employers.",
+    "language": "en",
+    "text": "Live\n\n3,298students signed up in the last 24 hours\n\nJOBSSurge Staffing+143roles posted this week\n\n5,461jobs posted this week\n\nJOBSUnited Surgical Partners International Inc (USPI)+106roles posted this week\n\n62,230applications submitted this week\n\nJOBSSalt City Trucking+84roles posted this week\n\n187,959open roles right now\n\nJOBSNYU Langone Health+81roles posted this week\n\nJOBSCaring Senior Service+76roles posted this week\n\nJOBSGeneral Dynamics+71roles posted this week\n\n3,298students signed up in the last 24 hours\n\nJOBSSurge Staffing+143roles posted this week\n\n5,461jobs posted this week\n\nJOBSUnited Surgical Partners International Inc (USPI)+106roles posted this week\n\n62,230applications submitted this week\n\nJOBSSalt City Trucking+84roles posted this week\n\n187,959open roles right now\n\nJOBSNYU Langone Health+81roles posted this week\n\nJOBSCaring Senior Service+76roles posted this week\n\nJOBSGeneral Dynamics+71roles posted this week\n\nBuilt for students & recent grads⚡ Profile in ~30 seconds\n\n# Upload your resume. See jobs *matched to you* in seconds.\n\nUpload your resume and WayUp builds your profile in seconds — then surfaces **jobs, internships, and employer events** matched to your experience immediately. **Free, forever.**\n\nUpload your resumeStart hiring →\n\nWhy upload your resume?First matches in **~30 sec**\n\nUpload resume\n\nDrag & drop a PDF\n\nProfile auto-built\n\nIn seconds, automatically\n\nStart applying\n\nTo jobs matched to you\n\nMost students start seeing matched jobs in **30 seconds**.\n\n* Your profile is built automatically — no forms\n* Get matched to relevant jobs & internships\n* Recruiters from 3,800+ US employers can find you directly\n* Takes less than 30 seconds\n\nHiring on WayUp now · **3,800+ US employers**\n\n♥ CVSL’ORÉALBOEINGKohl’s▶ HSBCFOXT·Mobile⊙ TargetSpectrumESTÉE LAUDERBlackRock\n\n### Active jobs on WayUp\n\nFeatured roles, hiring right now\n\nFederal Tax Services Intern - Summer 2027\n\nRSMLos Angeles, CAInternship\n\nApply\n\nIN\n\nData Science and Analytics - PhD Intern\n\nIntelHillsboro, ORInternship\n\nApply\n\nIN\n\nAI Solution Architect - Undergraduate Intern\n\nIntelHillsboro, ORInternship\n\nApply\n\nMechanical Engineer Co-op 2027 (January - August)\n\nIngredionNorth Kansas City, MOInternship\n\nApply\n\nTreasury Capital Markets Intern - Summer 2027 - Frankin, TN\n\nNissan USAFranklin, TNInternship\n\nApply\n\nSA\n\n2027 Summer Intern Consumer Experience Product Design Cambridge MA\n\nSanofiCambridge, MAInternship\n\nApply\n\nSee all jobs →\n\nHow it works\n\n## Drop your resume. Get noticed in *two clicks.*\n\nOne upload — then apply to **open positions** or reserve your spot at **virtual & in-person career events** hosted by 3,800+ US employers. Even if you're not actively looking, your profile goes live so recruiters can reach out directly.\n\n1\n\nDrop your resume\n\nAI builds your structured profile in seconds\n\n2\n\nAnswer a few quick questions\n\nBy voice or text — each one strengthens your profile\n\n3\n\nActivate & get matched\n\nSet a password and recruiters can reach out directly\n\n✨\n\n**Your profile preview will appear here.**\n\nUpload a resume and we'll show you exactly what employers see.\n\nLive every week\n\n## Meet recruiters *face-to-face.*\n\nWayUp hosts its own **virtual career fairs & employer info sessions** — and partners with Yello to bring more companies to **in-person campus events**. Either way, you skip the cold-app spiral and meet a hiring manager directly.\n\n**124**events this month**3,800+**US employers\n\nSee this week's events\n\nJUN\n\n04\n\n★ Virtual · Featured\n\nSummer Internship Expo\n\n60+ US employers · live Q&A\n\nJUN\n\n18\n\nIn-person · Yello\n\nUT Austin Campus Mixer\n\n22 brands · ATX\n\nJUL\n\n09\n\nVirtual · Tech\n\nEngineering Talent Day\n\n34 hiring teams · live demo\n\nReal students. Real outcomes.\n\n## Hired through WayUp — *in their own words.*\n\n“\n\nWayUp had great job postings and recruiters reaching out directly. An offer hit my inbox before I’d finished applying.\n\nRaphael R.\n\nNYU · ’25\n\nHired · Marketing\n\n“\n\nThe virtual fair was a lot less intimidating than my campus career fair — I met three hiring managers in one afternoon.\n\nIvana U.\n\nGeorgia Tech · ’25\n\nHired · Engineering\n\n“\n\nMatching was eerily accurate. Every interview actually fit my profile — full-time role two weeks after uploading.\n\nMarcus T.\n\nUCLA · ’26\n\nHired · SWE\n\n★ WayUp × Yello\n\n### Together we help US employers find students where they actually are — online *and* on campus.\n\nFor employers\n\n⚡ Less scrolling. More offers.\n\n## Stop browsing. Start *interviewing.*\n\nFree for life. Upload your resume in 30 seconds and we'll match you to roles at 3,800+ US employers — and the recruiters who are hiring this week.\n\nGet hiredFollow @wayup",
+    "author": null,
+    "published_date": null,
+    "latency_ms": 1538.9520520002407,
+    "format": "markdown",
+    "page_metadata": {
+      "canonical": "https://www.wayup.com/",
+      "favicon": "https://www.wayup.com/cdn/assets/wayup_logos/favicon/2018/favicon.ico",
+      "viewport": "width=device-width, initial-scale=1",
+      "og": {
+        "title": "Jobs & Internships for College Students and Recent Grads | WayUp",
+        "image": [
+          "https://www.wayup.com/cdn/assets/wayup_logos/favicon/2018/wayup_logo_facebook.jpg"
+        ],
+        "logo": "https://www.wayup.com/cdn/assets/wayup_logos/2018/wayup_simple_logo.png",
+        "url": "https://www.wayup.com/",
+        "description": "The industry leader for qualified and diverse candidates to get discovered and hired. Search for job and internship opportunities, access career advice, and connect directly with top employers.",
+        "type": "website"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Jobs + Internships for College Students + Recent Grads",
+        "description": "The industry leader for qualified and diverse candidates to get discovered and hired. Search for job and internship opportunities, access career advice, and connect directly with top employers.",
+        "site": "@wayup",
+        "image": "https://www.wayup.com/cdn/assets/wayup_logos/favicon/2018/wayup_logo_facebook.jpg"
+      },
+      "other": {
+        "msapplication-tilecolor": "#16D8ED",
+        "msapplication-tileimage": "https://www.wayup.com/cdn/assets/wayup_logos/favicon/2018/ms-icon-310x310.png",
+        "fb:app_id": "1483392411976067",
+        "apple-itunes-app": "app-id=1022826923",
+        "sentry-trace": "6f96b84fe2a838d80a1df50e2f2ddd8f-a92123b3e1460dc1-0",
+        "baggage": "sentry-environment=production,sentry-release=f13f8cfda592a0fa56b717c0962dce05ff800d10,sentry-public_key=b9941d32c69eaa8666028df7cc34d4c9,sentry-trace_id=6f96b84fe2a838d80a1df50e2f2ddd8f,sentry-sampled=false"
+      }
+    },
+    "links": []
+  },
+  "competitors": [
+    {
+      "url": "https://www.ziprecruiter.com/college-jobs",
+      "host": "ziprecruiter.com",
+      "title": "Jobs for College Students",
+      "description": null,
+      "position": 1,
+      "kind": "other",
+      "words": 0,
+      "headings": 0,
+      "hasOg": null,
+      "answerCoverage": null,
+      "answerPassage": null
+    },
+    {
+      "url": "https://www.wayup.com/",
+      "host": "wayup.com",
+      "title": "Jobs & Internships for College Students and Recent Grads | WayUp",
+      "description": "The industry leader for qualified and diverse candidates to get discovered and hired. Search for job and internship opportunities, access career advice, and connect directly with top employers.",
+      "position": 2,
+      "kind": "product",
+      "words": 690,
+      "headings": 7,
+      "hasOg": true,
+      "answerCoverage": 25,
+      "answerPassage": "Most students start seeing matched jobs in 30 seconds .",
+      "text": "Live\n\n3,298students signed up in the last 24 hours\n\nJOBSSurge Staffing+143roles posted this week\n\n5,461jobs posted this week\n\nJOBSUnited Surgical Partners International Inc (USPI)+106roles posted this week\n\n62,230applications submitted this week\n\nJOBSSalt City Trucking+84roles posted this week\n\n187,959open roles right now\n\nJOBSNYU Langone Health+81roles posted this week\n\nJOBSCaring Senior Service+76roles posted this week\n\nJOBSGeneral Dynamics+71roles posted this week\n\n3,298students signed up in the last 24 hours\n\nJOBSSurge Staffing+143roles posted this week\n\n5,461jobs posted this week\n\nJOBSUnited Surgical Partners International Inc (USPI)+106roles posted this week\n\n62,230applications submitted this week\n\nJOBSSalt City Trucking+84roles posted this week\n\n187,959open roles right now\n\nJOBSNYU Langone Health+81roles posted this week\n\nJOBSCaring Senior Service+76roles posted this week\n\nJOBSGeneral Dynamics+71roles posted this week\n\nBuilt for students & recent grads⚡ Profile in ~30 seconds\n\n# Upload your resume. See jobs *matched to you* in seconds.\n\nUpload your resume and WayUp builds your profile in seconds — then surfaces **jobs, internships, and employer events** matched to your experience immediately. **Free, forever.**\n\nUpload your resumeStart hiring →\n\nWhy upload your resume?First matches in **~30 sec**\n\nUpload resume\n\nDrag & drop a PDF\n\nProfile auto-built\n\nIn seconds, automatically\n\nStart applying\n\nTo jobs matched to you\n\nMost students start seeing matched jobs in **30 seconds**.\n\n* Your profile is built automatically — no forms\n* Get matched to relevant jobs & internships\n* Recruiters from 3,800+ US employers can find you directly\n* Takes less than 30 seconds\n\nHiring on WayUp now · **3,800+ US employers**\n\n♥ CVSL’ORÉALBOEINGKohl’s▶ HSBCFOXT·Mobile⊙ TargetSpectrumESTÉE LAUDERBlackRock\n\n### Active jobs on WayUp\n\nFeatured roles, hiring right now\n\nFederal Tax Services Intern - Summer 2027\n\nRSMLos Angeles, CAInternship\n\nApply\n\nIN\n\nData Science and Analytics - PhD Intern\n\nIntelHillsboro, ORInternship\n\nApply\n\nIN\n\nAI Solution Architect - Undergraduate Intern\n\nIntelHillsboro, ORInternship\n\nApply\n\nMechanical Engineer Co-op 2027 (January - August)\n\nIngredionNorth Kansas City, MOInternship\n\nApply\n\nTreasury Capital Markets Intern - Summer 2027 - Frankin, TN\n\nNissan USAFranklin, TNInternship\n\nApply\n\nSA\n\n2027 Summer Intern Consumer Experience Product Design Cambridge MA\n\nSanofiCambridge, MAInternship\n\nApply\n\nSee all jobs →\n\nHow it works\n\n## Drop your resume. Get noticed in *two clicks.*\n\nOne upload — then apply to **open positions** or reserve your spot at **virtual & in-person career events** hosted by 3,800+ US employers. Even if you're not actively looking, your profile goes live so recruiters can reach out directly.\n\n1\n\nDrop your resume\n\nAI builds your structured profile in seconds\n\n2\n\nAnswer a few quick questions\n\nBy voice or text — each one strengthens your profile\n\n3\n\nActivate & get matched\n\nSet a password and recruiters can reach out directly\n\n✨\n\n**Your profile preview will appear here.**\n\nUpload a resume and we'll show you exactly what employers see.\n\nLive every week\n\n## Meet recruiters *face-to-face.*\n\nWayUp hosts its own **virtual career fairs & employer info sessions** — and partners with Yello to bring more companies to **in-person campus events**. Either way, you skip the cold-app spiral and meet a hiring manager directly.\n\n**124**events this month**3,800+**US employers\n\nSee this week's events\n\nJUN\n\n04\n\n★ Virtual · Featured\n\nSummer Internship Expo\n\n60+ US employers · live Q&A\n\nJUN\n\n18\n\nIn-person · Yello\n\nUT Austin Campus Mixer\n\n22 brands · ATX\n\nJUL\n\n09\n\nVirtual · Tech\n\nEngineering Talent Day\n\n34 hiring teams · live demo\n\nReal students. Real outcomes.\n\n## Hired through WayUp — *in their own words.*\n\n“\n\nWayUp had great job postings and recruiters reaching out directly. An offer hit my inbox before I’d finished applying.\n\nRaphael R.\n\nNYU · ’25\n\nHired · Marketing\n\n“\n\nThe virtual fair was a lot less intimidating than my campus career fair — I met three hiring managers in one afternoon.\n\nIvana U.\n\nGeorgia Tech · ’25\n\nHired · Engineering\n\n“\n\nMatching was eerily accurate. Every interview actually fit my profile — full-time role two weeks after uploading.\n\nMarcus T.\n\nUCLA · ’26\n\nHired · SWE\n\n★ WayUp × Yello\n\n### Together we help US employers find students where they actually are — online *and* on campus.\n\nFor employers\n\n⚡ Less scrolling. More offers.\n\n## Stop browsing. Start *interviewing.*\n\nFree for life. Upload your resume in 30 seconds and we'll match you to roles at 3,800+ US employers — and the recruiters who are hiring this week.\n\nGet hiredFollow @wayup"
+    },
+    {
+      "url": "https://uastudentjobs.ua.edu/",
+      "host": "uastudentjobs.ua.edu",
+      "title": "Student Employment - UA Student Jobs | The University of Alabama",
+      "description": null,
+      "position": 3,
+      "kind": "product",
+      "words": 234,
+      "headings": 7,
+      "hasOg": true,
+      "answerCoverage": 50,
+      "answerPassage": "Student employment is an integral part of the educational and professional development of UA students. Working while in college not only helps students finance their education, it also assists in developing essential job and life long learning skills, and provides opportunities to network and conne…",
+      "text": "# Student Employment\n\n## WELCOME\n\nStudent employment is an integral part of the educational and professional development of UA students. Working while in college not only helps students finance their education, it also assists in developing essential job and life-long learning skills, and provides opportunities to network and connect with faculty, staff, and fellow students who can help with the transition to life at UA. The experience gained is instrumental in preparing students for the job market after graduation and beyond.\n\n## Post a Job\n\n## Apply Now\n\n## SEOTY Award\n\n## Upcoming: 2026 On-Campus Student Job Fair\n\nHuman Resources and the SGA will partner together in hosting the 2026 On-Campus Student Job Fair. In 2025, we had over 400 students in attendance, participation from 20 departments, and 3 student raffle prize winners.\n\nIf you are an on-campus department interested in participating this fair, get added to our contact list by emailing uastudentjobs@ua.edu.\n\nContact us\n\n## HERE ARE SOME USEFUL LINKS\n\nThe Department of Human Resources advertises undergraduate and graduate student assistant positions, both on-campus and off-campus. These student positions are compensated on an hourly basis, with payments made via direct deposit for the student’s personal use. For opportunities related to educational expenses, we recommend contacting the Financial Aid office to explore Work Study options or contacting the Graduate School for Graduate Assistantships. For further details, please refer to the links below.\n\n---"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "high",
+      "category": "Answer-ability",
+      "title": "No single passage answers “live job finder for students” (best covers 25% of its terms)",
+      "evidence": "Best passage (52% into the page): “Set your preferences and we’ll scout live careers pages, read the details, and bring back matches worth your time.” — covers live; missing job, finder, students.",
+      "impact": "AI search answers are built from passages that match the question. When no passage covers the query, the engine quotes a competitor instead.",
+      "fix": "Add a one-paragraph direct answer under the H1 that uses the terms “job”, “finder”, “students” naturally, e.g. “FirstRole is [one factual sentence that answers “live job finder for students” using those words]”",
+      "verify": "Re-run; the answer passage card should show ≥80% coverage within the first 20% of the page.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F01"
+    },
+    {
+      "priority": "high",
+      "category": "Search visibility",
+      "title": "Not in the top 10 for “live job finder for students”",
+      "evidence": "10 results sampled (US/English); neither https://firstrole-tinyfish-ai.vercel.app/ nor its redirect target appeared. It also did not appear for its own site: query, so indexing itself is in doubt. Ranking formats: 6 product / landing, 3 other, 1 blog / guide.",
+      "impact": "AI search tools (ChatGPT search, Perplexity, AI Overviews) pick sources from the same top results; a page outside them is effectively invisible for this question.",
+      "fix": "Make the page answer the query directly (see the Answer-ability finding). The words “finder”, “students” never appear on the page — use them in the title, H1 or opening paragraph where accurate. Study the top competing result (ziprecruiter.com, 0 words, 0 headings) in the Search tab and cover what it covers. Confirm the page is indexed in Search Console and listed in the sitemap.",
+      "verify": "Re-run the same query after publishing; the Search tab shows the position directly.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F02"
+    },
+    {
+      "priority": "medium",
+      "category": "Extraction",
+      "title": "Only 64 words reached the extractor",
+      "evidence": "Fetch returned 64 words from https://firstrole-tinyfish-ai.vercel.app/; the raw HTML body contains ≈183 words of text.",
+      "impact": "There is almost nothing for a retrieval system to quote. AI answers will cite a page that says more.",
+      "fix": "Add a direct, factual paragraph under the H1 that states what this page is and answers the target query; keep key facts in visible text, not images or tabs.",
+      "verify": "Re-run; extracted words should exceed 300 for a content page.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F03"
+    },
+    {
+      "priority": "medium",
+      "category": "Metadata",
+      "title": "No Open Graph tags",
+      "evidence": "Found: none",
+      "impact": "Open Graph drives the preview card when the page is shared in chat apps, social feeds and some AI answer UIs; missing tags mean a bare link.",
+      "fix": "<meta property=\"og:title\" content=\"FirstRole — Find your way in\">\n<meta property=\"og:description\" content=\"Set your preferences and we’ll scout live careers pages, read the details, and bring back matches worth your time.\">\n<meta property=\"og:image\" content=\"https://firstrole-tinyfish-ai.vercel.app/og-image.png\">  (1200×630 px)",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F04"
+    },
+    {
+      "priority": "medium",
+      "category": "Structured data",
+      "title": "No JSON-LD structured data",
+      "evidence": "No <script type=\"application/ld+json\"> block in the HTML.",
+      "impact": "Structured data tells search engines and AI systems what the page *is* (an article, a product, an FAQ) and unlocks rich results. Without it, type has to be inferred from prose.",
+      "fix": "Add a JSON-LD block to <head>, for example:\n<script type=\"application/ld+json\">\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"FirstRole — Find your way in\",\"url\":\"https://firstrole-tinyfish-ai.vercel.app/\",\"description\":\"Live job and internship discovery with evidence-backed matching, clear visa details, and a shortlist that stays fresh.\"}\n</script>\nUse Article, Product, FAQPage or SoftwareApplication when they fit the content.",
+      "verify": "Validate at https://validator.schema.org, then re-run SignalScope.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F05"
+    },
+    {
+      "priority": "medium",
+      "category": "Crawl policy",
+      "title": "No sitemap.xml",
+      "evidence": "https://firstrole-tinyfish-ai.vercel.app/sitemap.xml was not found and robots.txt lists no Sitemap.",
+      "impact": "Without a sitemap, discovery of this page depends entirely on internal links; new or deep pages are indexed later or not at all.",
+      "fix": "Generate a sitemap listing https://firstrole-tinyfish-ai.vercel.app/ (Next.js: app/sitemap.ts; WordPress: Yoast/RankMath) and reference it from robots.txt with Sitemap: https://firstrole-tinyfish-ai.vercel.app/sitemap.xml",
+      "verify": "Re-run SignalScope: the sitemap row should show the page as listed.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/sitemap.xml",
+      "confidence": "observed",
+      "id": "F06"
+    },
+    {
+      "priority": "low",
+      "category": "Metadata",
+      "title": "Title is 28 characters (shorter than typical)",
+      "evidence": "<title>FirstRole — Find your way in</title>",
+      "impact": "A short title gives search engines little to match the query against and often gets rewritten.",
+      "fix": "Extend the title with the page's main topic, e.g. <title>FirstRole — Find your way in – Find your way in .</title>",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F07"
+    },
+    {
+      "priority": "low",
+      "category": "Indexing",
+      "title": "No canonical link",
+      "evidence": "No <link rel=\"canonical\"> in <head>.",
+      "impact": "Query-string, trailing-slash and tracking variants of this URL can be indexed as duplicates and split ranking signals.",
+      "fix": "Add <link rel=\"canonical\" href=\"https://firstrole-tinyfish-ai.vercel.app/\"> to <head>.",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F08"
+    },
+    {
+      "priority": "low",
+      "category": "Metadata",
+      "title": "No Twitter/X card tag",
+      "evidence": "No <meta name=\"twitter:card\"> in <head>.",
+      "impact": "X and some link-unfurling tools fall back to a plain link instead of a rich card.",
+      "fix": "<meta name=\"twitter:card\" content=\"summary_large_image\">",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/",
+      "confidence": "observed",
+      "id": "F09"
+    },
+    {
+      "priority": "low",
+      "category": "Crawl policy",
+      "title": "No robots.txt",
+      "evidence": "https://firstrole-tinyfish-ai.vercel.app/robots.txt returned no robots directives.",
+      "impact": "Everything is crawlable (good for visibility) but you have no place to declare your sitemap or AI-crawler preferences.",
+      "fix": "Publish https://firstrole-tinyfish-ai.vercel.app/robots.txt with:\nUser-agent: *\nAllow: /\nSitemap: https://firstrole-tinyfish-ai.vercel.app/sitemap.xml",
+      "verify": "Re-run SignalScope.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/robots.txt",
+      "confidence": "observed",
+      "id": "F10"
+    },
+    {
+      "priority": "low",
+      "category": "Crawl policy",
+      "title": "No llms.txt",
+      "evidence": "https://firstrole-tinyfish-ai.vercel.app/llms.txt was not found.",
+      "impact": "Optional, but a growing number of AI tools read /llms.txt to find the site's canonical, most-important pages in plain Markdown. It is a cheap way to steer which URLs assistants read first.",
+      "fix": "Publish https://firstrole-tinyfish-ai.vercel.app/llms.txt:\n# firstrole-tinyfish-ai.vercel.app\n> One-line description of the site.\n\n## Key pages\n- [Page title](https://firstrole-tinyfish-ai.vercel.app/): what this page answers",
+      "verify": "Re-run SignalScope; the llms.txt row turns Present.",
+      "source": "https://firstrole-tinyfish-ai.vercel.app/llms.txt",
+      "confidence": "observed",
+      "id": "F11"
+    }
+  ],
+  "comparisons": [],
+  "answer": {
+    "text": "Set your preferences and we’ll scout live careers pages, read the details, and bring back matches worth your time.",
+    "coverage": 25,
+    "wordOffset": 33,
+    "position": 52,
+    "totalWords": 64,
+    "words": 19,
+    "termsCovered": [
+      "live"
+    ],
+    "termsMissing": [
+      "job",
+      "finder",
+      "students"
+    ],
+    "underHeading": "Your search, without the tab overload."
+  },
+  "score": {
+    "total": 34,
+    "confidence": 100,
+    "grade": "F",
+    "groups": [
+      {
+        "id": "search",
+        "label": "Search visibility",
+        "max": 30,
+        "items": [
+          {
+            "id": "rank",
+            "label": "Exact URL ranks for the target query",
+            "max": 12,
+            "points": 0,
+            "evidence": "Not in the 10 sampled results."
+          },
+          {
+            "id": "discovery",
+            "label": "URL found via site: discovery query",
+            "max": 8,
+            "points": 0,
+            "evidence": "Exact URL absent from the site: query sample."
+          },
+          {
+            "id": "snippet",
+            "label": "SERP snippet is substantive and on-topic",
+            "max": 5,
+            "points": 0,
+            "evidence": "No snippet: page not in results."
+          },
+          {
+            "id": "alt",
+            "label": "Also ranks for an alternate phrasing",
+            "max": 5,
+            "points": 0,
+            "evidence": "Not in results for the alternate phrasing."
+          }
+        ],
+        "earned": 0,
+        "available": 30,
+        "score": 0
+      },
+      {
+        "id": "extraction",
+        "label": "AI extraction",
+        "max": 30,
+        "items": [
+          {
+            "id": "words",
+            "label": "Enough text reaches the extractor",
+            "max": 10,
+            "points": 3,
+            "evidence": "64 words extracted."
+          },
+          {
+            "id": "headings",
+            "label": "Headings survive extraction",
+            "max": 6,
+            "points": 3,
+            "evidence": "2 Markdown headings in the extraction."
+          },
+          {
+            "id": "prose",
+            "label": "Main content outweighs navigation",
+            "max": 7,
+            "points": 4,
+            "evidence": "64% of extracted words are prose (rest are link/menu lines)."
+          },
+          {
+            "id": "block",
+            "label": "No login wall, bot block or empty JS shell",
+            "max": 7,
+            "points": 7,
+            "evidence": "Raw HTML body ≈183 words vs 64 extracted."
+          }
+        ],
+        "earned": 17,
+        "available": 30,
+        "score": 17
+      },
+      {
+        "id": "metadata",
+        "label": "Metadata & structure",
+        "max": 20,
+        "items": [
+          {
+            "id": "title",
+            "label": "Title 30-60 chars",
+            "max": 3,
+            "points": 1.5,
+            "evidence": "28 characters."
+          },
+          {
+            "id": "description",
+            "label": "Meta description 70-160 chars",
+            "max": 3,
+            "points": 3,
+            "evidence": "118 characters."
+          },
+          {
+            "id": "canonical",
+            "label": "Canonical present and self-referencing",
+            "max": 2,
+            "points": 0,
+            "evidence": "Missing or points elsewhere."
+          },
+          {
+            "id": "noindex",
+            "label": "No noindex directive",
+            "max": 3,
+            "points": 3,
+            "evidence": "Indexable."
+          },
+          {
+            "id": "og",
+            "label": "Open Graph title/description/image",
+            "max": 2,
+            "points": 0,
+            "evidence": "Incomplete or missing."
+          },
+          {
+            "id": "twitter",
+            "label": "Twitter card",
+            "max": 1,
+            "points": 0,
+            "evidence": "Missing."
+          },
+          {
+            "id": "jsonld",
+            "label": "Valid JSON-LD with a type",
+            "max": 2,
+            "points": 0,
+            "evidence": "None."
+          },
+          {
+            "id": "lang",
+            "label": "<html lang> set",
+            "max": 1,
+            "points": 1,
+            "evidence": "Set."
+          },
+          {
+            "id": "h1",
+            "label": "Exactly one H1",
+            "max": 2,
+            "points": 2,
+            "evidence": "1 <h1> element(s)."
+          },
+          {
+            "id": "outline",
+            "label": "No skipped heading levels",
+            "max": 1,
+            "points": 1,
+            "evidence": "0 skip(s)."
+          }
+        ],
+        "earned": 11.5,
+        "available": 20,
+        "score": 11.5
+      },
+      {
+        "id": "answer",
+        "label": "Answer-ability",
+        "max": 20,
+        "items": [
+          {
+            "id": "coverage",
+            "label": "A single passage covers the query",
+            "max": 10,
+            "points": 0,
+            "evidence": "Best passage covers 25% of query terms."
+          },
+          {
+            "id": "early",
+            "label": "The answer appears early",
+            "max": 5,
+            "points": 1,
+            "evidence": "52% into the document."
+          },
+          {
+            "id": "concise",
+            "label": "The answer is concise",
+            "max": 3,
+            "points": 3,
+            "evidence": "19 words."
+          },
+          {
+            "id": "title",
+            "label": "Title/H1 names the query topic",
+            "max": 2,
+            "points": 1,
+            "evidence": "25% of query terms in title/H1."
+          }
+        ],
+        "earned": 5,
+        "available": 20,
+        "score": 5
+      }
+    ]
+  },
+  "serp": {
+    "intent": [
+      {
+        "kind": "product",
+        "label": "Product / landing",
+        "count": 6,
+        "share": 60
+      },
+      {
+        "kind": "other",
+        "label": "Other",
+        "count": 3,
+        "share": 30
+      },
+      {
+        "kind": "blog",
+        "label": "Blog / guide",
+        "count": 1,
+        "share": 10
+      }
+    ],
+    "alternate": {
+      "query": "what is the best live job finder for students",
+      "rank": null
+    },
+    "targetHit": null,
+    "discoveryHit": null
+  },
+  "metrics": {
+    "words": 64,
+    "headings": [
+      "Find your way in.",
+      "Your search, without the tab overload."
+    ],
+    "proseRatio": 0.640625,
+    "rank": null,
+    "sampled": 0,
+    "matched": 0,
+    "coverage": null,
+    "queryTerms": [
+      "live",
+      "job",
+      "finder",
+      "students"
+    ],
+    "missingTerms": [
+      "finder",
+      "students"
+    ],
+    "blocked": false
+  },
+  "summary": "firstrole-tinyfish-ai.vercel.app scores 34/100 (F) for “live job finder for students” — fundamental blockers prevent this page from being found or read. Strongest area: metadata & structure (11.5/20); weakest: search visibility (0/30). Fix first: No single passage answers “live job finder for students” (best covers 25% of its terms); Not in the top 10 for “live job finder for students”; Only 64 words reached the extractor.",
+  "limitations": [
+    "Search positions come from one TinyFish Search sample (US, English) at audit time; they are directional, not a universal rank. robots.txt rules are evaluated for the exact path only; HTTP headers (X-Robots-Tag), Search Console data and backlinks are not inspected. Browser observations are agent-reported."
+  ]
+}

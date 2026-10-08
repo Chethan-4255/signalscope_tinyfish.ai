@@ -1,0 +1,1123 @@
+{
+  "id": "5e6e1372-4e5d-4ef6-8994-b646aec872c4",
+  "status": "complete",
+  "url": "https://linear.app/pricing",
+  "query": "linear pricing",
+  "queryMode": "provided",
+  "checkedAt": "2026-10-08T14:10:31.874Z",
+  "durationMs": 225394,
+  "stages": [
+    {
+      "endpoint": "Search",
+      "purpose": "Check URL-specific discovery (site: query)",
+      "status": "complete",
+      "durationMs": 649,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Probe robots.txt, llms.txt and sitemap.xml for AI-crawler policy",
+      "status": "complete",
+      "durationMs": 1739,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read live page content and metadata (Markdown)",
+      "status": "complete",
+      "durationMs": 2159,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Measure visibility for the target query",
+      "status": "complete",
+      "durationMs": 219,
+      "calls": 1
+    },
+    {
+      "endpoint": "Search",
+      "purpose": "Measure visibility for an alternate phrasing",
+      "status": "complete",
+      "durationMs": 479,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read raw HTML to audit <head>, structured data and heading outline",
+      "status": "complete",
+      "durationMs": 2953,
+      "calls": 1
+    },
+    {
+      "endpoint": "Fetch",
+      "purpose": "Read the top competing results to compare answer coverage",
+      "status": "complete",
+      "durationMs": 2969,
+      "calls": 1
+    },
+    {
+      "endpoint": "Agent",
+      "purpose": "Verify browser facts and build evidence-backed AI recommendations",
+      "status": "complete",
+      "durationMs": 219270,
+      "calls": 1
+    }
+  ],
+  "searches": [
+    {
+      "query": "site:linear.app/pricing",
+      "kind": "discovery",
+      "results": [
+        {
+          "position": 1,
+          "title": "Pricing",
+          "url": "https://linear.app/pricing",
+          "snippet": "Use Linear for free with your whole team. Basic $10 per user/month Admin roles. Business $16 per user/month. Trusted by more than 40,000 companies",
+          "site_name": "linear.app"
+        }
+      ]
+    },
+    {
+      "query": "linear pricing",
+      "kind": "target",
+      "results": [
+        {
+          "position": 1,
+          "title": "Pricing",
+          "url": "https://linear.app/pricing",
+          "snippet": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+          "site_name": "linear.app"
+        },
+        {
+          "position": 2,
+          "title": "Linear App Pricing: Is It Worth It in 2026?",
+          "url": "https://lifestack.ai/blog/linear-pricing",
+          "snippet": "Linear has a free plan ($0), a Basic plan at $10 per user per month (billed annually), and a Business plan at $16 per user per month (billed ...",
+          "site_name": "lifestack.ai"
+        },
+        {
+          "position": 3,
+          "title": "Pricing Linear; I have to pay for all members? Very ...",
+          "url": "https://www.reddit.com/r/Linear/comments/1ax5l2w/pricing_linear_i_have_to_pay_for_all_members_very/",
+          "snippet": "I want to upgrade for me as I'm creating tasks for different devs and I need to upload files. But I have to pay as well for my them just to ...",
+          "site_name": "www.reddit.com"
+        },
+        {
+          "position": 4,
+          "title": "Linear Software Pricing & Plans 2026: See Your Cost",
+          "url": "https://www.vendr.com/marketplace/linear",
+          "snippet": "Linear's pricing is structured around three paid tiers—Standard, Plus, and Enterprise—plus a Free plan for small teams. Costs scale with the number of users ( ...",
+          "site_name": "www.vendr.com"
+        },
+        {
+          "position": 5,
+          "title": "How Much Does Linear App Cost? Full Pricing Breakdown",
+          "url": "https://www.bardeen.ai/answers/how-much-does-linear-app-cost",
+          "snippet": "Linear's Pricing Tiers: What You Get at Each Level · 1. Free Plan: No Cost for Small Teams · 2. Basic Plan: $8 Per User/Month · 3. Business Plan ...",
+          "site_name": "www.bardeen.ai"
+        },
+        {
+          "position": 6,
+          "title": "Linear Pricing in 2026: What Every Plan Actually Costs",
+          "url": "https://www.usecarly.com/blog/linear-pricing/",
+          "snippet": "How much does Linear cost per user? Basic is $10 per user/month and Business is $16 per user/month, both billed yearly. Enterprise is custom- ...",
+          "site_name": "www.usecarly.com"
+        },
+        {
+          "position": 7,
+          "title": "Billing and plans – Linear Docs",
+          "url": "https://linear.app/docs/billing-and-plans",
+          "snippet": "We offer a free plan and different paid plans to suit your needs. Please see Pricing for rates and a feature-by-feature comparison by plan.",
+          "site_name": "linear.app"
+        },
+        {
+          "position": 8,
+          "title": "What is linear pricing?",
+          "url": "https://www.quora.com/What-is-linear-pricing",
+          "snippet": "What is linear pricing?",
+          "site_name": "www.quora.com"
+        },
+        {
+          "position": 9,
+          "title": "Linear Review (2026): Pricing, Pros & Cons, Verdict | Siit",
+          "url": "https://www.siit.io/tools/trending/linear-app-review",
+          "snippet": "Linear is a product development system that gives software teams a way to plan and build software in AI-era workflows, used by more than 40,000 companies from ...",
+          "site_name": "www.siit.io"
+        },
+        {
+          "position": 10,
+          "title": "Linear Pricing: A Comprehensive Guide",
+          "url": "https://www.spendflo.com/blog/linear-pricing-guide",
+          "snippet": "Linear comes with different pricing plans that can range from anywhere between $5000 to $70000. This offers a greater deal of flexibility in ...",
+          "site_name": "www.spendflo.com"
+        }
+      ]
+    },
+    {
+      "query": "what is linear pricing",
+      "kind": "alternate",
+      "results": [
+        {
+          "position": 1,
+          "title": "Pricing",
+          "url": "https://linear.app/pricing",
+          "snippet": "Use Linear for free with your whole team. Basic $10 per user/month Admin roles. Business $16 per user/month Linear",
+          "site_name": "linear.app"
+        },
+        {
+          "position": 2,
+          "title": "Linear App Pricing: Is It Worth It in 2026?",
+          "url": "https://lifestack.ai/blog/linear-pricing",
+          "snippet": "Linear has a free plan ($0), a Basic plan at $10 per user per month (billed annually), and a Business plan at $16 per user per month (billed ...",
+          "site_name": "lifestack.ai"
+        },
+        {
+          "position": 3,
+          "title": "What is linear pricing?",
+          "url": "https://www.quora.com/What-is-linear-pricing",
+          "snippet": "What is linear pricing?",
+          "site_name": "www.quora.com"
+        },
+        {
+          "position": 4,
+          "title": "Linear Pricing in 2026: What Every Plan Actually Costs",
+          "url": "https://www.usecarly.com/blog/linear-pricing/",
+          "snippet": "How much does Linear cost per user? Basic is $10 per user/month and Business is $16 per user/month, both billed yearly. Enterprise is custom- ...",
+          "site_name": "www.usecarly.com"
+        },
+        {
+          "position": 5,
+          "title": "Billing and plans – Linear Docs",
+          "url": "https://linear.app/docs/billing-and-plans",
+          "snippet": "We offer a free plan and different paid plans to suit your needs. Customers are billed for the number of unsuspended users within a workspace. we offer either ...",
+          "site_name": "linear.app"
+        },
+        {
+          "position": 6,
+          "title": "Linear Pricing - PricingPing",
+          "url": "https://pricingping.com/linear-pricing/",
+          "snippet": "Free Unlimited members 2 teams 250 issues ・ $8 per user per month, billed annually Business All basic plan ・ $12 per user per month, billed annually ...",
+          "site_name": "pricingping.com"
+        },
+        {
+          "position": 7,
+          "title": "Linear Review (2026): Pricing, Pros & Cons, Verdict | Siit",
+          "url": "https://www.siit.io/tools/trending/linear-app-review",
+          "snippet": "Linear is a product development system that gives software teams a way to plan and build software in AI-era workflows, used by more than 40,000 companies from ...",
+          "site_name": "www.siit.io"
+        },
+        {
+          "position": 8,
+          "title": "Linear Pricing: A Comprehensive Guide",
+          "url": "https://www.spendflo.com/blog/linear-pricing-guide",
+          "snippet": "Linear comes with different pricing plans that can range from anywhere between $5000 to $70000. This offers a greater deal of flexibility in ...",
+          "site_name": "www.spendflo.com"
+        },
+        {
+          "position": 9,
+          "title": "What is linear pricing?",
+          "url": "https://math.answers.com/math-and-arithmetic/What_is_linear_pricing",
+          "snippet": "",
+          "site_name": "math.answers.com"
+        },
+        {
+          "position": 10,
+          "title": "$750 Invoice from Linear, why is it so expensive?",
+          "url": "https://www.reddit.com/r/Linear/comments/1lowdxh/750_invoice_from_linear_why_is_it_so_expensive/",
+          "snippet": "",
+          "site_name": "www.reddit.com"
+        }
+      ]
+    }
+  ],
+  "page": {
+    "url": "https://linear.app/pricing",
+    "final_url": "https://linear.app/pricing",
+    "title": "Pricing – Linear",
+    "description": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+    "language": "en",
+    "text": "### Free\n\n$0\n\nFree for everyone\n\n* Unlimited members\n* 2 teams\n* 250 issues\n* Agent platform\n* Linear Agent\n\nGet startedGet started\n\n### Basic\n\n$10 per user/month\n\nBilled yearly\n\n* All Free features +\n* 5 teams\n* Unlimited issues\n* Unlimited file uploads\n* Admin roles\n\nGet startedGet started\n\n### Business\n\n$16 per user/month\n\nBilled yearly\n\n* All Basic features +\n* Unlimited teams\n* Private teams and guests\n* Triage Intelligence\n* Loops\n* Code Intelligence\n* Linear Insights\n* Linear Asks\n* Zendesk and Intercom integrations\n\nGet startedGet startedContact sales\n\n### Enterprise\n\nCustom\n\nAnnual billing only\n\n* All Business features +\n* Invoice/PO billing\n* SAML and SCIM\n* Granular admin controls\n* Enterprise-grade security\n* Advanced org modeling\n* Migration & onboarding support\n* Priority support\n* Account management\n\nContact sales\n\nTrusted by more than **40,000** companies\n\nCustomer stories→\n\nFeatures\n\nFree\n\nBasic\n\nBusiness\n\nEnterprise\n\nChange PlanFreeBasicBusinessEnterprise\n\nMembers\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nFile upload\n\n10MB\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nIssues\n\n250 issues\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nTeams\n\n2 teams\n\n5 teams\n\nUnlimited\n\nUnlimited\n\nCore\n\nIssues, projects, cycles, initiatives\n\nCustomer requests\n\nAPI and webhook access\n\nImport and export\n\nTriage\n\nPulse\n\nIssue sync\n\nDiffs\n\nGuided reviews\n\nIssue SLAs\n\nTriage responsibility\n\nTriage rules\n\nReleases\n\n15 pipelines\n\nUnlimited\n\nSub-initiatives\n\nAI and agent workflows\n\nAgent platform\n\nMCP access\n\nLinear Agent\n\nCoding sessions\\*\\*\n\nLoops\\*\\*\n\nCode Intelligence\n\nTriage Intelligence\n\nIntegrations\n\nIntegrations\n\nMicrosoft Teams integration\n\nMultiple tenants\n\nSupport integrations\n\nSalesforce integrationAdd-on\n\nTeam management\n\nSub-teams\n\n1 level\n\n5 levels\n\nPrivate teams\n\nGuest accounts\n\nAnalytics & Reporting\n\nProgress reports\n\nInsights\n\nDashboards\n\nLinear Asks\n\nSlack intake\n\nEmail intake\n\nWeb forms\n\nMultiple Slack workspaces\n\nPrivate Slack channels\n\nPer-channel configurations\n\nSecurity\n\nSSO\n\nGoogle\n\nGoogle\n\nGoogle\n\nGoogle + SAML\n\nAdmin roles\n\nThird-party app management\n\nTeam owners\n\nAdvanced authentication\n\nSCIM provisioning\n\nIP restrictions\n\nDomain claiming\n\nAudit log\n\nHIPAA compliance\n\nSupport\n\nPriority support\n\nAccount manager\n\nCustom terms\n\nUptime SLA\n\n\\*\\* Requires AI creditsView docs\n\n## Built for the future. Available today.\n\nGet startedContact salesOpen appDownload",
+    "author": null,
+    "published_date": null,
+    "links": [
+      "https://linear.app/pricing#skip-nav",
+      "https://linear.app/homepage",
+      "https://linear.app/customers",
+      "https://linear.app/pricing",
+      "https://linear.app/now",
+      "https://linear.app/contact",
+      "https://linear.app/docs",
+      "https://linear.app/login",
+      "https://linear.app/login",
+      "https://linear.app/signup",
+      "https://linear.app/signup",
+      "https://linear.app/settings/plans",
+      "https://linear.app/signup",
+      "https://linear.app/settings/plans",
+      "https://linear.app/signup",
+      "https://linear.app/settings/plans",
+      "https://linear.app/contact/sales",
+      "https://linear.app/contact/sales",
+      "https://linear.app/customers",
+      "https://linear.app/customers",
+      "https://linear.app/signup",
+      "https://linear.app/settings/plans",
+      "https://linear.app/signup",
+      "https://linear.app/settings/plans",
+      "https://linear.app/signup",
+      "https://linear.app/settings/plans",
+      "https://linear.app/contact/sales",
+      "https://linear.app/contact/sales",
+      "https://linear.app/docs/ai-credits",
+      "https://linear.app/signup",
+      "https://linear.app/contact/sales",
+      "https://linear.app/login",
+      "https://linear.app/download",
+      "https://linear.app/",
+      "https://linear.app/intake",
+      "https://linear.app/plan",
+      "https://linear.app/ai",
+      "https://linear.app/build",
+      "https://linear.app/pricing",
+      "https://linear.app/security",
+      "https://linear.app/asks",
+      "https://linear.app/agents",
+      "https://linear.app/coding-sessions",
+      "https://linear.app/customer-requests",
+      "https://linear.app/insights",
+      "https://linear.app/mobile",
+      "https://linear.app/integrations",
+      "https://linear.app/changelog",
+      "https://linear.app/about",
+      "https://linear.app/customers",
+      "https://linear.app/careers",
+      "https://linear.app/now",
+      "https://linear.app/method",
+      "https://linear.app/quality",
+      "https://linear.app/brand",
+      "https://linear.app/switch",
+      "https://linear.app/download",
+      "https://linear.app/docs",
+      "https://linear.app/developers",
+      "https://linearstatus.com",
+      "https://linear.app/enterprise",
+      "https://linear.app/startups",
+      "https://linear.app/contact",
+      "https://linear.app/join-slack",
+      "https://x.com/linear",
+      "https://github.com/linear",
+      "https://www.youtube.com/@linear",
+      "https://linear.app/privacy",
+      "https://linear.app/terms",
+      "https://linear.app/dpa",
+      "https://linear.app/legal/aup",
+      "https://linear.app/privacy",
+      "https://linear.app/terms",
+      "https://linear.app/dpa",
+      "https://linear.app/legal/aup"
+    ],
+    "latency_ms": 852.1272250000038,
+    "format": "markdown",
+    "page_metadata": {
+      "canonical": "https://linear.app/pricing",
+      "favicon": "https://linear.app/favicon.ico?v=2",
+      "viewport": "width=device-width, height=device-height, initial-scale=1, viewport-fit=cover",
+      "theme_color": "#08090a",
+      "og": {
+        "title": "Pricing – Linear",
+        "description": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+        "image": [
+          "https://linear.app/api/og/generic?title=Pricing&v=5"
+        ],
+        "image:width": "1200",
+        "image:height": "628",
+        "image:alt": "Linear Pricing"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "site": "@linear",
+        "title": "Pricing – Linear",
+        "description": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+        "creator": "@linear",
+        "image": "https://linear.app/api/og/generic?title=Pricing&v=5",
+        "image:width": "1200",
+        "image:height": "628",
+        "image:alt": "Linear Pricing"
+      },
+      "other": {
+        "application-name": "Linear",
+        "format-detection": "telephone=no, address=no, email=no",
+        "mobile-web-app-capable": "yes",
+        "apple-mobile-web-app-status-bar-style": "black",
+        "sentry-trace": "d0b8690413798ab1e475ca4f93f044c9-c991ab0c9b7f98f8-0",
+        "baggage": "sentry-environment=production,sentry-release=linear-web%401.80638.0,sentry-public_key=cc796bc1f41d48a0b67a1006c1784cc5,sentry-trace_id=d0b8690413798ab1e475ca4f93f044c9,sentry-org_id=415358,sentry-sampled=false,sentry-sample_rand=0.3388263141840122,sentry-sample_rate=0.005"
+      }
+    }
+  },
+  "headAudit": {
+    "htmlBytes": 687219,
+    "title": "Pricing – Linear",
+    "description": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+    "robots": null,
+    "noindex": false,
+    "canonical": "https://linear.app/pricing",
+    "hreflang": [],
+    "og": {
+      "title": "Pricing – Linear",
+      "description": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+      "image": "https://linear.app/api/og/generic?title=Pricing&v=5"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pricing – Linear",
+      "description": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+      "image": "https://linear.app/api/og/generic?title=Pricing&v=5"
+    },
+    "jsonLd": {
+      "blocks": 0,
+      "invalid": 0,
+      "types": []
+    },
+    "lang": "en",
+    "viewport": "width=device-width, height=device-height, initial-scale=1, viewport-fit=cover",
+    "h1": [
+      "Pricing"
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Pricing"
+      },
+      {
+        "level": 3,
+        "text": "Free"
+      },
+      {
+        "level": 3,
+        "text": "Basic"
+      },
+      {
+        "level": 3,
+        "text": "Business"
+      },
+      {
+        "level": 3,
+        "text": "Enterprise"
+      },
+      {
+        "level": 2,
+        "text": "Built for the future. Available today."
+      },
+      {
+        "level": 3,
+        "text": "Product"
+      },
+      {
+        "level": 3,
+        "text": "Features"
+      },
+      {
+        "level": 3,
+        "text": "Company"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "Connect"
+      },
+      {
+        "level": 3,
+        "text": "Legal"
+      }
+    ],
+    "skippedLevels": [
+      {
+        "from": 1,
+        "to": 3,
+        "text": "Free"
+      }
+    ],
+    "bodyTextWords": 396
+  },
+  "crawlPolicy": {
+    "origin": "https://linear.app",
+    "robots": {
+      "status": "present",
+      "bytes": 106,
+      "sitemaps": [
+        "https://linear.app/sitemap.xml"
+      ],
+      "rules": [
+        {
+          "agent": "GPTBot",
+          "vendor": "OpenAI",
+          "use": "ChatGPT training + browsing index",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "OAI-SearchBot",
+          "vendor": "OpenAI",
+          "use": "ChatGPT search results",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "ChatGPT-User",
+          "vendor": "OpenAI",
+          "use": "ChatGPT live page visits",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "ClaudeBot",
+          "vendor": "Anthropic",
+          "use": "Claude crawling",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Claude-Web",
+          "vendor": "Anthropic",
+          "use": "Claude web fetch",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "anthropic-ai",
+          "vendor": "Anthropic",
+          "use": "Anthropic crawler (legacy token)",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "PerplexityBot",
+          "vendor": "Perplexity",
+          "use": "Perplexity search index",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Google-Extended",
+          "vendor": "Google",
+          "use": "Gemini training (not Search ranking)",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Googlebot",
+          "vendor": "Google",
+          "use": "Google Search + AI Overviews",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Bingbot",
+          "vendor": "Microsoft",
+          "use": "Bing + Copilot",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Applebot-Extended",
+          "vendor": "Apple",
+          "use": "Apple Intelligence",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Amazonbot",
+          "vendor": "Amazon",
+          "use": "Alexa answers",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "CCBot",
+          "vendor": "Common Crawl",
+          "use": "Open datasets used by many models",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        },
+        {
+          "agent": "Bytespider",
+          "vendor": "ByteDance",
+          "use": "TikTok/Doubao",
+          "allowed": true,
+          "group": "*",
+          "rule": null
+        }
+      ],
+      "blockedAll": false,
+      "excerpt": "User-Agent: *\nDisallow: /api/\nDisallow: /cdn-cgi/\nAllow: /api/og/\n\nSitemap: https://linear.app/sitemap.xml",
+      "contentSignal": null
+    },
+    "llms": {
+      "status": "present",
+      "bytes": 9252,
+      "excerpt": "# Linear\n\n&gt; Linear is a purpose-built tool for planning and building products. Meet the system for modern software development. Streamline issues, projects, and product roadmaps.\n\n## Documentation\n\nGet an overview of Linear's features, integrations, and how to use them.\n\n### Getting started\n\n- [Start Guide](https://linear.app/docs/start-guide.md)\n- [Concepts](https://linear.app/docs/conceptual-model.md)\n- [Download Linear](https://linear.app/docs/get-the-app.md)\n\n### Intake\n\n- [Linear Asks](https://linear.app/docs/linear-asks.md)\n- [Asks with Slack](https://linear.app/docs/linear-asks-slack.md)\n- [Asks with Email](https://linear.app/docs/linear-asks-email.md)\n- [Asks Web Forms](https://linear.app/docs/linear-asks-web-forms.md)\n- [Customer Requests](https://linear.app/docs/customer-reque",
+      "mentionsPage": false
+    },
+    "sitemap": {
+      "status": "present",
+      "urlCount": 1019,
+      "listsPage": true,
+      "location": "https://linear.app/sitemap.xml"
+    }
+  },
+  "browser": {
+    "status": "readable",
+    "final_url": "https://linear.app/pricing",
+    "title": "Pricing – Linear",
+    "observations": [
+      {
+        "source_url": "https://linear.app/pricing",
+        "label": "Basic Annual Price",
+        "quote": "$10 per user/month\n\nBilled yearly",
+        "interaction": "Read visible text on initial page load.",
+        "importance": "High"
+      },
+      {
+        "source_url": "https://linear.app/pricing",
+        "label": "Basic Monthly Price",
+        "quote": "$12",
+        "interaction": "Clicked the 'Billed yearly' toggle (input id: 9b6f6403-60f8-48bc-9545-2f33a01dd96b) to switch from annual to monthly billing view.",
+        "importance": "Medium"
+      },
+      {
+        "source_url": "https://linear.app/pricing",
+        "label": "Free Plan Issue Limit",
+        "quote": "250 issues",
+        "interaction": "Read the feature list under the 'Free' tier header.",
+        "importance": "High"
+      },
+      {
+        "source_url": "https://linear.app/pricing",
+        "label": "AI Usage Requirement",
+        "quote": "** Requires AI creditsView docs",
+        "interaction": "Inspected the footnote text located below the feature comparison table.",
+        "importance": "Low"
+      }
+    ],
+    "barriers": [],
+    "interactions": [
+      "Clicked the 'Billed yearly' toggle label (c4088828-f1f9-4f3c-8a24-869f7416d80e) to reveal monthly pricing rates of $12 for Basic and $18 for Business."
+    ],
+    "steps": [
+      "Visit Linear pricing page for audit",
+      "Extract full pricing page content",
+      "Extract exact pricing tier text",
+      "Extract comparison table text",
+      "Check for monthly pricing availability",
+      "Check monthly pricing values after toggle"
+    ],
+    "rejectedObservations": 0,
+    "recommendations": [
+      {
+        "id": "AI2",
+        "title": "Contextualize Team Limits for Scaling Teams",
+        "category": "Search intent",
+        "priority": "medium",
+        "effort": "small",
+        "owner": "editor",
+        "why": "Competitor analysis indicates that users often hit the team limit before the issue limit. Providing context helps users choose the correct plan during their initial audit.",
+        "action": "Add a small descriptive note to the team limit feature line in the 'Free' and 'Basic' cards to help teams visualize their needs.",
+        "suggestedCopy": "* 2 teams (e.g. Engineering & Design)",
+        "verification": "Confirm the updated text appears in the pricing cards for Free and Basic tiers.",
+        "assumptions": [],
+        "evidence": {
+          "source": "competitor",
+          "quote": "The 2-team limit is more likely to bite first as you start separating frontend, backend, and design work into distinct spaces.",
+          "url": "https://lifestack.ai/blog/linear-pricing",
+          "validation": "fetch-matched"
+        }
+      },
+      {
+        "id": "AI1",
+        "title": "Clarify AI Credit Requirements in Pricing Cards",
+        "category": "Content",
+        "priority": "low",
+        "effort": "small",
+        "owner": "editor",
+        "why": "Major features like Triage Intelligence and Loops are highlighted in the Business tier, but the fact they require additional credits is hidden in a small footnote.",
+        "action": "Add a clarifying mention of AI credits directly next to the AI-powered features in the Business and Enterprise pricing cards.",
+        "suggestedCopy": "* Triage Intelligence (Requires AI credits)",
+        "verification": "Check the Business plan feature list to ensure the credit requirement is visible without scrolling to the footer.",
+        "assumptions": [
+          "[CONFIRM: current AI credit cost and if any are included in the base plan]"
+        ],
+        "evidence": {
+          "source": "page",
+          "quote": "** Requires AI creditsView docs",
+          "url": "https://linear.app/pricing",
+          "validation": "fetch-matched"
+        }
+      }
+    ],
+    "rejectedRecommendations": 1,
+    "strategy": "The audit compared the primary pricing cards, the detailed comparison table, and the hidden monthly toggle against competitor analysis. The competitor (Lifestack) incorrectly claimed monthly rates aren't published, but browser interaction confirmed they are available via a toggle. The audit focused on improving metadata for search intent and increasing transparency for AI-related costs."
+  },
+  "competitor": {
+    "url": "https://lifestack.ai/blog/linear-pricing",
+    "final_url": "https://lifestack.ai/blog/linear-pricing",
+    "title": "Linear App Pricing: Is It Worth It in 2026? | Lifestack",
+    "description": "Linear pricing explained: free, $10 and $16 per user monthly plans compared. Find out if Linear is worth the cost for your engineering team in 2026.",
+    "language": "en",
+    "text": "Tips\n\n# Linear App Pricing: Is It Worth It in 2026?\n\n# Linear App Pricing: Is It Worth It in 2026?\n\nJun 18, 2026\n\nLinear is a project tracking tool built specifically for software teams. It's fast, opinionated, and genuinely popular with engineering-led companies that found Jira too slow and too complex. If you're evaluating it for your team, the first question is usually the same: is it worth paying for?\n\nThis guide breaks down every Linear pricing tier, what you actually get at each level, and which plan makes sense depending on your team size and how you work. Pricing is current as of June 2026.\n\n## Key Takeaways\n\n* Linear's free plan is genuinely useful for small teams: 250 issues and 2 teams covers most early-stage startups.\n* The $10/user/month Basic plan is the sweet spot for growing teams. It removes the issue and team limits without paying for features most teams don't need.\n* The $16/user/month Business plan is worth it when you need private teams, guest access, or Linear's advanced AI features.\n\n## Linear Pricing at a Glance\n\n* **Free:** $0/month, unlimited members, 2 teams, 250 issues\n* **Basic:** $10/user/month (billed annually), 5 teams, unlimited issues\n* **Business:** $16/user/month (billed annually), unlimited teams, private teams, guest access, advanced AI\n* **Enterprise:** Custom pricing, SAML/SCIM, dedicated account management\n\nAll paid plans are billed annually. Monthly billing is available at a higher rate. Linear does not currently publish the monthly billing rate on their public pricing page.\n\n## Free Plan: What You Get\n\nLinear's free plan is more capable than most free tiers in the project management category. Unlimited members means you're not paying per seat on a headcount basis. The real limits are structural: 2 teams and 250 issues.\n\nFor a startup in the first few months, 250 issues is enough. The 2-team limit is more likely to bite first as you start separating frontend, backend, and design work into distinct spaces. Most teams outgrow the free plan within 6 months of active use, not because Linear forces it, but because the limits become genuinely constraining.\n\nWhat the free plan does not include: unlimited teams, private teams, guest access, roadmaps, advanced analytics, and AI features. Those are all paid-tier features. The free plan gives you the core issue tracking and workflow without the organizational and AI layers.\n\n## Basic Plan ($10/user/month): The Right Choice for Most Teams\n\nThe Basic plan removes the issue and team limits that make the free plan feel small. At $10/user/month billed annually, you get unlimited issues, 5 teams, and access to Linear's full core feature set including cycles, projects, roadmaps, and integrations.\n\nFor a 10-person engineering team, that's $100/month billed at $1,200/year. Against comparable tools, that's competitive: Jira Software charges $8.15/user/month at that size but many teams find the configuration overhead significant. Linear at Basic is faster out of the box and the UX is noticeably better for engineering workflows.\n\nThe 5-team limit on Basic is worth noting. If your organization has more than 5 distinct team spaces (frontend, backend, mobile, data, design, etc.), you'll hit this ceiling. At that scale, Business is the right tier.\n\nThe Basic plan also includes integrations with GitHub, GitLab, Figma, Slack, and Zapier. For teams that live in GitHub for code review and want to close the loop with their issue tracker, this is particularly useful. See how Linear pairs with GitHub Issues workflows for more on the integration pattern.\n\n## Business Plan ($16/user/month): When You Need It\n\nThe Business plan adds three meaningful features over Basic: private teams, guest access, and advanced AI features (including Linear Agent, which can triage, assign, and update issues automatically).\n\n**Private teams** matter when you're working on sensitive projects and don't want every member of the organization to have visibility into certain workstreams (security initiatives, acquisition discussions, or executive planning).\n\n**Guest access** matters when you work with external contractors, agencies, or client stakeholders who need to view or comment on specific projects without becoming full organization members.\n\n**Linear Agent** (the AI features) is the newest and most compelling reason to consider Business. It handles triage, routing, and updating issues from external signals like Slack messages, email, and error monitors. For teams that receive a lot of bug reports from non-technical users, the automation can save meaningful time. For teams with disciplined engineers filing their own issues, it's less critical.\n\nAt $16/user/month, the Business plan costs 60% more than Basic. The upgrade makes sense when you need at least one of those three features. If you don't need private teams, guests, or AI automation, stay on Basic.\n\n## Enterprise: For Large Teams with Compliance Needs\n\nLinear's Enterprise plan adds SAML single sign-on, SCIM user provisioning, custom security controls, advanced export options, and a dedicated account team. Pricing is negotiated annually.\n\nEnterprise is relevant for companies with 100+ users that have IT security requirements around user lifecycle management, or legal/compliance requirements around data handling. For most startups, Enterprise is overkill. For mid-size companies with a SOC 2 or ISO 27001 posture, the SSO and SCIM features may be required by their security policy.\n\n## Is Linear Worth the Price?\n\nLinear's pricing is competitive with the alternatives. Against Jira, Linear is slightly cheaper at Basic and significantly better in usability. Against Asana or Monday.com (which target broader teams, not just engineering), Linear is cheaper and more focused. The AI project management tools landscape has gotten crowded, but Linear's execution speed and keyboard-first design still differentiate it.\n\nThe honest answer: if your team is primarily engineers and you're currently using Jira, the productivity gain from switching to Linear likely pays for itself within the first quarter. Linear's sub-100ms response times and opinionated workflows reduce the friction of issue management enough that engineers actually use it rather than working around it.\n\nIf your team is mixed (sales, design, customer success, engineering all sharing one tool), Linear is a worse fit. It's designed for engineering workflows and the non-engineering views feel secondary. For mixed teams, Notion or another general-purpose tool may be a better value.\n\n## Linear vs Competitors on Pricing\n\n* **Linear Basic vs Jira Standard:** Linear $10/user vs Jira $8.15/user. Linear wins on speed and UX; Jira wins on feature depth and enterprise integrations.\n* **Linear Basic vs GitHub Issues:** GitHub Issues is free but limited. Linear has much stronger project and roadmap tooling. Worth the premium for teams that need cycle planning.\n* **Linear Business vs Notion:** Notion Plus at $10/user is cheaper but serves different workflows. Linear for engineering execution, Notion for documentation and knowledge management.\n* **Linear vs Motion:** Motion is for individual AI scheduling ($14.99-19/month) vs Linear for team project tracking. Different tools for different layers of the work.\n\n## Best Tool for Engineers' Personal Productivity: Lifestack\n\nLinear tracks what your team is building. It doesn't tell you when to work on it. That's where a personal scheduling layer becomes valuable.\n\nLifestack reads your sleep, recovery, and focus data, then builds a daily plan that puts your deep work during your peak cognitive hours. For engineers and product managers who use Linear to track their work, Lifestack handles the personal scheduling problem: which issues do I actually work on today, and when do I work on them?\n\nThe combination works well. Linear gives you the project-level view and team coordination. Lifestack gives you the personal execution layer that accounts for your energy and calendar. It's $7/month or $50/year, with a 7-day free trial. See the time-blocking approach it uses for scheduling focus work.\n\n## FAQ\n\n### How much does Linear cost per month?\n\nLinear has a free plan ($0), a Basic plan at $10 per user per month (billed annually), and a Business plan at $16 per user per month (billed annually). Enterprise pricing is custom. These are the billed-annually rates; monthly billing is available at a higher rate.\n\n### Does Linear have a free plan?\n\nYes. Linear's free plan includes unlimited members, 2 teams, and 250 issues. It includes the core issue tracking, projects, and cycle features. It does not include private teams, guest access, roadmaps, or AI features. For most early-stage teams, the free plan is enough to start.\n\n### What's the difference between Linear Basic and Business?\n\nBasic ($10/user/month) gives you unlimited issues, 5 teams, and core Linear features. Business ($16/user/month) adds unlimited teams, private teams, guest access, and Linear Agent (the AI triage and automation features). Upgrade to Business when you need any of those three specific capabilities.\n\n### Is Linear cheaper than Jira?\n\nSlightly. Linear Basic is $10/user/month vs Jira Standard at $8.15/user/month at comparable team sizes. The price difference is marginal; the bigger difference is usability. Linear's speed and keyboard-first design reduce the time engineers spend on project management overhead. Most teams switching from Jira to Linear report a noticeable improvement in how quickly they can move issues through a workflow.\n\n### Who should use Linear's Business plan?\n\nTeams that need private project spaces, external guest access, or Linear's AI automation features. If your organization has more than 5 distinct team spaces, Business is also necessary since the Basic plan caps at 5 teams. If you don't need those features, Basic is the better value.\n\n### Can individuals use Linear?\n\nYes. Solo developers and individual contributors use Linear's free plan to track personal projects. The 250-issue limit and 2-team cap are generous enough for individual use. For more personal productivity tools that complement Linear, the digital planner guide covers the best options for managing your own work alongside a team tracker.\n\nLinear is a project tracking tool built specifically for software teams. It's fast, opinionated, and genuinely popular with engineering-led companies that found Jira too slow and too complex. If you're evaluating it for your team, the first question is usually the same: is it worth paying for?\n\nThis guide breaks down every Linear pricing tier, what you actually get at each level, and which plan makes sense depending on your team size and how you work. Pricing is current as of June 2026.\n\n## Key Takeaways\n\n* Linear's free plan is genuinely useful for small teams: 250 issues and 2 teams covers most early-stage startups.\n* The $10/user/month Basic plan is the sweet spot for growing teams. It removes the issue and team limits without paying for features most teams don't need.\n* The $16/user/month Business plan is worth it when you need private teams, guest access, or Linear's advanced AI features.\n\n## Linear Pricing at a Glance\n\n* **Free:** $0/month, unlimited members, 2 teams, 250 issues\n* **Basic:** $10/user/month (billed annually), 5 teams, unlimited issues\n* **Business:** $16/user/month (billed annually), unlimited teams, private teams, guest access, advanced AI\n* **Enterprise:** Custom pricing, SAML/SCIM, dedicated account management\n\nAll paid plans are billed annually. Monthly billing is available at a higher rate. Linear does not currently publish the monthly billing rate on their public pricing page.\n\n## Free Plan: What You Get\n\nLinear's free plan is more capable than most free tiers in the project management category. Unlimited members means you're not paying per seat on a headcount basis. The real limits are structural: 2 teams and 250 issues.\n\nFor a startup in the first few months, 250 issues is enough. The 2-team limit is more likely to bite first as you start separating frontend, backend, and design work into distinct spaces. Most teams outgrow the free plan within 6 months of active use, not because Linear forces it, but because the limits become genuinely constraining.\n\nWhat the free plan does not include: unlimited teams, private teams, guest access, roadmaps, advanced analytics, and AI features. Those are all paid-tier features. The free plan gives you the core issue tracking and workflow without the organizational and AI layers.\n\n## Basic Plan ($10/user/month): The Right Choice for Most Teams\n\nThe Basic plan removes the issue and team limits that make the free plan feel small. At $10/user/month billed annually, you get unlimited issues, 5 teams, and access to Linear's full core feature set including cycles, projects, roadmaps, and integrations.\n\nFor a 10-person engineering team, that's $100/month billed at $1,200/year. Against comparable tools, that's competitive: Jira Software charges $8.15/user/month at that size but many teams find the configuration overhead significant. Linear at Basic is faster out of the box and the UX is noticeably better for engineering workflows.\n\nThe 5-team limit on Basic is worth noting. If your organization has more than 5 distinct team spaces (frontend, backend, mobile, data, design, etc.), you'll hit this ceiling. At that scale, Business is the right tier.\n\nThe Basic plan also includes integrations with GitHub, GitLab, Figma, Slack, and Zapier. For teams that live in GitHub for code review and want to close the loop with their issue tracker, this is particularly useful. See how Linear pairs with GitHub Issues workflows for more on the integration pattern.\n\n## Business Plan ($16/user/month): When You Need It\n\nThe Business plan adds three meaningful features over Basic: private teams, guest access, and advanced AI features (including Linear Agent, which can triage, assign, and update issues automatically).\n\n**Private teams** matter when you're working on sensitive projects and don't want every member of the organization to have visibility into certain workstreams (security initiatives, acquisition discussions, or executive planning).\n\n**Guest access** matters when you work with external contractors, agencies, or client stakeholders who need to view or comment on specific projects without becoming full organization members.\n\n**Linear Agent** (the AI features) is the newest and most compelling reason to consider Business. It handles triage, routing, and updating issues from external signals like Slack messages, email, and error monitors. For teams that receive a lot of bug reports from non-technical users, the automation can save meaningful time. For teams with disciplined engineers filing their own issues, it's less critical.\n\nAt $16/user/month, the Business plan costs 60% more than Basic. The upgrade makes sense when you need at least one of those three features. If you don't need private teams, guests, or AI automation, stay on Basic.\n\n## Enterprise: For Large Teams with Compliance Needs\n\nLinear's Enterprise plan adds SAML single sign-on, SCIM user provisioning, custom security controls, advanced export options, and a dedicated account team. Pricing is negotiated annually.\n\nEnterprise is relevant for companies with 100+ users that have IT security requirements around user lifecycle management, or legal/compliance requirements around data handling. For most startups, Enterprise is overkill. For mid-size companies with a SOC 2 or ISO 27001 posture, the SSO and SCIM features may be required by their security policy.\n\n## Is Linear Worth the Price?\n\nLinear's pricing is competitive with the alternatives. Against Jira, Linear is slightly cheaper at Basic and significantly better in usability. Against Asana or Monday.com (which target broader teams, not just engineering), Linear is cheaper and more focused. The AI project management tools landscape has gotten crowded, but Linear's execution speed and keyboard-first design still differentiate it.\n\nThe honest answer: if your team is primarily engineers and you're currently using Jira, the productivity gain from switching to Linear likely pays for itself within the first quarter. Linear's sub-100ms response times and opinionated workflows reduce the friction of issue management enough that engineers actually use it rather than working around it.\n\nIf your team is mixed (sales, design, customer success, engineering all sharing one tool), Linear is a worse fit. It's designed for engineering workflows and the non-engineering views feel secondary. For mixed teams, Notion or another general-purpose tool may be a better value.\n\n## Linear vs Competitors on Pricing\n\n* **Linear Basic vs Jira Standard:** Linear $10/user vs Jira $8.15/user. Linear wins on speed and UX; Jira wins on feature depth and enterprise integrations.\n* **Linear Basic vs GitHub Issues:** GitHub Issues is free but limited. Linear has much stronger project and roadmap tooling. Worth the premium for teams that need cycle planning.\n* **Linear Business vs Notion:** Notion Plus at $10/user is cheaper but serves different workflows. Linear for engineering execution, Notion for documentation and knowledge management.\n* **Linear vs Motion:** Motion is for individual AI scheduling ($14.99-19/month) vs Linear for team project tracking. Different tools for different layers of the work.\n\n## Best Tool for Engineers' Personal Productivity: Lifestack\n\nLinear tracks what your team is building. It doesn't tell you when to work on it. That's where a personal scheduling layer becomes valuable.\n\nLifestack reads your sleep, recovery, and focus data, then builds a daily plan that puts your deep work during your peak cognitive hours. For engineers and product managers who use Linear to track their work, Lifestack handles the personal scheduling problem: which issues do I actually work on today, and when do I work on them?\n\nThe combination works well. Linear gives you the project-level view and team coordination. Lifestack gives you the personal execution layer that accounts for your energy and calendar. It's $7/month or $50/year, with a 7-day free trial. See the time-blocking approach it uses for scheduling focus work.\n\n## FAQ\n\n### How much does Linear cost per month?\n\nLinear has a free plan ($0), a Basic plan at $10 per user per month (billed annually), and a Business plan at $16 per user per month (billed annually). Enterprise pricing is custom. These are the billed-annually rates; monthly billing is available at a higher rate.\n\n### Does Linear have a free plan?\n\nYes. Linear's free plan includes unlimited members, 2 teams, and 250 issues. It includes the core issue tracking, projects, and cycle features. It does not include private teams, guest access, roadmaps, or AI features. For most early-stage teams, the free plan is enough to start.\n\n### What's the difference between Linear Basic and Business?\n\nBasic ($10/user/month) gives you unlimited issues, 5 teams, and core Linear features. Business ($16/user/month) adds unlimited teams, private teams, guest access, and Linear Agent (the AI triage and automation features). Upgrade to Business when you need any of those three specific capabilities.\n\n### Is Linear cheaper than Jira?\n\nSlightly. Linear Basic is $10/user/month vs Jira Standard at $8.15/user/month at comparable team sizes. The price difference is marginal; the bigger difference is usability. Linear's speed and keyboard-first design reduce the time engineers spend on project management overhead. Most teams switching from Jira to Linear report a noticeable improvement in how quickly they can move issues through a workflow.\n\n### Who should use Linear's Business plan?\n\nTeams that need private project spaces, external guest access, or Linear's AI automation features. If your organization has more than 5 distinct team spaces, Business is also necessary since the Basic plan caps at 5 teams. If you don't need those features, Basic is the better value.\n\n### Can individuals use Linear?\n\nYes. Solo developers and individual contributors use Linear's free plan to track personal projects. The 250-issue limit and 2-team cap are generous enough for individual use. For more personal productivity tools that complement Linear, the digital planner guide covers the best options for managing your own work alongside a team tracker.\n\nFOLLOW ON\n\nFOLLOW ON\n\nFOLLOW ON\n\nCopyright 2026 © Lifestack. All rights reserved\n\nCopyright 2026 © Lifestack. All rights reserved\n\nPrivacy\n\nPrivacy\n\n•\n\n•\n\nTerms\n\nTerms\n\n•\n\n•\n\nFAQ\n\nFAQ\n\n•\n\n•\n\n•\n\nCompany\n\nCompany",
+    "author": null,
+    "published_date": "2026-06-18T00:00:00.000Z",
+    "latency_ms": 885.0801539992972,
+    "format": "markdown",
+    "page_metadata": {
+      "canonical": "https://lifestack.ai/blog/linear-pricing",
+      "favicon": "https://framerusercontent.com/images/5MZGu47ePHbW8eq40fcCFXU7bY8.svg",
+      "viewport": "width=device-width",
+      "generator": "Framer 7788242",
+      "robots": "max-image-preview:large",
+      "og": {
+        "url": "https://lifestack.ai/blog/linear-pricing",
+        "type": "website",
+        "title": "Linear App Pricing: Is It Worth It in 2026? | Lifestack",
+        "description": "Linear pricing explained: free, $10 and $16 per user monthly plans compared. Find out if Linear is worth the cost for your engineering team in 2026.",
+        "image": [
+          "https://framerusercontent.com/images/O20sXvy1DVynJmxEL4hYx9rMLoE.png"
+        ]
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Linear App Pricing: Is It Worth It in 2026? | Lifestack",
+        "description": "Linear pricing explained: free, $10 and $16 per user monthly plans compared. Find out if Linear is worth the cost for your engineering team in 2026.",
+        "image": "https://framerusercontent.com/images/O20sXvy1DVynJmxEL4hYx9rMLoE.png"
+      },
+      "other": {
+        "framer-search-index": "https://framerusercontent.com/sites/5e6HlkixZVOvPbcAwgiPCg/searchIndex-j4CM2OV8mTRf.json",
+        "framer-search-index-fallback": "https://framerusercontent.com/sites/5e6HlkixZVOvPbcAwgiPCg/searchIndex-Foyq3Pz73We4.json"
+      }
+    },
+    "links": []
+  },
+  "competitors": [
+    {
+      "url": "https://lifestack.ai/blog/linear-pricing",
+      "host": "lifestack.ai",
+      "title": "Linear App Pricing: Is It Worth It in 2026? | Lifestack",
+      "description": "Linear pricing explained: free, $10 and $16 per user monthly plans compared. Find out if Linear is worth the cost for your engineering team in 2026.",
+      "position": 2,
+      "kind": "blog",
+      "words": 3312,
+      "headings": 34,
+      "hasOg": true,
+      "answerCoverage": 100,
+      "answerPassage": "This guide breaks down every Linear pricing tier, what you actually get at each level, and which plan makes sense depending on your team size and how you work.",
+      "text": "Tips\n\n# Linear App Pricing: Is It Worth It in 2026?\n\n# Linear App Pricing: Is It Worth It in 2026?\n\nJun 18, 2026\n\nLinear is a project tracking tool built specifically for software teams. It's fast, opinionated, and genuinely popular with engineering-led companies that found Jira too slow and too complex. If you're evaluating it for your team, the first question is usually the same: is it worth paying for?\n\nThis guide breaks down every Linear pricing tier, what you actually get at each level, and which plan makes sense depending on your team size and how you work. Pricing is current as of June 2026.\n\n## Key Takeaways\n\n* Linear's free plan is genuinely useful for small teams: 250 issues and 2 teams covers most early-stage startups.\n* The $10/user/month Basic plan is the sweet spot for growing teams. It removes the issue and team limits without paying for features most teams don't need.\n* The $16/user/month Business plan is worth it when you need private teams, guest access, or Linear's advanced AI features.\n\n## Linear Pricing at a Glance\n\n* **Free:** $0/month, unlimited members, 2 teams, 250 issues\n* **Basic:** $10/user/month (billed annually), 5 teams, unlimited issues\n* **Business:** $16/user/month (billed annually), unlimited teams, private teams, guest access, advanced AI\n* **Enterprise:** Custom pricing, SAML/SCIM, dedicated account management\n\nAll paid plans are billed annually. Monthly billing is available at a higher rate. Linear does not currently publish the monthly billing rate on their public pricing page.\n\n## Free Plan: What You Get\n\nLinear's free plan is more capable than most free tiers in the project management category. Unlimited members means you're not paying per seat on a headcount basis. The real limits are structural: 2 teams and 250 issues.\n\nFor a startup in the first few months, 250 issues is enough. The 2-team limit is more likely to bite first as you start separating frontend, backend, and design work into distinct spaces. Most teams outgrow the free plan within 6 months of active use, not because Linear forces it, but because the limits become genuinely constraining.\n\nWhat the free plan does not include: unlimited teams, private teams, guest access, roadmaps, advanced analytics, and AI features. Those are all paid-tier features. The free plan gives you the core issue tracking and workflow without the organizational and AI layers.\n\n## Basic Plan ($10/user/month): The Right Choice for Most Teams\n\nThe Basic plan removes the issue and team limits that make the free plan feel small. At $10/user/month billed annually, you get unlimited issues, 5 teams, and access to Linear's full core feature set including cycles, projects, roadmaps, and integrations.\n\nFor a 10-person engineering team, that's $100/month billed at $1,200/year. Against comparable tools, that's competitive: Jira Software charges $8.15/user/month at that size but many teams find the configuration overhead significant. Linear at Basic is faster out of the box and the UX is noticeably better for engineering workflows.\n\nThe 5-team limit on Basic is worth noting. If your organization has more than 5 distinct team spaces (frontend, backend, mobile, data, design, etc.), you'll hit this ceiling. At that scale, Business is the right tier.\n\nThe Basic plan also includes integrations with GitHub, GitLab, Figma, Slack, and Zapier. For teams that live in GitHub for code review and want to close the loop with their issue tracker, this is particularly useful. See how Linear pairs with GitHub Issues workflows for more on the integration pattern.\n\n## Business Plan ($16/user/month): When You Need It\n\nThe Business plan adds three meaningful features over Basic: private teams, guest access, and advanced AI features (including Linear Agent, which can triage, assign, and update issues automatically).\n\n**Private teams** matter when you're working on sensitive projects and don't want every member of the organization to have visibility into certain workstreams (security initiatives, acquisition discussions, or executive planning).\n\n**Guest access** matters when you work with external contractors, agencies, or client stakeholders who need to view or comment on specific projects without becoming full organization members.\n\n**Linear Agent** (the AI features) is the newest and most compelling reason to consider Business. It handles triage, routing, and updating issues from external signals like Slack messages, email, and error monitors. For teams that receive a lot of bug reports from non-technical users, the automation can save meaningful time. For teams with disciplined engineers filing their own issues, it's less critical.\n\nAt $16/user/month, the Business plan costs 60% more than Basic. The upgrade makes sense when you need at least one of those three features. If you don't need private teams, guests, or AI automation, stay on Basic.\n\n## Enterprise: For Large Teams with Compliance Needs\n\nLinear's Enterprise plan adds SAML single sign-on, SCIM user provisioning, custom security controls, advanced export options, and a dedicated account team. Pricing is negotiated annually.\n\nEnterprise is relevant for companies with 100+ users that have IT security requirements around user lifecycle management, or legal/compliance requirements around data handling. For most startups, Enterprise is overkill. For mid-size companies with a SOC 2 or ISO 27001 posture, the SSO and SCIM features may be required by their security policy.\n\n## Is Linear Worth the Price?\n\nLinear's pricing is competitive with the alternatives. Against Jira, Linear is slightly cheaper at Basic and significantly better in usability. Against Asana or Monday.com (which target broader teams, not just engineering), Linear is cheaper and more focused. The AI project management tools landscape has gotten crowded, but Linear's execution speed and keyboard-first design still differentiate it.\n\nThe honest answer: if your team is primarily engineers and you're currently using Jira, the productivity gain from switching to Linear likely pays for itself within the first quarter. Linear's sub-100ms response times and opinionated workflows reduce the friction of issue management enough that engineers actually use it rather than working around it.\n\nIf your team is mixed (sales, design, customer success, engineering all sharing one tool), Linear is a worse fit. It's designed for engineering workflows and the non-engineering views feel secondary. For mixed teams, Notion or another general-purpose tool may be a better value.\n\n## Linear vs Competitors on Pricing\n\n* **Linear Basic vs Jira Standard:** Linear $10/user vs Jira $8.15/user. Linear wins on speed and UX; Jira wins on feature depth and enterprise integrations.\n* **Linear Basic vs GitHub Issues:** GitHub Issues is free but limited. Linear has much stronger project and roadmap tooling. Worth the premium for teams that need cycle planning.\n* **Linear Business vs Notion:** Notion Plus at $10/user is cheaper but serves different workflows. Linear for engineering execution, Notion for documentation and knowledge management.\n* **Linear vs Motion:** Motion is for individual AI scheduling ($14.99-19/month) vs Linear for team project tracking. Different tools for different layers of the work.\n\n## Best Tool for Engineers' Personal Productivity: Lifestack\n\nLinear tracks what your team is building. It doesn't tell you when to work on it. That's where a personal scheduling layer becomes valuable.\n\nLifestack reads your sleep, recovery, and focus data, then builds a daily plan that puts your deep work during your peak cognitive hours. For engineers and product managers who use Linear to track their work, Lifestack handles the personal scheduling problem: which issues do I actually work on today, and when do I work on them?\n\nThe combination works well. Linear gives you the project-level view and team coordination. Lifestack gives you the personal execution layer that accounts for your energy and calendar. It's $7/month or $50/year, with a 7-day free trial. See the time-blocking approach it uses for scheduling focus work.\n\n## FAQ\n\n### How much does Linear cost per month?\n\nLinear has a free plan ($0), a Basic plan at $10 per user per month (billed annually), and a Business plan at $16 per user per month (billed annually). Enterprise pricing is custom. These are the billed-annually rates; monthly billing is available at a higher rate.\n\n### Does Linear have a free plan?\n\nYes. Linear's free plan includes unlimited members, 2 teams, and 250 issues. It includes the core issue tracking, projects, and cycle features. It does not include private teams, guest access, roadmaps, or AI features. For most early-stage teams, the free plan is enough to start.\n\n### What's the difference between Linear Basic and Business?\n\nBasic ($10/user/month) gives you unlimited issues, 5 teams, and core Linear features. Business ($16/user/month) adds unlimited teams, private teams, guest access, and Linear Agent (the AI triage and automation features). Upgrade to Business when you need any of those three specific capabilities.\n\n### Is Linear cheaper than Jira?\n\nSlightly. Linear Basic is $10/user/month vs Jira Standard at $8.15/user/month at comparable team sizes. The price difference is marginal; the bigger difference is usability. Linear's speed and keyboard-first design reduce the time engineers spend on project management overhead. Most teams switching from Jira to Linear report a noticeable improvement in how quickly they can move issues through a workflow.\n\n### Who should use Linear's Business plan?\n\nTeams that need private project spaces, external guest access, or Linear's AI automation features. If your organization has more than 5 distinct team spaces, Business is also necessary since the Basic plan caps at 5 teams. If you don't need those features, Basic is the better value.\n\n### Can individuals use Linear?\n\nYes. Solo developers and individual contributors use Linear's free plan to track personal projects. The 250-issue limit and 2-team cap are generous enough for individual use. For more personal productivity tools that complement Linear, the digital planner guide covers the best options for managing your own work alongside a team tracker.\n\nLinear is a project tracking tool built specifically for software teams. It's fast, opinionated, and genuinely popular with engineering-led companies that found Jira too slow and too complex. If you're evaluating it for your team, the first question is usually the same: is it worth paying for?\n\nThis guide breaks down every Linear pricing tier, what you actually get at each level, and which plan makes sense depending on your team size and how you work. Pricing is current as of June 2026.\n\n## Key Takeaways\n\n* Linear's free plan is genuinely useful for small teams: 250 issues and 2 teams covers most early-stage startups.\n* The $10/user/month Basic plan is the sweet spot for growing teams. It removes the issue and team limits without paying for features most teams don't need.\n* The $16/user/month Business plan is worth it when you need private teams, guest access, or Linear's advanced AI features.\n\n## Linear Pricing at a Glance\n\n* **Free:** $0/month, unlimited members, 2 teams, 250 issues\n* **Basic:** $10/user/month (billed annually), 5 teams, unlimited issues\n* **Business:** $16/user/month (billed annually), unlimited teams, private teams, guest access, advanced AI\n* **Enterprise:** Custom pricing, SAML/SCIM, dedicated account management\n\nAll paid plans are billed annually. Monthly billing is available at a higher rate. Linear does not currently publish the monthly billing rate on their public pricing page.\n\n## Free Plan: What You Get\n\nLinear's free plan is more capable than most free tiers in the project management category. Unlimited members means you're not paying per seat on a headcount basis. The real limits are structural: 2 teams and 250 issues.\n\nFor a startup in the first few months, 250 issues is enough. The 2-team limit is more likely to bite first as you start separating frontend, backend, and design work into distinct spaces. Most teams outgrow the free plan within 6 months of active use, not because Linear forces it, but because the limits become genuinely constraining.\n\nWhat the free plan does not include: unlimited teams, private teams, guest access, roadmaps, advanced analytics, and AI features. Those are all paid-tier features. The free plan gives you the core issue tracking and workflow without the organizational and AI layers.\n\n## Basic Plan ($10/user/month): The Right Choice for Most Teams\n\nThe Basic plan removes the issue and team limits that make the free plan feel small. At $10/user/month billed annually, you get unlimited issues, 5 teams, and access to Linear's full core feature set including cycles, projects, roadmaps, and integrations.\n\nFor a 10-person engineering team, that's $100/month billed at $1,200/year. Against comparable tools, that's competitive: Jira Software charges $8.15/user/month at that size but many teams find the configuration overhead significant. Linear at Basic is faster out of the box and the UX is noticeably better for engineering workflows.\n\nThe 5-team limit on Basic is worth noting. If your organization has more than 5 distinct team spaces (frontend, backend, mobile, data, design, etc.), you'll hit this ceiling. At that scale, Business is the right tier.\n\nThe Basic plan also includes integrations with GitHub, GitLab, Figma, Slack, and Zapier. For teams that live in GitHub for code review and want to close the loop with their issue tracker, this is particularly useful. See how Linear pairs with GitHub Issues workflows for more on the integration pattern.\n\n## Business Plan ($16/user/month): When You Need It\n\nThe Business plan adds three meaningful features over Basic: private teams, guest access, and advanced AI features (including Linear Agent, which can triage, assign, and update issues automatically).\n\n**Private teams** matter when you're working on sensitive projects and don't want every member of the organization to have visibility into certain workstreams (security initiatives, acquisition discussions, or executive planning).\n\n**Guest access** matters when you work with external contractors, agencies, or client stakeholders who need to view or comment on specific projects without becoming full organization members.\n\n**Linear Agent** (the AI features) is the newest and most compelling reason to consider Business. It handles triage, routing, and updating issues from external signals like Slack messages, email, and error monitors. For teams that receive a lot of bug reports from non-technical users, the automation can save meaningful time. For teams with disciplined engineers filing their own issues, it's less critical.\n\nAt $16/user/month, the Business plan costs 60% more than Basic. The upgrade makes sense when you need at least one of those three features. If you don't need private teams, guests, or AI automation, stay on Basic.\n\n## Enterprise: For Large Teams with Compliance Needs\n\nLinear's Enterprise plan adds SAML single sign-on, SCIM user provisioning, custom security controls, advanced export options, and a dedicated account team. Pricing is negotiated annually.\n\nEnterprise is relevant for companies with 100+ users that have IT security requirements around user lifecycle management, or legal/compliance requirements around data handling. For most startups, Enterprise is overkill. For mid-size companies with a SOC 2 or ISO 27001 posture, the SSO and SCIM features may be required by their security policy.\n\n## Is Linear Worth the Price?\n\nLinear's pricing is competitive with the alternatives. Against Jira, Linear is slightly cheaper at Basic and significantly better in usability. Against Asana or Monday.com (which target broader teams, not just engineering), Linear is cheaper and more focused. The AI project management tools landscape has gotten crowded, but Linear's execution speed and keyboard-first design still differentiate it.\n\nThe honest answer: if your team is primarily engineers and you're currently using Jira, the productivity gain from switching to Linear likely pays for itself within the first quarter. Linear's sub-100ms response times and opinionated workflows reduce the friction of issue management enough that engineers actually use it rather than working around it.\n\nIf your team is mixed (sales, design, customer success, engineering all sharing one tool), Linear is a worse fit. It's designed for engineering workflows and the non-engineering views feel secondary. For mixed teams, Notion or another general-purpose tool may be a better value.\n\n## Linear vs Competitors on Pricing\n\n* **Linear Basic vs Jira Standard:** Linear $10/user vs Jira $8.15/user. Linear wins on speed and UX; Jira wins on feature depth and enterprise integrations.\n* **Linear Basic vs GitHub Issues:** GitHub Issues is free but limited. Linear has much stronger project and roadmap tooling. Worth the premium for teams that need cycle planning.\n* **Linear Business vs Notion:** Notion Plus at $10/user is cheaper but serves different workflows. Linear for engineering execution, Notion for documentation and knowledge management.\n* **Linear vs Motion:** Motion is for individual AI scheduling ($14.99-19/month) vs Linear for team project tracking. Different tools for different layers of the work.\n\n## Best Tool for Engineers' Personal Productivity: Lifestack\n\nLinear tracks what your team is building. It doesn't tell you when to work on it. That's where a personal scheduling layer becomes valuable.\n\nLifestack reads your sleep, recovery, and focus data, then builds a daily plan that puts your deep work during your peak cognitive hours. For engineers and product managers who use Linear to track their work, Lifestack handles the personal scheduling problem: which issues do I actually work on today, and when do I work on them?\n\nThe combination works well. Linear gives you the project-level view and team coordination. Lifestack gives you the personal execution layer that accounts for your energy and calendar. It's $7/month or $50/year, with a 7-day free trial. See the time-blocking approach it uses for scheduling focus work.\n\n## FAQ\n\n### How much does Linear cost per month?\n\nLinear has a free plan ($0), a Basic plan at $10 per user per month (billed annually), and a Business plan at $16 per user per month (billed annually). Enterprise pricing is custom. These are the billed-annually rates; monthly billing is available at a higher rate.\n\n### Does Linear have a free plan?\n\nYes. Linear's free plan includes unlimited members, 2 teams, and 250 issues. It includes the core issue tracking, projects, and cycle features. It does not include private teams, guest access, roadmaps, or AI features. For most early-stage teams, the free plan is enough to start.\n\n### What's the difference between Linear Basic and Business?\n\nBasic ($10/user/month) gives you unlimited issues, 5 teams, and core Linear features. Business ($16/user/month) adds unlimited teams, private teams, guest access, and Linear Agent (the AI triage and automation features). Upgrade to Business when you need any of those three specific capabilities.\n\n### Is Linear cheaper than Jira?\n\nSlightly. Linear Basic is $10/user/month vs Jira Standard at $8.15/user/month at comparable team sizes. The price difference is marginal; the bigger difference is usability. Linear's speed and keyboard-first design reduce the time engineers spend on project management overhead. Most teams switching from Jira to Linear report a noticeable improvement in how quickly they can move issues through a workflow.\n\n### Who should use Linear's Business plan?\n\nTeams that need private project spaces, external guest access, or Linear's AI automation features. If your organization has more than 5 distinct team spaces, Business is also necessary since the Basic plan caps at 5 teams. If you don't need those features, Basic is the better value"
+    },
+    {
+      "url": "https://www.vendr.com/marketplace/linear",
+      "host": "vendr.com",
+      "title": "Linear Software Pricing & Plans 2026: See Your Cost",
+      "description": "How much does Linear cost in 2026? Explore Linear pricing insights and get price estimates. Compare alternatives, access Vendr’s community insights, and see what other Linear software buyers paid.",
+      "position": 4,
+      "kind": "other",
+      "words": 3460,
+      "headings": 49,
+      "hasOg": true,
+      "answerCoverage": 100,
+      "answerPassage": "Built for speed and simplicity, Linear offers a streamlined alternative to traditional project management tools, with features including issue tracking, sprint planning, roadmaps, and integrations with development workflows. Pricing is based on the number of users and the plan tier selected, with o…",
+      "text": "NewGet the latest Pricing Intelligence Report\n\n# Linear\n\nlinear.app\n\n# $23,136\n\nAvg Contract Value\n\n# 39\n\nDeals handled\n\nHome\n\nMarketplace\n\nLinear\n\n# Linear\n\nlinear.app\n\n# $23,136\n\nAvg Contract Value\n\n# 39\n\nDeals handled\n\n## How much does Linear cost?\n\nMedian buyer pays\n\n$23,136\n\nper year\n\nBased on data from 84 purchases.\n\nMedian: $23,136\n\n$5,936$68,646\n\nLowHigh\n\nSee detailed pricing for your specific purchase\n\n# **Introduction**\n\nLinear is a project management and issue tracking platform designed for software development teams. Built for speed and simplicity, Linear offers a streamlined alternative to traditional project management tools, with features including issue tracking, sprint planning, roadmaps, and integrations with development workflows. Pricing is based on the number of users and the plan tier selected, with options ranging from free plans for small teams to enterprise packages with advanced features and support.\n\n---\n\n**Evaluating Linear or planning a purchase?**\n\nVendr's pricing analysis agent uses anonymized contract data to show what similar companies typically pay and where negotiation leverage exists—whether you're estimating budget, comparing options, or reviewing a quote. Explore Linear pricing with Vendr.\n\n---\n\nThis guide combines Linear's published pricing with Vendr's dataset and analysis to break down Linear pricing in 2026, including:\n\n* Transparent pricing by tier and user count\n* What buyers commonly pay across different company sizes\n* Hidden costs and add-ons to plan for\n* Negotiation levers that create savings opportunities\n* How Linear compares to alternatives like Jira, Asana, and ClickUp\n\nWhether you're evaluating Linear for the first time or preparing for renewal, this guide is designed to help you budget accurately and negotiate with clearer market context.\n\n# How much does Linear cost in 2026?\n\nLinear's pricing is structured around three paid tiers—Standard, Plus, and Enterprise—plus a Free plan for small teams. Costs scale with the number of users (seats) and the features required. Linear bills monthly or annually, with annual commitments typically offering a discount compared to month-to-month billing.\n\n**Core pricing components:**\n\n* **Per-user seat pricing:** Linear charges per user per month, with pricing varying by tier.\n* **Billing frequency:** Annual prepayment generally reduces per-seat costs compared to monthly billing.\n* **Plan tier:** Higher tiers unlock advanced features like custom workflows, advanced security, and priority support.\n\n**Typical cost drivers:**\n\n* Number of active users (seats)\n* Plan tier selection (Standard, Plus, or Enterprise)\n* Contract term length (monthly vs. annual)\n* Add-ons or premium support (Enterprise tier)\n\nLinear's pricing is relatively transparent compared to legacy project management platforms, but actual costs depend on negotiation, volume, and contract structure. Based on Vendr transaction data, buyers often achieve pricing below published list rates, particularly for annual commitments and larger seat counts.\n\n# What does each Linear tier cost?\n\n## How much does Linear Free cost?\n\n**Pricing Structure:**\n\nLinear offers a Free plan for teams up to a certain user limit (typically small teams or individual users). The Free plan includes core issue tracking, unlimited issues, and basic integrations, but lacks advanced features like custom workflows, roadmaps, and priority support.\n\n**Observed Outcomes:**\n\nThe Free plan is suitable for startups, open-source projects, or teams evaluating Linear before committing to a paid tier. For teams that outgrow the Free plan, upgrading to Standard or Plus is common.\n\n**Benchmarking context:**\n\nFor teams considering paid tiers, see what similar companies pay for Linear to access percentile-based ranges and observed pricing for Standard, Plus, and Enterprise plans across different seat counts and contract structures.\n\n## How much does Linear Standard cost?\n\n**Pricing Structure:**\n\nLinear Standard is the entry-level paid tier, designed for small to mid-sized teams. List pricing is typically published per user per month, with discounts available for annual commitments. Standard includes core project management features, integrations, and basic support.\n\n**Observed Outcomes:**\n\nIn Vendr's dataset, buyers often achieve below-list pricing through annual prepayment and volume-based negotiation. Multi-year commitments and competitive evaluation can further reduce per-seat costs.\n\n**Benchmarking context:**\n\nBased on anonymized Linear transactions in Vendr's platform, teams with 10–50 users commonly negotiate pricing that reflects volume and term-length considerations. Get your custom Linear Standard price estimate.\n\n## How much does Linear Plus cost?\n\n**Pricing Structure:**\n\nLinear Plus is the mid-tier plan, adding advanced features like custom workflows, roadmaps, advanced integrations, and enhanced security. List pricing is higher per user per month than Standard, with annual billing offering savings.\n\n**Observed Outcomes:**\n\nVendr data shows that buyers typically achieve discounts through annual or multi-year commitments, particularly for teams with 25+ users. Volume-based pricing and competitive pressure are common negotiation levers.\n\n**Benchmarking context:**\n\nIn Vendr's dataset, Plus plan buyers often secure pricing below published list rates, especially when bundling annual terms with larger seat counts. Compare Linear Plus pricing with similar companies.\n\n## How much does Linear Enterprise cost?\n\n**Pricing Structure:**\n\nLinear Enterprise is a custom-priced tier designed for larger organizations requiring advanced security, compliance, dedicated support, and custom SLAs. Pricing is negotiated based on seat count, contract term, and specific requirements. Enterprise includes all Plus features plus SSO, advanced permissions, audit logs, and priority support.\n\n**Observed Outcomes:**\n\nBased on Vendr transaction data, Enterprise pricing varies widely based on organization size, contract length, and negotiation. Buyers commonly achieve meaningful discounts through multi-year commitments, volume tiers, and competitive evaluation.\n\n**Benchmarking context:**\n\nIn Vendr's dataset of Linear Enterprise transactions, buyers with 50+ users and multi-year terms often negotiate pricing that reflects volume and strategic value. Explore Linear Enterprise pricing benchmarks.\n\n# What actually drives Linear costs?\n\nUnderstanding the factors that influence Linear pricing helps buyers budget accurately and identify negotiation opportunities.\n\n**Number of users (seats):**\n\nLinear charges per user, so total cost scales directly with seat count. Volume-based pricing tiers or discounts may apply for larger teams.\n\n**Plan tier:**\n\nStandard, Plus, and Enterprise tiers have different per-seat pricing. Higher tiers unlock advanced features but increase per-user costs.\n\n**Contract term length:**\n\nAnnual and multi-year commitments typically reduce per-seat pricing compared to month-to-month billing. Based on Vendr data, buyers who commit to longer terms often achieve 15–30% lower costs.\n\n**Billing frequency:**\n\nAnnual prepayment generally offers lower per-seat rates than monthly billing. Multi-year prepayment can unlock additional discounts.\n\n**Add-ons and premium support:**\n\nEnterprise plans may include custom add-ons, dedicated support, or professional services, which increase total contract value.\n\n**Negotiation and competitive context:**\n\nBuyers evaluating alternatives like Jira, Asana, or ClickUp often secure better pricing through competitive leverage. In Vendr's dataset, buyers who engage early and anchor to budget constraints commonly achieve below-list outcomes.\n\n# What hidden costs and fees should you plan for?\n\nLinear's pricing is relatively straightforward, but buyers should account for potential additional costs beyond the base per-seat fee.\n\n**Overage charges:**\n\nIf your team exceeds the contracted seat count, Linear may charge for additional users. Clarify overage terms and rates during negotiation to avoid surprises.\n\n**Professional services and onboarding:**\n\nWhile Linear is designed for self-service onboarding, larger Enterprise customers may require custom onboarding, training, or migration support, which can incur additional fees.\n\n**Integration and API costs:**\n\nLinear integrates with tools like GitHub, Slack, and Figma. While most integrations are included, custom API usage or third-party integration platforms may add costs.\n\n**Support and SLA upgrades:**\n\nStandard and Plus plans include basic support. Enterprise customers may negotiate dedicated support or custom SLAs, which can increase contract value.\n\n**Data migration and consulting:**\n\nMigrating from legacy tools like Jira or Asana may require consulting or professional services, particularly for complex workflows or large datasets.\n\n**Annual price increases:**\n\nReview renewal terms carefully. Some contracts include annual price escalations (e.g., 5–10% per year). Negotiate caps or flat renewal pricing where possible.\n\n**Benchmarking context:**\n\nVendr's dataset shows that buyers who clarify overage terms, support levels, and renewal pricing upfront often avoid unexpected costs and achieve more predictable budgets. Analyze your Linear quote with Vendr.\n\n# What do companies typically pay for Linear?\n\nActual Linear pricing varies based on seat count, plan tier, contract term, and negotiation. Vendr's dataset provides insight into observed outcomes across different buyer profiles.\n\n**Small teams (5–20 users):**\n\nSmall teams typically purchase Standard or Plus plans with annual billing. In Vendr's dataset, buyers in this segment often achieve pricing that reflects volume and term-length considerations, with discounts common for annual commitments.\n\n**Mid-sized teams (20–100 users):**\n\nMid-sized teams commonly select Plus or Enterprise plans. Vendr data shows that buyers with 25+ users often negotiate volume-based pricing and multi-year discounts, achieving outcomes below published list rates.\n\n**Large organizations (100+ users):**\n\nLarge organizations typically negotiate custom Enterprise pricing. Based on Vendr transaction data, buyers in this segment often secure meaningful discounts through multi-year commitments, competitive evaluation, and strategic negotiation.\n\n**Observed negotiation patterns:**\n\nBased on anonymized Linear transactions in Vendr's platform, buyers who engage early, anchor to budget constraints, and evaluate alternatives commonly achieve better pricing than those who accept initial quotes. Volume-based discounts and multi-year terms are frequent levers.\n\n**Benchmarking context:**\n\nFor percentile-based benchmarks and observed pricing ranges tailored to your specific requirements, Vendr's pricing tools analyze comparable deals and surface negotiation patterns by seat count, tier, and contract structure.\n\n# How do you negotiate Linear pricing?\n\nLinear pricing is negotiable, particularly for annual commitments, larger seat counts, and competitive evaluations. These strategies are based on anonymized Linear deals in Vendr's dataset and reflect tactics that have produced favorable outcomes for buyers.\n\n### **1. Engage early and anchor to budget**\n\nStart conversations 60–90 days before your target start date or renewal. Early engagement creates time for competitive evaluation and negotiation. Anchor to a budget constraint rather than accepting the first quote. Vendr data shows that buyers who frame pricing discussions around budget limitations often achieve better outcomes than those who negotiate from the vendor's initial offer.\n\n---\n\n### **2. Commit to annual or multi-year terms**\n\nLinear typically offers lower per-seat pricing for annual prepayment compared to monthly billing. Multi-year commitments can unlock additional discounts. Based on Vendr transaction data, buyers who commit to 2–3 year terms often achieve 15–30% lower per-seat pricing than month-to-month contracts.\n\n---\n\n### **3. Leverage volume and growth projections**\n\nIf your team is growing, negotiate volume-based pricing tiers or discounts based on projected seat count. In Vendr's dataset, buyers who commit to higher seat counts upfront or include growth clauses often secure better per-seat rates.\n\n---\n\n### **4. Evaluate and reference alternatives**\n\nLinear competes with Jira, Asana, ClickUp, and other project management platforms. Buyers who actively evaluate alternatives and reference competitive pricing during negotiations often achieve better outcomes. Vendr data shows that competitive pressure is a common lever for securing discounts.\n\n---\n\n### **5. Negotiate renewal terms and price caps**\n\nReview renewal terms carefully. Negotiate flat renewal pricing or caps on annual price increases (e.g., 3–5% maximum). Based on Vendr transaction data, buyers who lock in favorable renewal terms during initial negotiation often avoid unexpected cost increases.\n\n---\n\n### **6. Clarify overage terms and support levels**\n\nEnsure overage rates, support levels, and SLA terms are clearly defined in the contract. Negotiate favorable overage pricing and confirm what support is included at each tier.\n\n---\n\n### **7. Use timing and fiscal pressure**\n\nLinear, like most SaaS vendors, has fiscal quarters and year-end targets. Buyers who time negotiations around these periods (e.g., end of quarter or year) often secure better pricing as sales teams work to close deals.\n\n---\n\n### **Negotiation Intelligence**\n\nThese insights are based on anonymized Linear deals in Vendr's dataset across a wide range of company sizes and contract structures. Buyers can explore these insights directly using Vendr's free pricing and negotiation tools:\n\n* **Pricing benchmarks:** See what similar companies pay for Linear — target price ranges, percentile-based benchmarks, and comparable deals by seat count and tier.\n* **Competitive context:** Compare Linear to Jira, Asana, and ClickUp — how Linear pricing compares to alternatives for similar requirements.\n* **Negotiation guidance:** Get Linear negotiation playbooks — supplier-specific tactics, timing, leverage, and framing by deal type (new purchase vs. renewal).\n\n---\n\n# How does Linear compare to competitors?\n\nLinear competes with several project management and issue tracking platforms. Pricing varies significantly across alternatives, and understanding these differences helps buyers evaluate total cost and negotiation leverage.\n\n## Linear vs. Jira\n\n### Pricing comparison\n\n| Pricing component | Linear | Jira |\n| --- | --- | --- |\n| Entry-level list pricing | Per user per month (Standard tier) | Per user per month (Standard tier) |\n| Mid-tier list pricing | Per user per month (Plus tier) | Per user per month (Premium tier) |\n| Enterprise pricing | Custom, negotiated | Custom, negotiated |\n| Typical annual discount | 15–30% off list for multi-year terms | 20–35% off list for multi-year terms |\n| Estimated total (50 users, annual) | Varies by tier and negotiation | Varies by tier and negotiation |\n\n### Pricing notes\n\n* Jira's pricing structure is more complex, with multiple product lines (Jira Software, Jira Service Management) and add-ons that can increase total cost.\n* Linear's pricing is generally simpler and more transparent, with fewer add-ons and clearer per-seat rates.\n* In observed Vendr transactions, both vendors commonly negotiate discounts in the range of 20–30% below list for multi-year commitments and larger seat counts.\n* Based on Vendr data, buyers evaluating both platforms often use competitive pricing as leverage to secure better terms from either vendor.\n\n## Linear vs. Asana\n\n### Pricing comparison\n\n| Pricing component | Linear | Asana |\n| --- | --- | --- |\n| Entry-level list pricing | Per user per month (Standard tier) | Per user per month (Starter tier) |\n| Mid-tier list pricing | Per user per month (Plus tier) | Per user per month (Advanced tier) |\n| Enterprise pricing | Custom, negotiated | Custom, negotiated |\n| Typical annual discount | 15–30% off list for multi-year terms | 15–25% off list for multi-year terms |\n| Estimated total (50 users, annual) | Varies by tier and negotiation | Varies by tier and negotiation |\n\n### Pricing notes\n\n* Asana's pricing is comparable to Linear for small to mid-sized teams, but Enterprise pricing can vary widely based on features and support.\n* Linear is often positioned as a developer-focused tool, while Asana targets broader project management use cases.\n* In Vendr's dataset, discounting is common for both platforms, particularly for annual and multi-year commitments.\n* Buyers who evaluate both platforms and anchor to budget constraints often secure better pricing from either vendor.\n\n## Linear vs. ClickUp\n\n### Pricing comparison\n\n| Pricing component | Linear | ClickUp |\n| --- | --- | --- |\n| Entry-level list pricing | Per user per month (Standard tier) | Per user per month (Unlimited tier) |\n| Mid-tier list pricing | Per user per month (Plus tier) | Per user per month (Business tier) |\n| Enterprise pricing | Custom, negotiated | Custom, negotiated |\n| Typical annual discount | 15–30% off list for multi-year terms | 10–20% off list for multi-year terms |\n| Estimated total (50 users, annual) | Varies by tier and negotiation | Varies by tier and negotiation |\n\n### Pricing notes\n\n* ClickUp's list pricing is often lower than Linear's, but total cost depends on features, integrations, and support requirements.\n* Linear's pricing is generally more predictable, while ClickUp's pricing can vary based on add-ons and usage.\n* Based on anonymized Vendr transactions, both vendors commonly negotiate discounts for annual commitments and larger teams.\n* Buyers who evaluate both platforms and reference competitive pricing often achieve better outcomes.\n\n# Linear pricing FAQs\n\n## **Finance & Procurement FAQs**\n\n### **What discounts are available for Linear?**\n\nBased on anonymized Linear transactions in Vendr's platform over the past 12 months:\n\n* **Discounts of 15–30% off list pricing** are common for annual or multi-year commitments.\n* **Volume-based discounts** often apply for teams with 25+ users.\n* **Competitive evaluation** and budget anchoring frequently unlock additional concessions.\n* **Multi-year prepayment** can yield the deepest discounts, particularly for Enterprise plans.\n\nVendr's dataset shows that buyers who engage early, evaluate alternatives, and anchor to budget constraints often achieve **outcomes 25–35% below initial quotes**.\n\n**Negotiation guidance:**\n\nVendr's negotiation playbooks provide supplier-specific tactics, timing, and leverage strategies to help buyers secure better Linear pricing.\n\n---\n\n### **How much can I save by committing to an annual contract?**\n\nBased on Linear transactions in Vendr's database:\n\n* Annual prepayment typically reduces per-seat costs by **15–25%** compared to month-to-month billing.\n* Multi-year commitments (2–3 years) can unlock **savings of 20–30% or more** in total contract value.\n* Buyers who combine annual terms with volume commitments often achieve the best per-seat rates.\n\n**Benchmarking context:**\n\nCompare annual vs. monthly Linear pricing using Vendr's percentile-based benchmarks to understand potential savings for your specific seat count and tier.\n\n---\n\n### **What are typical renewal price increases for Linear?**\n\nBased on anonymized Linear renewal transactions in Vendr's platform:\n\n* **Annual price increases of 5–10%** are common in standard renewal terms.\n* Buyers who negotiate flat renewal pricing or caps during initial purchase often avoid unexpected increases.\n* Renewing buyers who evaluate alternatives and reference competitive pricing commonly secure **flat or reduced renewal rates**.\n\nVendr's dataset shows that buyers who proactively negotiate renewal terms during initial contract discussions often achieve **more predictable and favorable renewal pricing**.\n\n**Negotiation guidance:**\n\nVendr's renewal playbooks provide tactics for negotiating flat renewal pricing, caps"
+    },
+    {
+      "url": "https://www.bardeen.ai/answers/how-much-does-linear-app-cost",
+      "host": "bardeen.ai",
+      "title": "How Much Does Linear App Cost? Full Pricing Breakdown",
+      "description": "Discover Linear App's pricing plans, features, and billing details. Get a complete guide to Linear's costs to choose the best plan for your needs.",
+      "position": 5,
+      "kind": "other",
+      "words": 1442,
+      "headings": 16,
+      "hasOg": true,
+      "answerCoverage": 100,
+      "answerPassage": "Are you considering using Linear for your project management needs but unsure about the pricing?",
+      "text": "Share this page with friends & colleagues\n\nCopy to Clipboard\n\n# how much does linear app cost\n\nLead Generation\n\nPublished on\n\nJuly 28, 2024\n\nAre you considering using Linear for your project management needs but unsure about the pricing? With over 1.5 million users worldwide, Linear has become a popular choice for teams looking to streamline their workflows. In this comprehensive guide, we'll break down Linear's pricing plans and features, so you can determine which option best fits your budget and requirements. Whether you're a small startup or a large enterprise, understanding Linear's costs is crucial for making an informed decision. Let's dive in and explore how much Linear really costs!\n\n## Linear's Pricing Tiers: What You Get at Each Level\n\nLinear offers a range of pricing options to fit the needs and budget of any team, from small startups to large enterprises. Let's take a closer look at what's included in each tier.\n\n### 1. Free Plan: No Cost for Small Teams\n\nLinear's free plan is a great way to get started with the app at no cost. It includes:\n\n* Unlimited members\n* 2 teams\n* 250 active issues (plus unlimited archived issues)\n* Integrations with Slack, GitHub, and Google Sheets\n\nWhile the free plan has some limitations, it's a good fit for small teams just getting started with issue tracking and project management.\n\n### 2. Basic Plan: $8 Per User/Month\n\nStepping up to the Basic plan unlocks additional features and higher limits:\n\n* Everything in the Free plan\n* 5 teams\n* Unlimited issues and file uploads\n* Admin roles for managing permissions\n\nAt $8 per user per month, the Basic plan provides a cost-effective way for growing teams to manage projects in Linear without breaking the bank.\n\n### 3. Business Plan: $12 Per User/Month\n\nFor teams that need even more power and flexibility, the Business plan includes:\n\n* All Basic plan features\n* Linear Asks for customer feedback\n* Unlimited teams\n* Private teams and guest accounts\n* Linear Insights for analytics and reporting\n* Integrations with Zendesk and Intercom\n\nAt $12 per user per month, the Business plan enables advanced functionality for product teams to take their workflows to the next level.\n\n### 4. Enterprise Plan: Custom Pricing\n\nLinear's Enterprise plan is designed for large organizations with specific needs around security, compliance, and support. It builds on the Business plan with:\n\n* Advanced Issue SLAs\n* SAML and SCIM provisioning\n* Granular security controls\n* Dedicated account management\n* Custom terms and uptime SLAs\n\nPricing for the Enterprise plan is customized based on the specific requirements of each customer.\n\nNo matter which plan you choose, Linear's per-user pricing model makes costs predictable and scalable. You only pay for the users you need, and can easily add or remove team members as your needs change.\n\nIn the next section, we'll dive into more details on how Linear's pricing and billing works, including the free plan limitations and discounts for annual billing.\n\n## Understanding Linear's Billing Model and Discounts\n\nLinear offers flexible billing options and special programs to make its pricing accessible for teams of all sizes and types. Let's break down the key details to understand what you'll pay for Linear and how to get the best value.\n\n### 1. Pay Monthly or Annually for Added Savings\n\nAll of Linear's paid plans are available on either a monthly or annual billing cycle. Opting for annual billing earns you a 20% discount compared to the monthly price.\n\nFor example, the Basic plan costs $8 per user per month on monthly billing, but drops to $6.40 per user per month ($76.80 per year) on an annual plan. The Business plan sees a similar discount, going from $12 per user per month down to $9.60.\n\nIf you know you'll be using Linear for the long haul, annual plans offer a way to lock in significant savings. But monthly billing provides more flexibility if you're not ready to commit.\n\n### 2. Prorated Charges for Mid-Cycle Changes\n\nLinear makes it easy to scale your plan up or down as your team's needs change. If you add users in the middle of your billing period, you'll be charged a prorated amount based on the number of days remaining.\n\nSimilarly, removing users mid-cycle will result in a prorated credit that's automatically applied to your next invoice. You won't be charged for users you remove partway through the month or year.\n\nThis flexibility takes the pressure off worrying about the timing of adding or removing team members. Linear ensures you only pay for exactly what you use.\n\n### 3. Easily Manage Billing in Linear's Settings\n\nWorkspace admins can take care of all billing setup and management directly in Linear's settings. Just head to your Workspace settings, then click the Billing tab.\n\nFrom there you can:\n\n* View or change your plan\n* Update payment details\n* Change the billing email\n* See past invoices and charges\n* Add VAT and tax info\n\nLinear's goal is to make billing as seamless as the rest of its product. The in-app billing dashboard puts everything you need at your fingertips.\n\n### 4. Cancel Anytime Without Losing Work\n\nNeed to cancel or downgrade to the free plan? No problem. Linear lets you cancel your paid subscription at any time from the billing settings page.\n\nWhen cancelling, you won't lose any of your existing data. All of your issues, projects, and settings will remain intact. However, you'll be subject to the limits of the free plan, like a cap of 250 active issues.\n\nTo avoid surprises, Linear doesn't offer refunds for unused time when cancelling mid-billing period. But you will maintain your paid plan access through the end of that month or year.\n\n### 5. Special Discounts for Startups, Education, and Non-Profits\n\nTo support teams doing important work, Linear extends special discounted pricing to certain types of organizations:\n\n* Early-stage startups can get up to 6 months free on a Basic or Business plan through Linear's Startup Program.\n* Educational institutions can apply for a discounted rate by emailing Linear from a .edu address with proof of status.\n* Registered non-profits and charities are eligible for a generous 75% discount on Linear's paid plans.\n\nAutomating lead management can help these organizations further by using tools like Bardeen's automation for lead management.\n\n> Bardeen can automate outreach to help you focus more on important work and less on repetitive tasks.\n\nIf you think your team qualifies for any of these programs, it's worth reaching out to Linear's support team for details on how to apply.\n\nLinear's billing model is designed to provide both flexibility and predictability, with discounts that make the app accessible to all kinds of teams. With per-user pricing, you only pay for what you need - and you can always adjust as you grow.\n\nThanks for sticking with us this far! Bet you're feeling like a Linear pricing pro by now. Just don't let all this newfound knowledge go to your head, or you might start charging your coworkers for your expertise.\n\n## Conclusions\n\nUnderstanding Linear's pricing is crucial for teams looking to effectively manage their budget while using the app.\n\nIn this guide, you discovered:\n\n* The details of Linear's pricing plans, from free to enterprise, and what each includes\n* How Linear's billing works, including monthly vs annual options, prorations, and managing payments\n\nDon't let confusion over Linear's cost hold your team back from experiencing this powerful project management tool. For more insights, check out our guide on building a robust sales prospect list to help drive business growth.\n\nJason Gong\n\nHead of Growth\n\n## More articles\n\nProspecting\n\nhow to use apollo.io with linkedin\n\nProject Management\n\nhow to export notes from salesforce\n\nProject Management\n\nhow to add field to report type in salesforce\n\n## \"Our Sales and Ops teams can do more in less time to help serve our customers better.\"\n\nAlex Bouaziz\n\nCo-Founder & CEO at deel.\n\nEnterprise-grade security\n\nSOC 2 Type II, GDPR and CASA Tier 2 and 3 certified — so you can automate with confidence at any scale.\n\n### Frequently asked questions\n\nWhat is Bardeen?\n\nWhat tools does Bardeen replace for me?\n\nWho benefits the most from using Bardeen?\n\nHow does Bardeen integrate with existing tools and systems?\n\nWhat are common use cases I can accomplish with Bardeen?\n\n© Copyright 2025 Bardeen Inc. All rights reserved.\n\nBy clicking **“Accept”**, you agree to the storing of cookies. View our Privacy Policy for more information.\n\nAcceptDenyPreferences\n\nBy clicking **“Accept”**, you agree to the storing of cookies. View our Privacy Policy for more information.\n\nAcceptDenyPreferences"
+    }
+  ],
+  "findings": [
+    {
+      "priority": "medium",
+      "category": "Extraction",
+      "title": "Navigation outweighs content: only 29% of extracted words are prose",
+      "evidence": "292 extracted words, of which ≈84 are in paragraphs; the rest are link lists, menus and footer lines.",
+      "impact": "Retrieval systems chunk the page; when most chunks are menus, the few content chunks rank lower and the page is less likely to be quoted.",
+      "fix": "Wrap the article in <main>/<article>, move repeated menus into <nav>/<footer>, and trim mega-menus and link farms from the page body.",
+      "verify": "Re-run; prose share should rise above 60%.",
+      "source": "https://linear.app/pricing",
+      "confidence": "observed",
+      "id": "F01"
+    },
+    {
+      "priority": "medium",
+      "category": "Structured data",
+      "title": "No JSON-LD structured data",
+      "evidence": "No <script type=\"application/ld+json\"> block in the HTML.",
+      "impact": "Structured data tells search engines and AI systems what the page *is* (an article, a product, an FAQ) and unlocks rich results. Without it, type has to be inferred from prose.",
+      "fix": "Add a JSON-LD block to <head>, for example:\n<script type=\"application/ld+json\">\n{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"Pricing – Linear\",\"url\":\"https://linear.app/pricing\",\"description\":\"Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.\"}\n</script>\nUse Article, Product, FAQPage or SoftwareApplication when they fit the content.",
+      "verify": "Validate at https://validator.schema.org, then re-run SignalScope.",
+      "source": "https://linear.app/pricing",
+      "confidence": "observed",
+      "id": "F02"
+    },
+    {
+      "priority": "low",
+      "category": "Metadata",
+      "title": "Title is 16 characters (shorter than typical)",
+      "evidence": "<title>Pricing – Linear</title>",
+      "impact": "A short title gives search engines little to match the query against and often gets rewritten.",
+      "fix": "Extend the title with the page's main topic, e.g. <title>Pricing – Linear</title>",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://linear.app/pricing",
+      "confidence": "observed",
+      "id": "F03"
+    },
+    {
+      "priority": "low",
+      "category": "Structure",
+      "title": "Heading levels skipped 1 time",
+      "evidence": "h1 → h3: “Free”",
+      "impact": "Skipped levels break the outline that AI tools use to chunk the page into sections, so passages get attached to the wrong topic.",
+      "fix": "Change the jumped headings to the next level down (e.g. <h2> instead of <h3>).",
+      "verify": "Re-run SignalScope: the Technical tab reads the live <head> via TinyFish Fetch (raw HTML) and will show the new value.",
+      "source": "https://linear.app/pricing",
+      "confidence": "observed",
+      "id": "F04"
+    }
+  ],
+  "comparisons": [
+    {
+      "source_url": "https://linear.app/pricing",
+      "label": "Basic Annual Price",
+      "quote": "$10 per user/month\n\nBilled yearly",
+      "interaction": "Read visible text on initial page load.",
+      "importance": "High",
+      "matched": true,
+      "overlap": 100
+    },
+    {
+      "source_url": "https://linear.app/pricing",
+      "label": "AI Usage Requirement",
+      "quote": "** Requires AI creditsView docs",
+      "interaction": "Inspected the footnote text located below the feature comparison table.",
+      "importance": "Low",
+      "matched": true,
+      "overlap": 100
+    }
+  ],
+  "answer": {
+    "text": "Unlimited members 2 teams 250 issues Agent platform Linear Agent",
+    "coverage": 50,
+    "wordOffset": 6,
+    "position": 2,
+    "totalWords": 292,
+    "words": 10,
+    "termsCovered": [
+      "linear"
+    ],
+    "termsMissing": [
+      "pricing"
+    ],
+    "underHeading": "Free"
+  },
+  "score": {
+    "total": 81,
+    "confidence": 100,
+    "grade": "B",
+    "groups": [
+      {
+        "id": "search",
+        "label": "Search visibility",
+        "max": 30,
+        "items": [
+          {
+            "id": "rank",
+            "label": "Exact URL ranks for the target query",
+            "max": 12,
+            "points": 12,
+            "evidence": "Position #1 of 10."
+          },
+          {
+            "id": "discovery",
+            "label": "URL found via site: discovery query",
+            "max": 8,
+            "points": 8,
+            "evidence": "Exact URL returned for its own site: query (indexed)."
+          },
+          {
+            "id": "snippet",
+            "label": "SERP snippet is substantive and on-topic",
+            "max": 5,
+            "points": 5,
+            "evidence": "130 chars; contains query terms."
+          },
+          {
+            "id": "alt",
+            "label": "Also ranks for an alternate phrasing",
+            "max": 5,
+            "points": 5,
+            "evidence": "Position #1 for the alternate phrasing."
+          }
+        ],
+        "earned": 30,
+        "available": 30,
+        "score": 30
+      },
+      {
+        "id": "extraction",
+        "label": "AI extraction",
+        "max": 30,
+        "items": [
+          {
+            "id": "words",
+            "label": "Enough text reaches the extractor",
+            "max": 10,
+            "points": 6,
+            "evidence": "292 words extracted."
+          },
+          {
+            "id": "headings",
+            "label": "Headings survive extraction",
+            "max": 6,
+            "points": 6,
+            "evidence": "5 Markdown headings in the extraction."
+          },
+          {
+            "id": "prose",
+            "label": "Main content outweighs navigation",
+            "max": 7,
+            "points": 0,
+            "evidence": "29% of extracted words are prose (rest are link/menu lines)."
+          },
+          {
+            "id": "block",
+            "label": "No login wall, bot block or empty JS shell",
+            "max": 7,
+            "points": 7,
+            "evidence": "Raw HTML body ≈396 words vs 292 extracted."
+          }
+        ],
+        "earned": 19,
+        "available": 30,
+        "score": 19
+      },
+      {
+        "id": "metadata",
+        "label": "Metadata & structure",
+        "max": 20,
+        "items": [
+          {
+            "id": "title",
+            "label": "Title 30-60 chars",
+            "max": 3,
+            "points": 1.5,
+            "evidence": "16 characters."
+          },
+          {
+            "id": "description",
+            "label": "Meta description 70-160 chars",
+            "max": 3,
+            "points": 3,
+            "evidence": "130 characters."
+          },
+          {
+            "id": "canonical",
+            "label": "Canonical present and self-referencing",
+            "max": 2,
+            "points": 2,
+            "evidence": "Self-referencing canonical."
+          },
+          {
+            "id": "noindex",
+            "label": "No noindex directive",
+            "max": 3,
+            "points": 3,
+            "evidence": "Indexable."
+          },
+          {
+            "id": "og",
+            "label": "Open Graph title/description/image",
+            "max": 2,
+            "points": 2,
+            "evidence": "Complete."
+          },
+          {
+            "id": "twitter",
+            "label": "Twitter card",
+            "max": 1,
+            "points": 1,
+            "evidence": "Present."
+          },
+          {
+            "id": "jsonld",
+            "label": "Valid JSON-LD with a type",
+            "max": 2,
+            "points": 0,
+            "evidence": "None."
+          },
+          {
+            "id": "lang",
+            "label": "<html lang> set",
+            "max": 1,
+            "points": 1,
+            "evidence": "Set."
+          },
+          {
+            "id": "h1",
+            "label": "Exactly one H1",
+            "max": 2,
+            "points": 2,
+            "evidence": "1 <h1> element(s)."
+          },
+          {
+            "id": "outline",
+            "label": "No skipped heading levels",
+            "max": 1,
+            "points": 0,
+            "evidence": "1 skip(s)."
+          }
+        ],
+        "earned": 15.5,
+        "available": 20,
+        "score": 15.5
+      },
+      {
+        "id": "answer",
+        "label": "Answer-ability",
+        "max": 20,
+        "items": [
+          {
+            "id": "coverage",
+            "label": "A single passage covers the query",
+            "max": 10,
+            "points": 6,
+            "evidence": "Best passage covers 50% of query terms."
+          },
+          {
+            "id": "early",
+            "label": "The answer appears early",
+            "max": 5,
+            "points": 5,
+            "evidence": "2% into the document."
+          },
+          {
+            "id": "concise",
+            "label": "The answer is concise",
+            "max": 3,
+            "points": 3,
+            "evidence": "10 words."
+          },
+          {
+            "id": "title",
+            "label": "Title/H1 names the query topic",
+            "max": 2,
+            "points": 2,
+            "evidence": "100% of query terms in title/H1."
+          }
+        ],
+        "earned": 16,
+        "available": 20,
+        "score": 16
+      }
+    ]
+  },
+  "serp": {
+    "intent": [
+      {
+        "kind": "blog",
+        "label": "Blog / guide",
+        "count": 3,
+        "share": 30
+      },
+      {
+        "kind": "other",
+        "label": "Other",
+        "count": 3,
+        "share": 30
+      },
+      {
+        "kind": "forum",
+        "label": "Forum / Q&A",
+        "count": 2,
+        "share": 20
+      },
+      {
+        "kind": "product",
+        "label": "Product / landing",
+        "count": 1,
+        "share": 10
+      },
+      {
+        "kind": "docs",
+        "label": "Documentation",
+        "count": 1,
+        "share": 10
+      }
+    ],
+    "alternate": {
+      "query": "what is linear pricing",
+      "rank": 1
+    },
+    "targetHit": {
+      "position": 1,
+      "title": "Pricing",
+      "url": "https://linear.app/pricing",
+      "snippet": "Use Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+      "site_name": "linear.app"
+    },
+    "discoveryHit": {
+      "position": 1,
+      "title": "Pricing",
+      "url": "https://linear.app/pricing",
+      "snippet": "Use Linear for free with your whole team. Basic $10 per user/month Admin roles. Business $16 per user/month. Trusted by more than 40,000 companies",
+      "site_name": "linear.app"
+    }
+  },
+  "metrics": {
+    "words": 292,
+    "headings": [
+      "Free",
+      "Basic",
+      "Business",
+      "Enterprise",
+      "Built for the future. Available today."
+    ],
+    "proseRatio": 0.2876712328767123,
+    "rank": 1,
+    "sampled": 2,
+    "matched": 2,
+    "coverage": 100,
+    "queryTerms": [
+      "linear",
+      "pricing"
+    ],
+    "missingTerms": [],
+    "blocked": false
+  },
+  "summary": "linear.app/pricing scores 81/100 (B) for “linear pricing” — a few specific gaps keep this page from being fully AI-citable. Strongest area: search visibility (30/30); weakest: ai extraction (19/30). Fix first: Navigation outweighs content: only 29% of extracted words are prose; No JSON-LD structured data.",
+  "limitations": [
+    "Search positions come from one TinyFish Search sample (US, English) at audit time; they are directional, not a universal rank. robots.txt rules are evaluated for the exact path only; HTTP headers (X-Robots-Tag), Search Console data and backlinks are not inspected. Browser observations are agent-reported."
+  ]
+}
